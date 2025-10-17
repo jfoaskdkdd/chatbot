@@ -1,3159 +1,4074 @@
 [
-
+{
+    "nome": "Gessilaine Bessa Nutricionista",
+    "numero": "5534998915333"
+  },
+  {
+    "nome": "Atry Nutricao E Reconexao (nutricionista | Terapia)",
+    "numero": "5534997647474"
+  },
+  {
+    "nome": "Alana Carvalho - Nutricionista: Emagrecimento, Esportiva E Estetica",
+    "numero": "5534924312929"
+  },
+  {
+    "nome": "Nutricionista Jokasta Rocha",
+    "numero": "5534999288110"
+  },
+  {
+    "nome": "Nutricionista Infantil - Debora Santana Alves",
+    "numero": "5534991942018"
+  },
+  {
+    "nome": "Vanessa Pereira",
+    "numero": "5535998799037"
+  },
+  {
+    "nome": "Nutricionista Esportiva Raquel Perin",
+    "numero": "5534992847440"
+  },
+  {
+    "nome": "Nutricionista Liliane Nogueira",
+    "numero": "5534996538023"
+  },
+  {
+    "nome": "Juliana Monique - Nutricionista Em Saquarema: Emagrecimento Saudavel",
+    "numero": "5521965793156"
+  },
+  {
+    "nome": "Mayara Pinheiro | Nutricionista Em Saquarema | Nutricao Clinica | Emagrecimento",
+    "numero": "5522992656836"
+  },
+  {
+    "nome": "Dra. Nanny Zamperine- Metodo Emagreca 15 Kilos Em 21 Dias)",
+    "numero": "5521998633634"
+  },
+  {
+    "nome": "Lucia Orofino Cardoso Nutricionista",
+    "numero": "5521984112343"
+  },
+  {
+    "nome": "Marcia Neves Nutricionista Clinica",
+    "numero": "5522997560738"
+  },
+  {
+    "nome": "Dr. Corassa - Saude Frugal",
+    "numero": "5521981928668"
+  },
+  {
+    "nome": "Nutricionista Dra. Tais Magne",
+    "numero": "5522997651122"
+  },
+  {
+    "nome": "Raiane Nunes - Nutricionista",
+    "numero": "5522997324486"
+  },
+  {
+    "nome": "Nutricionista Daliane Pereira | Saude Da Mulher & Emagrecimento",
+    "numero": "5522999688315"
+  },
+  {
+    "nome": "Nutricionista - Dadiane Carvalho",
+    "numero": "5522998123203"
+  },
+  {
+    "nome": "Jaqueline Custodio Nutricionista",
+    "numero": "5522998328270"
+  },
+  {
+    "nome": "Nutricionista Low Carb Rj.",
+    "numero": "5521997277041"
+  },
+  {
+    "nome": "Ana Figueiredo | Nutricionista Especialista Em Gastroenterologia - Foco Em Intestino - Regiao Dos Lagos (rj)",
+    "numero": "5522999850511"
+  },
+  {
+    "nome": "Nutricionista, Jessica Alves",
+    "numero": "5522992596974"
+  },
+  {
+    "nome": "Jaqueline Palermo - Nutricionista",
+    "numero": "5522998705064"
+  },
+  {
+    "nome": "Aster Clinica Multidisciplinar",
+    "numero": "5522997169312"
+  },
+  {
+    "nome": "Nutricionista Funcional - Marisa' Alves",
+    "numero": "5521990112225"
+  },
+  {
+    "nome": "Thiago Vitorazzi - Nutricionista",
+    "numero": "5516997009861"
+  },
+  {
+    "nome": "Nutricionista Alicia Botion",
+    "numero": "5519996919888"
+  },
+  {
+    "nome": "Nutricionista - Lucas Fenerich",
+    "numero": "5516997023337"
+  },
+  {
+    "nome": "Luzania Martins, Nutricionista Em Ribeirao Preto",
+    "numero": "5516992347571"
+  },
+  {
+    "nome": "Luciana Conut - Nutricionista Em Ribeirao Preto | Jejum Intermitente, Ciclo Circadiano E Saude Hormonal",
+    "numero": "5516988332871"
+  },
+  {
+    "nome": "Gabriela Lazarini - Nutricionista Em Ribeirao Preto: Emagrecimento | Inflamacao | Comer Emocional",
+    "numero": "5519998895701"
+  },
+  {
+    "nome": "Douglas Campos - Nutricionista Esportivo Online Em Ribeirao Preto",
+    "numero": "5516994128533"
+  },
+  {
+    "nome": "Consulta Nutricionista Online - Joice Almeida, Nutricionista Em Ribeirao Preto",
+    "numero": "5516993325186"
+  },
+  {
+    "nome": "Clinica De Diagnostico E Cuidado Nutricional Andreia Bim",
+    "numero": "5516982554660"
+  },
+  {
+    "nome": "Nutricionista Integrativa Carla Goncalves",
+    "numero": "5516991942460"
+  },
+  {
+    "nome": "Laira Peracini - Nutricionista Ribeirao Preto",
+    "numero": "5516992057809"
+  },
+  {
+    "nome": "Dr. Eduardo Reis - Nutricionista Clinico E Esportivo Em Ribeirao Preto E Uberlandia",
+    "numero": "5516988128753"
+  },
+  {
+    "nome": "Kauan Wagnitz - Nutricionista Em Ribeirao Preto - Emagrecimento E Nutricao Esportiva",
+    "numero": "5516999635444"
+  },
+  {
+    "nome": "Bruna Silvestre Francoso - Nutricionista",
+    "numero": "5519993047090"
+  },
+  {
+    "nome": "Nutri Ruiz | Clinica De Nutricao",
+    "numero": "5516997662332"
+  },
+  {
+    "nome": "Dr. Amir Horiquini - Nutricionista",
+    "numero": "5517991467007"
+  },
+  {
+    "nome": "Milena Barbon - Endometriose E Emagrecimento",
+    "numero": "5516981120022"
+  },
+  {
+    "nome": "Leticia Falquetti - Nutricionista Ribeirao Preto",
+    "numero": "5516996217840"
+  },
+  {
+    "nome": "Nutricionista Leonardo Meirelles",
+    "numero": "5516992274142"
+  },
+  {
+    "nome": "Nutricionista - Gabriela Negrisolo - Nutricao Esportiva, Emagrecimento, Saude E Qualidade De Vida",
+    "numero": "5516991711354"
+  },
+  {
+    "nome": "Lucas Mendonca Nutricionista",
+    "numero": "5514997879840"
+  },
+  {
+    "nome": "Nutricionista Ribeirao Preto Matheus Alves - Emagrecimento E Hipertrofia (ganho De Massa Muscular)",
+    "numero": "5516991171026"
+  },
+  {
+    "nome": "Nutricionista Esportiva Gabriela Poltronieri",
+    "numero": "5511976718282"
+  },
+  {
+    "nome": "Murilo Alarcon - Nutricionista Ribeirao Preto",
+    "numero": "5516996275541"
+  },
+  {
+    "nome": "Nutricionista Hugo Comparotto - Instituto Comparotto",
+    "numero": "5516996052220"
+  },
+  {
+    "nome": "Nutricionista - Gabi Bailao",
+    "numero": "5516981241070"
+  },
+  {
+    "nome": "Nutricionista Luara Sena",
+    "numero": "5516992612768"
+  },
+  {
+    "nome": "Dra. Fernanda Freitas - Nutricionista Especialista Em Saude Da Mulher",
+    "numero": "5516996440181"
+  },
+  {
+    "nome": "Nutricionista Cristina Trovo | Emagrecimento | Obesidade | Ribeirao Preto",
+    "numero": "5516997105595"
+  },
+  {
+    "nome": "Nutricionista Em Ribeirao Preto - Thamara Buttros",
+    "numero": "5514996280791"
+  },
+  {
+    "nome": "Pollyane Figueiredo * Nutricionista",
+    "numero": "5516991957336"
+  },
+  {
+    "nome": "Nutricionista Debora Savassi",
+    "numero": "5516988417317"
+  },
+  {
+    "nome": "Savannah Engracia Garcia - Nutricao Funcional, Saude Da Mulher, Estetica E Emagrecimento.",
+    "numero": "5516982037471"
+  },
+  {
+    "nome": "Dra. Susana Merino - Nutricionista Em Ribeirao Preto",
+    "numero": "5516982199227"
+  },
+  {
+    "nome": "Nutricionista Isabela Hanna",
+    "numero": "5516991481166"
+  },
+  {
+    "nome": "Fernanda Tiemi - Nutricionista Clinica E Esportiva Em Ribeirao Preto",
+    "numero": "5516997551088"
+  },
+  {
+    "nome": "Luiza Vercezi | Nutricionista Ribeirao Preto",
+    "numero": "5516996013343"
+  },
+  {
+    "nome": "Nutricionista Dra Paula Arroyo",
+    "numero": "5516991314058"
+  },
+  {
+    "nome": "Gabriel Beck - Nutricionista Esportivo",
+    "numero": "5516991126169"
+  },
+  {
+    "nome": "Carolina Leipner | Nutricionista Especialista Em Emagrecimento E Definicao Muscular",
+    "numero": "5516997711531"
+  },
+  {
+    "nome": "Nutricionista Carla Momenti",
+    "numero": "5516992269733"
+  },
+  {
+    "nome": "Nutricionista Dra. Daiana Maeda",
+    "numero": "5516981284746"
+  },
+  {
+    "nome": "Thais Marcondes - Nutricionista Em Ribeirao Preto",
+    "numero": "5516996441101"
+  },
+  {
+    "nome": "Consultorio Nutricionista Gustavo Giovanni",
+    "numero": "5516992744858"
+  },
+  {
+    "nome": "Carlos Do Val - Nutricionista Esportivo",
+    "numero": "5516991661550"
+  },
+  {
+    "nome": "Vivian Cognetti - Nutricionista",
+    "numero": "5516982295482"
+  },
+  {
+    "nome": "Roberta Taveira - Nutricionista Em Gerontologia E Oncologia",
+    "numero": "5516992103347"
+  },
+  {
+    "nome": "Dr. Caio Rezende - Nutricionista",
+    "numero": "5516997450755"
+  },
+  {
+    "nome": "Nutricionista Ana Cecilia Botelho",
+    "numero": "5516981833300"
+  },
+  {
+    "nome": "Mave Clinica De Nutricao",
+    "numero": "5516997904805"
+  },
+  {
+    "nome": "Nutricionista Jessica Milena",
+    "numero": "5516981897826"
+  },
+  {
+    "nome": "Julia Ribeiro Nutricionista",
+    "numero": "5516997979521"
+  },
+  {
+    "nome": "Nutricionista Compulsao Alimentar, Ansiedade - Dra Perla Menezes",
+    "numero": "5516993282256"
+  },
+  {
+    "nome": "Nutricionista Talita Franca | Emagrecimento E Saude Da Mulher 40+",
+    "numero": "5516981938234"
+  },
+  {
+    "nome": "Nutricionista Claudimara Milanez",
+    "numero": "5519991384066"
+  },
+  {
+    "nome": "Juliana Angeloni Pieri Nutricionista | Ribeirao Preto",
+    "numero": "5516997690912"
+  },
+  {
+    "nome": "Nutricionista Bruno Barreira",
+    "numero": "5516981480042"
+  },
+  {
+    "nome": "Gislaine Kikugava Nutricionista",
+    "numero": "5516993236984"
+  },
+  {
+    "nome": "Nutricionista Comportamental - Luisa Pimenta",
+    "numero": "5516993964387"
+  },
+  {
+    "nome": "Nutricionista Mayara Rodrigues",
+    "numero": "5516992808470"
+  },
+  {
+    "nome": "Angelica Galeti - Nutricionista Especializada Em Nutrigenetica E Saude Da Mulher",
+    "numero": "5516997826270"
+  },
+  {
+    "nome": "Nutricionista Ana Carolina Carvalho",
+    "numero": "5516996021466"
+  },
+  {
+    "nome": "Luiza Lujan - Nutricionista Comportamental E Transtornos Alimentares",
+    "numero": "5516997750805"
+  },
+  {
+    "nome": "Nutricionista - Yago Viccari",
+    "numero": "5516981086604"
+  },
+  {
+    "nome": "Paula Tait - Nutricionista Materno Infantil (tentantes, Gestantes, Bebes E Criancas) - Ribeirao Preto",
+    "numero": "5516993117179"
+  },
+  {
+    "nome": "Dra. Izabela Santos - Nutricionista Ribeirao Preto",
+    "numero": "5516981162901"
+  },
+  {
+    "nome": "Nutricionista Juliana Damante",
+    "numero": "5516992535060"
+  },
+  {
+    "nome": "Nutricionista Maria Dias - Emagrecimento- Comportamento Alimentar E Compulsao Alimentar",
+    "numero": "5516997780308"
+  },
+  {
+    "nome": "Dr. Ramon Nicotari | Nutricionista",
+    "numero": "5516997820822"
+  },
+  {
+    "nome": "Nutricionista Barbara Vercesi",
+    "numero": "5516993080480"
+  },
+  {
+    "nome": "Nutricionista Carolina Marincolo",
+    "numero": "5516991960708"
+  },
+  {
+    "nome": "Nutricionista Wigna Alves | Comportamento Alimentar",
+    "numero": "5516997834903"
+  },
+  {
+    "nome": "Amanda Landim - Nutricionista",
+    "numero": "5517981032020"
+  },
+  {
+    "nome": "Nutricionista Danilo Lima",
+    "numero": "5516988441477"
+  },
+  {
+    "nome": "Eduarda Ruiz - Nutricionista Em Ribeirao Preto",
+    "numero": "5517992109368"
+  },
+  {
+    "nome": "Nutricionista Especialista Em Emagrecimento Em Ribeirao Preto",
+    "numero": "5516991281312"
+  },
+  {
+    "nome": "A Minha Nutricionista Thais Fiurst",
+    "numero": "5516994069934"
+  },
+  {
+    "nome": "Nutricionista Roberta Saltarelli",
+    "numero": "5516991081376"
+  },
+  {
+    "nome": "Patricia Pagioli - Nutricionista Comportamental Em Ribeirao Preto",
+    "numero": "5516991067598"
+  },
+  {
+    "nome": "Nutricionista Dennis Mello",
+    "numero": "5516993090199"
+  },
+  {
+    "nome": "Josy Perez Nutricionista",
+    "numero": "5516988191911"
+  },
+  {
+    "nome": "Nutricionista Leticia Wolf",
+    "numero": "5516997359723"
+  },
+  {
+    "nome": "Nutricionista Ribeirao Preto - Dra.tatiane Trevilato- Consultorio De Nutricao",
+    "numero": "5516991358587"
+  },
+  {
+    "nome": "Nutricionista Leticia Vitorello",
+    "numero": "5516994102191"
+  },
+  {
+    "nome": "Carla Irai Ferreira - Nutricionista Comportamental E Materno Infantil Em Ribeirao Preto",
+    "numero": "5516991115004"
+  },
+  {
+    "nome": "Luiza Helena | Nutricionista Comportamental",
+    "numero": "5516997689292"
+  },
+  {
+    "nome": "Nina Furtado Nutricionista",
+    "numero": "5516997993012"
+  },
+  {
+    "nome": "Jowanka Nutricionista",
+    "numero": "5516982016664"
+  },
+  {
+    "nome": "Nutricionista Gabriela Manzan",
+    "numero": "5516997754514"
+  },
+  {
+    "nome": "Nutricionista Beatriz Souza",
+    "numero": "5516991751177"
+  },
+  {
+    "nome": "Taynara Almeida- Nutricionista Esportiva",
+    "numero": "5516981070247"
+  },
+  {
+    "nome": "Estela Borges Nutricionista - Ribeirao Preto",
+    "numero": "5516991868295"
+  },
+  {
+    "nome": "Nutricionista Dra. Camila Santos",
+    "numero": "5516997082392"
+  },
+  {
+    "nome": "Nutricionista Bruna Oliveira",
+    "numero": "5516991421242"
+  },
+  {
+    "nome": "Beatriz Kawano - Nutricionista E Personal Chef",
+    "numero": "5516997273284"
+  },
+  {
+    "nome": "Vivian Amin Nutricionista Especializada Em Emagrecimento E Doencas Cronicas - Obesidade",
+    "numero": "5516991067816"
+  },
+  {
+    "nome": "Karen Kanashiro Nutricionista",
+    "numero": "5516996448605"
+  },
+  {
+    "nome": "Nutricionista Esportiva Iasmin Marcandalli",
+    "numero": "5516996046947"
+  },
+  {
+    "nome": "Nutricionista Paula Gornati",
+    "numero": "5516993350426"
+  },
+  {
+    "nome": "Nutricionista Gabriella De Oliveira",
+    "numero": "5516981198705"
+  },
+  {
+    "nome": "Nutricionista Danielle A. Fernandes Dos Santos",
+    "numero": "5516996232347"
+  },
+  {
+    "nome": "Elen Pessina - Nutricionista Materno Infantil - Ribeirao Preto",
+    "numero": "5516997079936"
+  },
+  {
+    "nome": "Carolina Feresin - Nutricionista Oncologica Em Ribeirao Preto E Online",
+    "numero": "5516991478440"
+  },
+  {
+    "nome": "Italo Rhigel - Nutricionista Especializado Em Nutrigenetica",
+    "numero": "5516982550669"
+  },
+  {
+    "nome": "Livia Diniz Nutricionista",
+    "numero": "5516981476333"
+  },
+  {
+    "nome": "Manuela Desiderio Nutricionista",
+    "numero": "5516999911909"
+  },
+  {
+    "nome": "Ana Julia - Nutricionista - Ribeirao Preto - Esportiva E Estetica",
+    "numero": "5516997881601"
+  },
+  {
+    "nome": "Nutricionista Esportiva - Taciane Goncalves",
+    "numero": "5516992314915"
+  },
+  {
+    "nome": "Giovana Torres Nutricionista",
+    "numero": "5516993022310"
+  },
+  {
+    "nome": "Dra.deborah Zanotti Nutricionista",
+    "numero": "5527999105029"
+  },
+  {
+    "nome": "Dra. Rahenzza Sagrillo Nutricionista",
+    "numero": "5527999135953"
+  },
+  {
+    "nome": "Pollyana Dias - Nutricionista",
+    "numero": "5527996456715"
+  },
+  {
+    "nome": "Eduardo Medani Nutricionista Em Serra - Es",
+    "numero": "5527992762765"
+  },
+  {
+    "nome": "Nutricionista Sarah Ghisolfi",
+    "numero": "5527995054897"
+  },
+  {
+    "nome": "Nutri Valeria Carreiro | Menopausa E Climaterio",
+    "numero": "5527981712371"
+  },
+  {
+    "nome": "Nutres - Centro Integrado De Saude E Bem-estar",
+    "numero": "5527998421926"
+  },
+  {
+    "nome": "Nutricionista Lurdiane Brandao - Nutricao Clinica Geral E Especialista Em Dieta Enteral",
+    "numero": "5527997005856"
+  },
+  {
+    "nome": "Karina Borges - Nutricionista Online: Endometriose E Saude Da Mulher",
+    "numero": "5531985136421"
+  },
+  {
+    "nome": "Gian Carlo - Nutricionista",
+    "numero": "5527999851402"
+  },
+  {
+    "nome": "Nutricionista Maria Rita",
+    "numero": "5527999083794"
+  },
+  {
+    "nome": "Nutricionista Gessica Aguiar - Saude Da Mulher, Endometriose, Infertilidade, Menopausa, Sop - Em Serra/es",
+    "numero": "5527992689095"
+  },
+  {
+    "nome": "Dra Thays Rodrigues, Nutricionista",
+    "numero": "5527981528984"
+  },
+  {
+    "nome": "Clinica De Nutricao Dr. Daniel Lopes",
+    "numero": "5527998943909"
+  },
+  {
+    "nome": "Dra. Ana Paula Figueiredo - Nutricao Esportiva E Emagrecimento",
+    "numero": "5527998007691"
+  },
+  {
+    "nome": "Rotsen Elaine Lima - Nutricionista E Biomedica - Emagrecimento, Acupuntura E Estetica Avancada..",
+    "numero": "5527981123323"
+  },
+  {
+    "nome": "Nutricionista Emily Prata",
+    "numero": "5527998708017"
+  },
+  {
+    "nome": "Nutressence - Nutricao Clinica E Esportiva",
+    "numero": "5527997728933"
+  },
+  {
+    "nome": "Clinica Imperio",
+    "numero": "5527999858181"
+  },
+  {
+    "nome": "Yasmin Franco - Nutricionista Em Laranjeiras/serra Para Emagrecimento",
+    "numero": "5527993119217"
+  },
+  {
+    "nome": "Zilma Buthe - Nutricionista Em Laranjeiras (serra) E Vila Velha : Grandes Emagrecimentos",
+    "numero": "5527996652002"
+  },
+  {
+    "nome": "Jessika Butcovsky Nutricionista",
+    "numero": "5527997815753"
+  },
+  {
+    "nome": "Glow Clinic",
+    "numero": "5527999210979"
+  },
+  {
+    "nome": "Guilherme Santos Nutricionista",
+    "numero": "5527998396868"
+  },
+  {
+    "nome": "Metodo Fran Rodrigues",
+    "numero": "5527995741152"
+  },
+  {
+    "nome": "Daiane Amorim | Nutricionista Materno Infantil",
+    "numero": "5527981574604"
+  },
+  {
+    "nome": "Nutricionista Lorena Bucher",
+    "numero": "5527988277551"
+  },
+  {
+    "nome": "Valesca Medeiros Nutricionista",
+    "numero": "5527993272626"
+  },
+  {
+    "nome": "Solange Rodrigues - Nutricionista",
+    "numero": "5527992976221"
+  },
+  {
+    "nome": "Carla Souza - Nutricionista",
+    "numero": "5527998961730"
+  },
+  {
+    "nome": "Lucas Fonseca Nutricionista",
+    "numero": "5527920012675"
+  },
+  {
+    "nome": "Nathalia Capita | Nutricionista Clinica, Serra - Es",
+    "numero": "5527998143709"
+  },
+  {
+    "nome": "Unare Instituto De Saude Integrativa",
+    "numero": "5527998005161"
+  },
+  {
+    "nome": "Dra. Emmily Rocha - Nutricionista Clinica E Esportiva Jardim Camburi",
+    "numero": "5527992534969"
+  },
+  {
+    "nome": "Julia Poltronieri | Nutricionista Em Vitoria - Es",
+    "numero": "5527999166936"
+  },
+  {
+    "nome": "Aline Porto Nutricionista",
+    "numero": "5527999920227"
+  },
+  {
+    "nome": "Alice Scarpati Nutricionista",
+    "numero": "5527997301413"
+  },
+  {
+    "nome": "Cordelia Lavinia Nutricionista",
+    "numero": "5527997972400"
+  },
+  {
+    "nome": "Camila Mag: Emagrecimento Complexo, Saude Intestinal, Resistencia A Insulina, Diabetes, Alergia E Intolerancia Alimentar",
+    "numero": "5527997817778"
+  },
+  {
+    "nome": "Ciclo Saude - Serra",
+    "numero": "5527995028050"
+  },
+  {
+    "nome": "Natalia Mapa Nutricionista",
+    "numero": "5527981087406"
+  },
+  {
+    "nome": "Espaco Para Viver",
+    "numero": "5527997471849"
+  },
+  {
+    "nome": "Nutricionista Abia Maciel",
+    "numero": "5527996359347"
+  },
+  {
+    "nome": "Gabriel Amancio | Nutricionista",
+    "numero": "5527998141058"
+  },
+  {
+    "nome": "Joao Menendes - Nutricao Com Identidade",
+    "numero": "5527992991184"
+  },
+  {
+    "nome": "Nutricionista Uyara Pinheiro",
+    "numero": "5527996912772"
+  },
+  {
+    "nome": "Dra Leticia Castelan - Nutricionista Infantil",
+    "numero": "5527995213255"
+  },
+  {
+    "nome": "Gabriela Rebello Nutricionista | Saude Feminina",
+    "numero": "5527992766317"
+  },
+  {
+    "nome": "Nutricionista Duda Amaral",
+    "numero": "5527992623000"
+  },
+  {
+    "nome": "Dra. Rebeca Machado",
+    "numero": "5527998855847"
+  },
+  {
+    "nome": "Naturalmente Conectados - Serra",
+    "numero": "5527996284262"
+  },
+  {
+    "nome": "Carlena Pupa Nutricionista Comportamental Vitoria",
+    "numero": "5527998097267"
+  },
+  {
+    "nome": "Clinica De Estetica Avancada - Dra Aline Eleuterio",
+    "numero": "5527996638014"
+  },
+  {
+    "nome": "Espaco Saude Multiclin",
+    "numero": "5527998458336"
+  },
+  {
+    "nome": "Saude Feminina Vix",
+    "numero": "5527999013322"
+  },
+  {
+    "nome": "Nutricionista Laysa Sagrillo",
+    "numero": "5527996458840"
+  },
+  {
+    "nome": "Bem Estar Academia - Bairro De Fatima",
+    "numero": "5527996695231"
+  },
+  {
+    "nome": "Clinica Vix Saude",
+    "numero": "5527998647495"
+  },
+  {
+    "nome": "Instituto Ernesto Neto",
+    "numero": "5527992240031"
+  },
+  {
+    "nome": "Saudecare",
+    "numero": "5527981265591"
+  },
+  {
+    "nome": "Nutricionista Stela Perim",
+    "numero": "5527999457001"
+  },
+  {
+    "nome": "Boas Praticas Assessoria E Consultoria",
+    "numero": "5527999086191"
+  },
+  {
+    "nome": "Atendimento Psicologico Maxima Mente Espaco Integrado Multiprofissional",
+    "numero": "5527992968888"
+  },
+  {
+    "nome": "Nutricionista Susi Araujo",
+    "numero": "5527981382761"
+  },
+  {
+    "nome": "Gn Home Care Assistencia Domiciliar Ltda",
+    "numero": "5527992546974"
+  },
+  {
+    "nome": "Modelly Estetica Emagrecimento E Terapias Integradas",
+    "numero": "5527999675985"
+  },
+  {
+    "nome": "Fabio Renner - Nutricionista",
+    "numero": "5527992879064"
+  },
+  {
+    "nome": "Hevilin Assis Nutricionista Esportiva, Clinica E Funcional Em Vitoria - Es",
+    "numero": "5527997545686"
+  },
+  {
+    "nome": "Flor De Lotus - Espaco Integrado Para Mulheres",
+    "numero": "5527992461439"
+  },
+  {
+    "nome": "Nutricionista Daiana Tineli",
+    "numero": "5527992727208"
+  },
+  {
+    "nome": "Ana Paula Azeredo Nutricionista",
+    "numero": "5527996903046"
+  },
+  {
+    "nome": "Zelia Bento Nutricionista",
+    "numero": "5527996099995"
+  },
+  {
+    "nome": "Save | Clinica De Saude E Beleza",
+    "numero": "5527981847922"
+  },
+  {
+    "nome": "Nutricionista Thais Cortelete - Performance, Emagrecimento E Hipertrofia",
+    "numero": "5527997574100"
+  },
+  {
+    "nome": "Maria Maia Nutricionista",
+    "numero": "5527999997341"
+  },
+  {
+    "nome": "Instituto Eva",
+    "numero": "5527999049879"
+  },
+  {
+    "nome": "Ideale - Clinica De Especialidades",
+    "numero": "5527992758092"
+  },
+  {
+    "nome": "Instituto Antahkarana",
+    "numero": "5527999080808"
+  },
+  {
+    "nome": "Larice Matos Nutricionista Em Vitoria",
+    "numero": "5527981506953"
+  },
+  {
+    "nome": "Dra. Cintia Bemfica",
+    "numero": "5527998046869"
+  },
+  {
+    "nome": "Rodrigo Marins | Nutricionista",
+    "numero": "5521999818863"
+  },
+  {
+    "nome": "Clinica Aps | Especialidades Medicas",
+    "numero": "5527996338860"
+  },
+  {
+    "nome": "Qualita Seguranca E Qualidade Dos Alimentos",
+    "numero": "5527997322983"
+  },
+  {
+    "nome": "Eliany Bahiense Nutricionista",
+    "numero": "5527998255142"
+  },
+  {
+    "nome": "Layla Lemos - Nutricionista Clinica Especialista Em Doencas Renais E Oncologicas | Vitoria - Es",
+    "numero": "5527988633284"
+  },
+  {
+    "nome": "Nutricionista Laura Dona",
+    "numero": "5527996200810"
+  },
+  {
+    "nome": "Nutricionista Camila Silva",
+    "numero": "5527995235108"
+  },
+  {
+    "nome": "Consultorio De Nutricao Luana Gois",
+    "numero": "5527992884975"
+  },
+  {
+    "nome": "Nutricionista Em Vitoria - Vinicius Firme",
+    "numero": "5527996342823"
+  },
+  {
+    "nome": "Nutricionista Infantil - Raquel Nogueira",
+    "numero": "5527998456366"
+  },
+  {
+    "nome": "Dra. Pollyana Machado- Nutricionista",
+    "numero": "5527997172275"
+  },
+  {
+    "nome": "Nutricionista Filipe Barcelos",
+    "numero": "5527995182549"
+  },
+  {
+    "nome": "Dra.edivania Dias - (nutricionista)",
+    "numero": "5522997489121"
+  },
+  {
+    "nome": "Nutricionista Em Campos Dos Goytacazes | Thais Serafim",
+    "numero": "5522999257889"
+  },
+  {
+    "nome": "Nutricionista Juliane Alvarenga",
+    "numero": "5521975472222"
+  },
   {
-    "nome": "Dentista Tijuca-rio De Janeiro Dra Erica Lopes",
-    "numero": "5521965868967"
+    "nome": "Nutricionista Vanessa Tugores",
+    "numero": "5522998145057"
   },
   {
-    "nome": "Rs Odontologia",
-    "numero": "5521995010580"
+    "nome": "Nutricionista Thiago Louback",
+    "numero": "5522997491213"
   },
   {
-    "nome": "Service Odonto Riachuelo",
-    "numero": "5521987442039"
+    "nome": "Guilherme Morais Nutricionista Em Campos Dos Goytacazes",
+    "numero": "5522999106602"
   },
   {
-    "nome": "Dentista No Meier - Pedro Augusto Odontologia",
-    "numero": "5521966182020"
+    "nome": "Tiago Souza - Nutricionista Em Campos Dos Goytacazes: Nutricionista Esportivo E Vegetariano",
+    "numero": "5522998482242"
   },
   {
-    "nome": "Clinica Dentistas:)smile",
-    "numero": "5521987374171"
+    "nome": "Dra.camilla Carneiro - (nutricionista Clinica)",
+    "numero": "5522996081170"
   },
   {
-    "nome": "Clinica Odonto Rio Iraja",
-    "numero": "5521993554421"
+    "nome": "Nutricionista Kathellen Tamer - Atendimento Campos Presencial Ou Online",
+    "numero": "5522996130838"
   },
   {
-    "nome": "Gilaberte Estetica E Odontologia | Harmonizacao Facial | Botox | Dentista | Implante | Protese | Centro Rio De Janeiro Rj",
-    "numero": "5521988821605"
+    "nome": "Ninna Souza - (nutricionista Clinica / Esportiva) Particular (bioimpedancia Inbory ), Bradesco, Petrobras E Unimed",
+    "numero": "5522999200078"
   },
   {
-    "nome": "Atelie Dental",
-    "numero": "5521987890674"
+    "nome": "Maria Ines Paes - Nutricao Holistica",
+    "numero": "5522992347065"
   },
   {
-    "nome": "Service Odonto Catumbi",
-    "numero": "5521987442039"
+    "nome": "Leticya Araujo - Nutricionista Comportamental E Renal",
+    "numero": "5522997922391"
   },
   {
-    "nome": "Clinica Blu | Dentista Em Brasilia",
-    "numero": "5561983413338"
+    "nome": "Alinne Nunes Nutricionista Materno Infantil",
+    "numero": "5522999598801"
   },
   {
-    "nome": "Odontomaxx",
-    "numero": "5561986740276"
+    "nome": "Karol Escafura Nutricionista",
+    "numero": "5522992540231"
   },
   {
-    "nome": "Sun Odontologia | Alinhadores | Implantes | Harmonizacao Orofacial",
-    "numero": "5561999848728"
+    "nome": "Espaco Adriana Souza Nutricionista - Saude Da Mulher",
+    "numero": "5522998907088"
   },
   {
-    "nome": "Crie Odontologia",
-    "numero": "5561983380008"
+    "nome": "Paula Cabral Azevedo - Nutricionista Em Campos Rj: Fertilidade",
+    "numero": "5522996041261"
   },
   {
-    "nome": "Centro Clinico Mais Brasilia",
-    "numero": "5561982413121"
+    "nome": "Larissa Toledo - Nutricionista",
+    "numero": "5522997990157"
   },
   {
-    "nome": "Dentista - Clinica Odontologica Boca E Saude",
-    "numero": "5561981389320"
+    "nome": "Nutricionista Jessica Sanguedo",
+    "numero": "5522998619916"
   },
   {
-    "nome": "Clinisul",
-    "numero": "5561999490274"
+    "nome": "Liliane Ribeiro Nutricionista",
+    "numero": "5522998323651"
   },
   {
-    "nome": "Maison Odontologia Especializada",
-    "numero": "5561991434312"
+    "nome": "Isabela Nolasco Nutricionista",
+    "numero": "5522998018510"
   },
   {
-    "nome": "Renilda Vasconcelos Odontologia - Dentista Brasilia",
-    "numero": "5561981434117"
+    "nome": "Nutricionista Esportiva Funcional Aplicada A Saude Da Mulher - Gabriela Goncalves",
+    "numero": "5522996139594"
   },
   {
-    "nome": "Clinica Odontologica Pio Xii",
-    "numero": "5561981649740"
+    "nome": "Pedro Bezerra - Nutricionista",
+    "numero": "5522999924422"
   },
   {
-    "nome": "Aodonto",
-    "numero": "5561994331286"
+    "nome": "Nutri Michele Lopes",
+    "numero": "5522999470891"
   },
   {
-    "nome": "Clinica Ortobrasilia",
-    "numero": "5561998683904"
+    "nome": "Vital Clinica De Especialidades",
+    "numero": "5522999038180"
   },
   {
-    "nome": "Ortomix Solucoes Esteticas Clinica Odontologica",
-    "numero": "5561984358631"
+    "nome": "Nutricionista Karine Rangel",
+    "numero": "5522996119852"
   },
   {
-    "nome": "Clinica Implanthos",
-    "numero": "5561991225571"
+    "nome": "Nutricionista Claudia Lougon - Modulacao Intestinal E Saude Feminina",
+    "numero": "5522992677718"
   },
   {
-    "nome": "Dra. Helianne Figueiredo Dentista Asa Sul Brasilia Luminy",
-    "numero": "5561995101163"
+    "nome": "Helena Paes Nutricionista",
+    "numero": "5522997082609"
   },
   {
-    "nome": "Dra. Marina Sales",
-    "numero": "5561996692283"
+    "nome": "Nutricionista Jaqueline Barbosa",
+    "numero": "5522999190964"
   },
   {
-    "nome": "Oralclin Df",
-    "numero": "5561985547600"
+    "nome": "Dr. Linyk Machado - Nutricionista",
+    "numero": "5522998790615"
   },
   {
-    "nome": "Dra Jessyka Braga Dentista Em Brasilia",
-    "numero": "5561982413121"
+    "nome": "Dr.dan Riscado - (nutricionista)",
+    "numero": "5521979502687"
   },
   {
-    "nome": "Odontocompany",
-    "numero": "5561992495272"
+    "nome": "Dra Anne Sardinha - Nutricao Clinica, Esportiva E Comportamental.",
+    "numero": "5522999208695"
   },
   {
-    "nome": "Ampla Odontologia",
-    "numero": "5561995385757"
+    "nome": "Ana Carolina Chatel Cunha",
+    "numero": "5522988134559"
   },
   {
-    "nome": "Clinica Dental Concept",
-    "numero": "5561996660471"
+    "nome": "Natalia Muniz Nutricionista",
+    "numero": "5522998205002"
   },
   {
-    "nome": "Odontocentro",
-    "numero": "5561984653263"
+    "nome": "Nutricionista Materno Infantil Gessica Teixeira",
+    "numero": "5522999783047"
   },
   {
-    "nome": "Amberget Odontologia | Dentista Na Asa Norte",
-    "numero": "5561992097846"
+    "nome": "Nutricionista Lais Cavalcanti",
+    "numero": "5522999826878"
   },
   {
-    "nome": "Ms Odontologia",
-    "numero": "5561982484140"
+    "nome": "Nutricionista Leticia Pessanha",
+    "numero": "5522988347587"
   },
   {
-    "nome": "All Prime Clinica Odontologica E Estetica",
-    "numero": "5561984544044"
+    "nome": "Luciana Braga Nutricao - Nutricionista Em Goytacazes Rj",
+    "numero": "5522997634965"
   },
   {
-    "nome": "Dra Virna Patusco Dtm E Dor Orofacial, Odontologia Do Sono E Ortodontia",
-    "numero": "5561999659754"
+    "nome": "Jheissy Telefe Nutricionista",
+    "numero": "5522998924003"
   },
   {
-    "nome": "Lule Odontologia Criative",
-    "numero": "5561986250942"
+    "nome": "Jocilane Gil Nutricionista Clinica - Atendimentos Clinica Magnificat(medical Center) E Clinica Revitare Life (centro)",
+    "numero": "5522981207207"
   },
   {
-    "nome": "Odontovila: Seu Dentista Na Vila Planalto - Rebilitacao Oral E Odontologia Especializada",
-    "numero": "5561985251763"
+    "nome": "Nutricionista Patricia Vieira",
+    "numero": "5522998659801"
   },
   {
-    "nome": "Dentista Para Crianca Em Brasilia",
-    "numero": "5561983153512"
+    "nome": "Graziela De A. Pereira Lobo, Nutricionista Clinica Funcional E Especialista Em Enfermidades Renais",
+    "numero": "5522992123896"
   },
   {
-    "nome": "Centro De Odontologia Integrada Simone Carrara",
-    "numero": "5561996466160"
+    "nome": "Adeisila Soares - Nutricionista",
+    "numero": "5522996080170"
   },
   {
-    "nome": "Implante Dentario | Sante Clinica Odontologica | Dentista Em Santo Agostinho - Bh",
-    "numero": "5531984304663"
+    "nome": "Dr Derek Nani | Nutricionista",
+    "numero": "5522997534973"
   },
   {
-    "nome": "Instituto Oral Premium - Dentista 24 Horas",
-    "numero": "5531997367514"
+    "nome": "Bruna Tinoco - Nutricionista",
+    "numero": "5522999595715"
   },
   {
-    "nome": "Clara Odontologia",
-    "numero": "5531993996965"
+    "nome": "Nutricionista Aline Henriques",
+    "numero": "5522997423928"
   },
   {
-    "nome": "Alegro Clinica Odontologica",
-    "numero": "5531994660252"
+    "nome": "Dra Alessandra Vargas (nutricionista Focada Em Saude Da Mulher)",
+    "numero": "5522999394769"
   },
   {
-    "nome": "Dra. Erika Drubscky - Clinica Odontologica Qualidente",
-    "numero": "5531987659068"
+    "nome": "Natalia Muniz",
+    "numero": "5522997791414"
   },
   {
-    "nome": "Clinica Odonto Qualitybh - Credenciado Sulamerica Odonto E Odontoprev",
-    "numero": "5531989081171"
+    "nome": "Hector Santos Nutricionista",
+    "numero": "5522997194003"
   },
   {
-    "nome": "Dupla Odontologia",
-    "numero": "5531971701656"
+    "nome": "Centro Integrado De Gastropediatria E Alergia Alimentar Dra Karina Barbuto",
+    "numero": "5522999823080"
   },
   {
-    "nome": "Clinica Odontologica Gf",
-    "numero": "5531999244998"
+    "nome": "Nutricionista Materno Infantil - Marcelle Pessanha",
+    "numero": "5522996026945"
   },
   {
-    "nome": "Bh Implanto",
-    "numero": "5531983018400"
+    "nome": "Laura Vasconcelos - Nutricionista",
+    "numero": "5522992224572"
   },
   {
-    "nome": "Clinica Odontologica Noah - Nucleo De Odontologia Avancada Humanizada - Dentista",
-    "numero": "5531998574147"
+    "nome": "Wellington Rangel Nutricionista (sala 202)",
+    "numero": "5522997129574"
   },
   {
-    "nome": "Simetria - Odontologia",
-    "numero": "5531973028897"
+    "nome": "Patricia Lobato -nutricionista Infantil",
+    "numero": "5522974049196"
   },
   {
-    "nome": "Clinica Odont",
-    "numero": "5531996110566"
+    "nome": "Leticia Haddad - Nutricionista",
+    "numero": "5522998210782"
   },
   {
-    "nome": "Claudio Gambogi Franco",
-    "numero": "5531991203571"
+    "nome": "Dra. Blenda Da Hora - Nutricionista",
+    "numero": "5522998977290"
   },
   {
-    "nome": "Dra. Francielle A. | Endodontia | Tratamento De Canal Bh | Dentista Bh",
-    "numero": "5531999489601"
+    "nome": "Nutricionista Liz Amorim",
+    "numero": "5522999825923"
   },
   {
-    "nome": "Dentista Dra Daniela Silva | Dentista Na Savassi | Clareamento Dentario | Estetica | Cirurgias",
-    "numero": "5531971114711"
+    "nome": "Nutricionista Dr. Raphael Cortes",
+    "numero": "5522998971371"
   },
   {
-    "nome": "Adriana Byrro - Lentes De Contato Dental",
-    "numero": "5531991401469"
+    "nome": "Nutricionista Daiana Almeida",
+    "numero": "5522992934789"
   },
   {
-    "nome": "Dr. Marcos De Oliveira | Dentista Belo Horizonte | Implante | Alinhador Invisivel | Invisalign | Botox | Sedacao",
-    "numero": "5531992245501"
+    "nome": "Nutricionista Damiana Carvalho",
+    "numero": "5522999923145"
   },
   {
-    "nome": "Dentista - Integral Odontologia",
-    "numero": "5531999518808"
+    "nome": "Espaco Beija-flor Clinica Multi",
+    "numero": "5522999228982"
   },
   {
-    "nome": "Mp Odontologia Especializada",
-    "numero": "5531996505589"
+    "nome": "Clinica Casah - Centro De Atencao A Saude Humana",
+    "numero": "5522998386005"
   },
   {
-    "nome": "Ortoestetica Santa Efigenia: Harmonizacao Facial, Implantes E Clareamento Dental, Belo Horizonte - Mg",
-    "numero": "5531995965299"
+    "nome": "Dra. Cinthia Gomes - Nutrologia E Medicina Integrativa",
+    "numero": "5522998088808"
   },
   {
-    "nome": "Dr. Rodrigo Dentista Belo Horizonte Minas Gerais",
-    "numero": "5531999678845"
+    "nome": "Nutricionista Eliana Fernandes",
+    "numero": "5522999469307"
   },
   {
-    "nome": "Dentista Belo Horizonte Dr. Guilherme Alves",
-    "numero": "5531994403000"
+    "nome": "Espaco Affecto Terapia Ocupacional",
+    "numero": "5522992781888"
   },
   {
-    "nome": "Vilani Ortodontia | Ortodontia Especializada | Invisalign | Aparelho Ortodontico | Clareamento Dental | Limpeza Dental",
-    "numero": "5531999228010"
+    "nome": "Consultorio Nutricao Isabel Lima",
+    "numero": "5522999473771"
   },
   {
-    "nome": "Dr Hugo Ramiro | Cirurgiao Dentista | Belo Horizonte",
-    "numero": "5531971798887"
+    "nome": "Nutricionista Paula Queiroz",
+    "numero": "5522997430537"
   },
   {
-    "nome": "Mariana Coda Odontologia",
-    "numero": "5531973078775"
+    "nome": "Space Coworking",
+    "numero": "5522999991470"
   },
   {
-    "nome": "Dentista Belo Horizonte - Dra. Ana Caroline Alves",
-    "numero": "5531984995243"
+    "nome": "Dra. Mariana Laurindo Nutricionista Ortomolecular",
+    "numero": "5522999069104"
   },
   {
-    "nome": "Linea Odontologia Completa",
-    "numero": "5531996932367"
+    "nome": "Nutricionista Lucas Rangel Costa",
+    "numero": "5522998024138"
   },
   {
-    "nome": "Ciclo | Centro De Implantes E Clinicas Odontologicas",
-    "numero": "5531972085757"
+    "nome": "Nutricionista Luana Pessanha",
+    "numero": "5522999694217"
   },
   {
-    "nome": "Ana Caroline Diniz - Ortodontia E Odontologia Estetica",
-    "numero": "5531992850562"
+    "nome": "Clinica Relacionar - Desenvolvimento Humano",
+    "numero": "5522997969676"
   },
   {
-    "nome": "Nob Nucleo Odontologico Bandeirantes",
-    "numero": "5531984980538"
+    "nome": "Clinica Centermedi",
+    "numero": "5522999554505"
   },
   {
-    "nome": "Clinica Odontologica Carvalhais (integrar Odontologia)",
-    "numero": "5531993390398"
+    "nome": "Dra.nelma Soares Leal - (nutricionista)",
+    "numero": "5522999795216"
   },
   {
-    "nome": "Clinica Odontologica Hitoshi Odontologia Padre Eustaquio",
-    "numero": "5531998570941"
+    "nome": "Diana Areas Centro De Saude E Bem-estar",
+    "numero": "5522988125164"
   },
   {
-    "nome": "Dra. Leidiana Rego",
-    "numero": "5592984294691"
+    "nome": "Dra. Rafaela Gomes Nutricionista",
+    "numero": "5522997826841"
   },
   {
-    "nome": "Dentistas 24 Horas",
-    "numero": "5592991985998"
+    "nome": "Neuro Infanti Movimento Ltda - Reabilitacao E Desenvolvimento Infantil",
+    "numero": "5522992046736"
   },
   {
-    "nome": "Dentista Manaus 24 Horas - Dr. Aroldo Carvalho",
-    "numero": "5592985017258"
+    "nome": "Clinica Plenitude Espaco Integrado - Unid L (centro)",
+    "numero": "5522998291789"
   },
   {
-    "nome": "Goya Odontologia | Implante Dentario Em Manaus",
-    "numero": "5592982368376"
+    "nome": "Dr. Diego Motta",
+    "numero": "5522997776869"
   },
   {
-    "nome": "Dentista | Odonto Especialle | Pacientes Com Autismo | Sedacao",
-    "numero": "5592981346521"
+    "nome": "Nutricionista Larissa Ambrosio",
+    "numero": "5522999764460"
   },
   {
-    "nome": "Dra. Roseli Menegasso I Starodonto Manaus",
-    "numero": "5592981938821"
+    "nome": "Nutricionista Luiz Carlos Goncalves",
+    "numero": "5522996115027"
   },
   {
-    "nome": "Mg Odontologia Clinica E Estetica - Dentista Manaus",
-    "numero": "5592992900284"
+    "nome": "Nutricionista",
+    "numero": "5522998818470"
   },
   {
-    "nome": "Odontosf - Dentistas",
-    "numero": "5592982819090"
+    "nome": "Studio Vida Fisioterapia | Estetica | Nutricao | Psicologia - Campos De Goytacazes|rj",
+    "numero": "5522998978472"
   },
   {
-    "nome": "Odontoforma",
-    "numero": "5592984376809"
+    "nome": "Lais Maciel",
+    "numero": "5522997775771"
   },
   {
-    "nome": "Saude Oral Odontologia",
-    "numero": "5592991019888"
+    "nome": "Espaco Mais Fisio | Pilates | Fisioterapia | Campos Dos Goytacazes Rj",
+    "numero": "5522999433525"
   },
   {
-    "nome": "Belo Sorrir Odontologia I Plaza Shopping",
-    "numero": "5592984891688"
+    "nome": "Nutricionista Carla Tripari Coelho",
+    "numero": "5522998136213"
   },
   {
-    "nome": "Dra. Sara Barros - Invisalign Dentista",
-    "numero": "5592982854063"
+    "nome": "Ana Rosa Zaro - Nutricionista",
+    "numero": "5522997472110"
   },
   {
-    "nome": "Dentista Em Manaus - Dra Sabrina Farias Cro-am 3935",
-    "numero": "5592993445940"
+    "nome": "Jessica Silva Salve - Nutricionista",
+    "numero": "5522998090231"
   },
   {
-    "nome": "Atelie Do Dente Manaus",
-    "numero": "5592982551785"
+    "nome": "Nutrimaispet - Nutricao Animal",
+    "numero": "5522992040976"
   },
   {
-    "nome": "Dr. Leonardo Raponi",
-    "numero": "5592984179966"
+    "nome": "Clinica Alessandra Teles Estetica & Emagrecimento",
+    "numero": "5522997301805"
   },
   {
-    "nome": "Dentista Em Manaus - Dra Marta Dias",
-    "numero": "5592984294317"
+    "nome": "Lrd Clinica Integrada",
+    "numero": "5522999993634"
   },
   {
-    "nome": "Dra. Erika Perini Grosso | Odontopediatria Em Manaus",
-    "numero": "5592982893896"
+    "nome": "Clinica Life Up",
+    "numero": "5522999581197"
   },
   {
-    "nome": "Essentia Odontologia - Clinica Odontologica",
-    "numero": "5592992448236"
+    "nome": "Ortomolecular E Esportiva-dra.luisa Amorim-nutricionista",
+    "numero": "5522999469887"
   },
   {
-    "nome": "Consultorio Odontologico Dra. Mariana Finassi - Dentista Em Manaus",
-    "numero": "5592984690057"
+    "nome": "Vivianne Viana Lima",
+    "numero": "5522998567966"
   },
   {
-    "nome": "Saude Do Norte | Dentista Em Manaus",
-    "numero": "5592982454902"
+    "nome": "Nutricionista - Arthur Auatt",
+    "numero": "5522999556530"
   },
   {
-    "nome": "Dentista 24h - Dr Neto Alves",
-    "numero": "5592994171150"
+    "nome": "Nutricionista Maria Clara Balbi",
+    "numero": "5522998879096"
   },
   {
-    "nome": "Clinica Orto E Implante",
-    "numero": "5592994661663"
+    "nome": "Nutrikids Servicos Em Nutricao Infantil",
+    "numero": "5522996109757"
   },
   {
-    "nome": "Dra. Yasmim Mendes - Consultorio Odontologico | Dentista | Manaus",
-    "numero": "5592982123250"
+    "nome": "Clinica Bem Estar Em Forma - Dra Lenilce Ferreira Do Rosario Cruz",
+    "numero": "5522997428212"
   },
   {
-    "nome": "Bucalmed - Clinica Odontologica",
-    "numero": "5592993359012"
+    "nome": "Nutricionista Materno Infantil Marcelle Salles",
+    "numero": "5522997466093"
   },
   {
-    "nome": "Clinica Sorria Manaus",
-    "numero": "5592991371492"
+    "nome": "Clinica Ostheo Medicina Integrativa | Ortopedia | Nutricao | Medicina Do Esporte | Campos Dos Goytacazes Rj",
+    "numero": "5522997853337"
   },
   {
-    "nome": "Dental Studio - Consultorio Odontologico",
-    "numero": "5592981770978"
+    "nome": "Lorena Castro - Nutricionista",
+    "numero": "5522997943049"
   },
   {
-    "nome": "Clinica Malveira - Melhor Especialista Em Implantes Dentarios E Proteses Tipo Protocolo",
-    "numero": "5592991389914"
+    "nome": "Espaco De Vida Saudavel Elane Rangel",
+    "numero": "5522998152919"
   },
   {
-    "nome": "Dentista Manaus - Dra. Karina Lopes",
-    "numero": "5592981876557"
+    "nome": "Nutricionista Em Sao Luis - Ma / Dra. Raiira Carvalho / Neuronutricao E Nutricao Integrativa.",
+    "numero": "5598996129118"
   },
   {
-    "nome": "Clinica Refference - Odontologia Moderna",
-    "numero": "5592982480292"
+    "nome": "Nutricionista | Amanda Soares",
+    "numero": "5598983003793"
   },
   {
-    "nome": "Sorridents Manaus Vieiralves: Clinica Odontologica, Odontopedriatra, Clinico Geral",
-    "numero": "5592982686789"
+    "nome": "Nutricionista Em Sao Luis - Ma Daniel Amaral",
+    "numero": "5598985915406"
   },
   {
-    "nome": "Vs Odontologia Parque Das Laranjeiras",
-    "numero": "5592981459388"
+    "nome": "Nutricionista Emagrecimento E Saude Da Mulher | Nutricionista Em Sao Luis - Ma| Online & Maranhao - Dra. Luna Araujo",
+    "numero": "5598991721282"
   },
   {
-    "nome": "Dentista Do Sul Bola Do Manoa Desde 2012 Transformando Sorrisos! M De Oliveira Miguel Odontologia.",
-    "numero": "5592993062655"
+    "nome": "Danielle Lima - Nutricionista Em Sao Luis I Nutricionista Emagrecimento I Saude Da Mulher I Nutricionista On-line I Oncologia",
+    "numero": "5598983370159"
   },
   {
-    "nome": "Check Up Odontologia Dra Carla Collyer",
-    "numero": "5592992004745"
+    "nome": "Karine Baldez Nutricao E Saude",
+    "numero": "5598991677254"
   },
   {
-    "nome": "Consultorio Odontologico Em Manaus - Dra.elcia De Lima Briglia",
-    "numero": "5592991241588"
+    "nome": "Paula Tamara I Nutricionista Em Sao Luis I Nutricionista Fertilidade I Nutricionista Gestante I Nutricionista Saude Da Mulher",
+    "numero": "5598996215430"
   },
   {
-    "nome": "Dentista Em Manaus - Dra. Sara Lais Odontologia Especializada",
-    "numero": "5592985237920"
+    "nome": "Bruna Correa Nutricionista",
+    "numero": "5598984190184"
   },
   {
-    "nome": "Odontorh",
-    "numero": "5592981750251"
+    "nome": "Igor Caleb",
+    "numero": "5598992270000"
   },
   {
-    "nome": "Dr. Roger Inoue | Cirurgiao Dentista Em Manaus",
-    "numero": "5592992703193"
+    "nome": "Nutricionista Carla Coelho",
+    "numero": "5598981764776"
   },
   {
-    "nome": "Oral Center Dom Pedro Lf",
-    "numero": "5592994846163"
+    "nome": "Nutricionista Shaenny Prata",
+    "numero": "5598981879930"
   },
   {
-    "nome": "Clinica Odontolima",
-    "numero": "5592984020552"
+    "nome": "Nutricionista Wilson Serrao",
+    "numero": "5598981440261"
   },
   {
-    "nome": "Top Odonto Millenium",
-    "numero": "5592984098760"
+    "nome": "Saul Campos Nutricionista",
+    "numero": "5598982138173"
   },
   {
-    "nome": "Mateus Andrade Odontologia",
-    "numero": "5592994546222"
+    "nome": "Nutricionista Felipe Alcantara",
+    "numero": "5598984287526"
   },
   {
-    "nome": "Odontosn",
-    "numero": "5592993713603"
+    "nome": "Nutricionista Marcela Ferreira",
+    "numero": "5598991882910"
   },
   {
-    "nome": "Dra Aletheia Paranhos (dentista Para Pcds, Bebes, Idosos, Autistas, Cirurgia Bucomaxilofacial, Domiciliar E Hospitalar)",
-    "numero": "5592981707327"
+    "nome": "Insi -instituto De Nutricao E Saude Lntegrativa",
+    "numero": "5598991003641"
   },
   {
-    "nome": "Clinica Odontologica Dentaly De Saude Bucal Integrada",
-    "numero": "5592992754858"
+    "nome": "Danyella Portela",
+    "numero": "5598981932326"
   },
   {
-    "nome": "Odonto Amazon - Implantes, Protese, Endo E Ortodontia",
-    "numero": "5592992293563"
+    "nome": "Karyne Figueredo Nutricionista",
+    "numero": "5598984178735"
   },
   {
-    "nome": "Dentista Em Manaus - Dra. Elienay Pontes - Odontologia No Amazonas",
-    "numero": "5592992588418"
+    "nome": "Nutricionista Carlos Carmona",
+    "numero": "5598981382575"
   },
   {
-    "nome": "Dentista Jamile Campos - Dentista Em Manaus",
-    "numero": "5592991431982"
+    "nome": "Marilia Reis Nutricionista",
+    "numero": "5598985691540"
   },
   {
-    "nome": "Dentista Dra. Julia Viana - Unidade Cecomiz",
-    "numero": "5592992252112"
+    "nome": "Nutricionista Michely Penha",
+    "numero": "5598970181382"
   },
   {
-    "nome": "Nova Sorrir Manaus - Implantes",
-    "numero": "5592982212610"
+    "nome": "Maisa A. Rego",
+    "numero": "5598982286182"
   },
   {
-    "nome": "Dra. Jessica Vasconcelos | Dentista, Ortodontia Manaus",
-    "numero": "5592991351974"
+    "nome": "Nutricionista Michelle Balltaglini",
+    "numero": "5598991098948"
   },
   {
-    "nome": "Design Do Sorriso | Implantes Em Manaus",
-    "numero": "5592991088183"
+    "nome": "Dra. Gabrielle Brasil",
+    "numero": "5598988235945"
   },
   {
-    "nome": "Dra. Barbara Vigas - Clinica Odontologica",
-    "numero": "5592994859810"
+    "nome": "Fisiomix Pilates Fisiterapia Estetica Nutricionista",
+    "numero": "5598991303727"
   },
   {
-    "nome": "Ceo Clinica Especializada Em Odontologia",
-    "numero": "5592994288811"
+    "nome": "Nutricionista Rodrigo Pinheiro",
+    "numero": "5598985088836"
   },
   {
-    "nome": "Dentista Domiciliar E Laserterapia Em Manaus Dra Rosymar Palheta",
-    "numero": "5592991541009"
+    "nome": "Yasmyn Alencar Nutricionista Clinica",
+    "numero": "5598985359191"
   },
   {
-    "nome": "Suzano Odontologia - Dentista 24h",
-    "numero": "5592993702720"
+    "nome": "Rayanna Cadilhe | Nutricionista Renal",
+    "numero": "5598983458301"
   },
   {
-    "nome": "Clinica Sorria Manaus - Unidade 8",
-    "numero": "5592991080306"
+    "nome": "Onelife By Silas Amaral - Nutricao E Performance",
+    "numero": "5598982232150"
   },
   {
-    "nome": "Odontologia Paulista - Manoa - Manaus",
-    "numero": "5592994700727"
+    "nome": "Nayra Pinheiro Nutricionista",
+    "numero": "5598992069884"
   },
   {
-    "nome": "Clin Odonto - Clinica Odontologica",
-    "numero": "5592984143932"
+    "nome": "Paula Alves Nutricionista",
+    "numero": "5598985878051"
   },
   {
-    "nome": "Clinica Estacao Do Sorriso - Fechada. Procurar Por Dra Mirian Kayo",
-    "numero": "5592988016770"
+    "nome": "Clinica Bem Mais Saude - Clinica Multidisciplinar",
+    "numero": "5598992392861"
   },
   {
-    "nome": "Infinity Odontologia",
-    "numero": "5592981110240"
+    "nome": "Cibely Carvalho - Nutricionista | Saude Intestinal E Qualidade De Vida - Atendimento Online",
+    "numero": "5598991100076"
   },
   {
-    "nome": "Dra. Emily De Morais - Odontopediatra",
-    "numero": "5592999968005"
+    "nome": "Adriana Lima Nutricionista",
+    "numero": "5598988005100"
   },
   {
-    "nome": "Consultorio Odontoleite Manaus",
-    "numero": "5592992532274"
+    "nome": "Nutricionista - Lorena Bessani",
+    "numero": "5598987874213"
   },
   {
-    "nome": "Up Odontologia",
-    "numero": "5592982012211"
+    "nome": "Nutricionista Amanda Victoria",
+    "numero": "5598987140736"
   },
   {
-    "nome": "Amz Odonto",
-    "numero": "5592981287971"
+    "nome": "Clinica Hosana Reis",
+    "numero": "5598982120053"
   },
   {
-    "nome": "Dra. Natascha Penutt",
-    "numero": "5592999641040"
+    "nome": "Instituto Bruna Camarao",
+    "numero": "5598984087465"
   },
   {
-    "nome": "L A Odontologia - Dra Luciana Arnhold",
-    "numero": "5592993777070"
+    "nome": "Myrlla Maciel, Nutricionista Clinica Funcional",
+    "numero": "5598989164494"
   },
   {
-    "nome": "Yoshi Odontologia | Implante Dentario | Faceta Dentaria | Invisalign - Curitiba, Parana",
-    "numero": "5541987719197"
+    "nome": "Gracivane Gomes Nutricionista",
+    "numero": "5598988215077"
   },
   {
-    "nome": "Dra. Vladja Torno | Facetas Em Resina Composta Em Curitiba",
-    "numero": "5541997373637"
+    "nome": "Walbenise Marques - Nutricionista | Personal Trainer",
+    "numero": "5598983285562"
   },
   {
-    "nome": "Dra. Karla Cabral - Odontologia",
-    "numero": "5541997013329"
+    "nome": "Pos Em Nutricao (instituto Nutrir Sao Luis)",
+    "numero": "5585981767753"
   },
   {
-    "nome": "Cirurgiao Dentista E Clinica Odontologica Rullian Pinheiro",
-    "numero": "5541997484686"
+    "nome": "Antonia Yara Nutricionista",
+    "numero": "5598985214045"
   },
   {
-    "nome": "Lustosa Odontologia Especializada - Clinica Odontologica Dentista Santa Felicidade - Curitiba",
-    "numero": "5541996554545"
+    "nome": "Andressa Cortez - Nutricionista Clinica Funcional E Esportiva",
+    "numero": "5598999067144"
   },
   {
-    "nome": "Dentista Santa Candida - Blanco Odontologia",
-    "numero": "5541987065193"
+    "nome": "Nutricionista Iasmim Duailibe",
+    "numero": "5598985217696"
   },
   {
-    "nome": "Consultorio Dra Cristhiany Machado",
-    "numero": "5541991453875"
+    "nome": "Nutricionista Rafaiana Almeida",
+    "numero": "5598984991089"
   },
   {
-    "nome": "Dra Caroline Stevao - Cirurgia-dentista",
-    "numero": "5541992856792"
+    "nome": "Nutricionista Materno Infantil Roberta Carvalho",
+    "numero": "5598991978121"
   },
   {
-    "nome": "Bonfanti Odontologia - Dentista Em Curitiba/batel",
-    "numero": "5541998406165"
+    "nome": "Sarah Leticia Nutricionista Comportamental",
+    "numero": "5598982164966"
   },
   {
-    "nome": "Dra. Camila Xavier. Dentista Em Curitiba.",
-    "numero": "5541991147171"
+    "nome": "Nutricionista De Emagrecimento Karen Passos",
+    "numero": "5598984765557"
   },
   {
-    "nome": "Implante Batel Odontologia - Dentista Em Curitiba",
-    "numero": "5541992587840"
+    "nome": "Lara Hellen, Nutricionista",
+    "numero": "5598984155264"
   },
   {
-    "nome": "Dr. Solano Guerios - Dentista Em Curitiba",
-    "numero": "5541984851212"
+    "nome": "Amanda Valeria Verde - Nutricionista",
+    "numero": "5598988497539"
   },
   {
-    "nome": "Abreu Correa Odontologia | Clinica De Dentista | Invisalign Doctor",
-    "numero": "5541995387962"
+    "nome": "Andressa Ribeiro-nutricionista",
+    "numero": "5598984291313"
   },
   {
-    "nome": "Dra Marcia Cristina Zonatto | Dentista | Curitiba | Odontologia Bom Retiro",
-    "numero": "5541987031818"
+    "nome": "Nutricionista - Tereza Martins - Assessoria E Consultoria Em Restaurantes.",
+    "numero": "5598981053280"
   },
   {
-    "nome": "Joy Ortodontia",
-    "numero": "5541985054486"
+    "nome": "Stephanie Viana Nutricionista",
+    "numero": "5598999920500"
   },
   {
-    "nome": "Dr. Jean Brustolim - Dentista/implantes Curitiba",
-    "numero": "5541984714421"
+    "nome": "Thamires Assis",
+    "numero": "5598983152559"
   },
   {
-    "nome": "Quality Odonto E Bem Estar",
-    "numero": "5541997593820"
+    "nome": "Nayana Fontenelle - Nutricionista Infantil",
+    "numero": "5598984341662"
   },
   {
-    "nome": "Odontoale",
-    "numero": "5541987981915"
+    "nome": "Nutricionista Pablo F Cardoso",
+    "numero": "5598989142669"
   },
   {
-    "nome": "Dr. Giovanni De Carvalho - Ortodontia E Estetica - Curitiba/pr - Invisaling - Facetas Em Resina - Alinhadores Invisiveis",
-    "numero": "5541987603515"
+    "nome": "Nutri Gabriel Azevedo",
+    "numero": "5598991230112"
   },
   {
-    "nome": "Dra. Carolina Dreher - Dentista Em Curitiba",
-    "numero": "5541991342466"
+    "nome": "Eduardo Halabe Nutricionista",
+    "numero": "5598984428463"
   },
   {
-    "nome": "Cln Odontologia Especializada - Dentista Em Curitiba",
-    "numero": "5541985293663"
+    "nome": "Carol Nascimento Nutri | Nutricionista",
+    "numero": "5598991353708"
   },
   {
-    "nome": "Consultorio Odontologico Emergencias 24 Hs Dr Marcelo Luis Barata Cirurgiao-dentista",
-    "numero": "5541997216557"
+    "nome": "Adriana Mondego Nutricionista",
+    "numero": "5598970226918"
   },
   {
-    "nome": "Dr. Jean Vegini - Dentista Curitiba",
-    "numero": "5541988346122"
+    "nome": "Rafaela Dantas - Nutricionista Em Emagrecimento",
+    "numero": "5598985859624"
   },
   {
-    "nome": "Dr Nicolae Carvalho De Paula",
-    "numero": "5541999474774"
+    "nome": "Dra. Marcela Rodrigues",
+    "numero": "5598988050946"
   },
   {
-    "nome": "Dentista - Dr. Marcelo Kruger",
-    "numero": "5541997070297"
+    "nome": "Gleyzangela Nutricionista",
+    "numero": "5598991859950"
   },
   {
-    "nome": "Clinica Odontologica Dente Feliz",
-    "numero": "5541997704436"
+    "nome": "Denise Santos - Nutricionista Infantil",
+    "numero": "5598984232805"
   },
   {
-    "nome": "Dentista Dr. Fernando Makoto",
-    "numero": "5541999947444"
+    "nome": "Leticia De Almeida Nutricionista",
+    "numero": "5598983118579"
   },
   {
-    "nome": "Dentalimplantes Curitiba",
-    "numero": "5541988260524"
+    "nome": "Nutricionista Expert Em Emagrecimento | Paulo Victor",
+    "numero": "5598981508511"
   },
   {
-    "nome": "Beltran Odonto",
-    "numero": "5541992353223"
+    "nome": "Nutricionista Mayra Tirza",
+    "numero": "5598987772420"
   },
   {
-    "nome": "Clinica Costin - Implante Dentario - Dentista No Centro De Curitiba",
-    "numero": "5541999715258"
+    "nome": "Nutricionista Fabia Oliveira",
+    "numero": "5598991176506"
   },
   {
-    "nome": "Clinica Perfectta Odontologia",
-    "numero": "5541997210880"
+    "nome": "Nutricionista Lais Lima",
+    "numero": "5598982186100"
   },
   {
-    "nome": "Dra. Milena Pacheco - Dentista Curitiba",
-    "numero": "5541988255176"
+    "nome": "Consultorio Nutri Nina Santos",
+    "numero": "5598970111789"
   },
   {
-    "nome": "Dentprime",
-    "numero": "5541987950029"
+    "nome": "Consultorio Nutricionista Suze Brito",
+    "numero": "5598981717716"
   },
   {
-    "nome": "Know How | Clinica Odontologica | Curitiba",
-    "numero": "5541995120055"
+    "nome": "Nutricionista Karoline Moreno",
+    "numero": "5598984005310"
   },
   {
-    "nome": "Consultorio Odontologico Em Curitiba - Dra. Tayna Alves - Dentista E Harmonizacao Orofacial",
-    "numero": "5541998040023"
+    "nome": "Clinica Com & Cardio",
+    "numero": "5598999662721"
   },
   {
-    "nome": "Dra. Thaina Larsen - Dentista Curitiba",
-    "numero": "5545999416962"
+    "nome": "Nutricionista Fernando Amorim Jr",
+    "numero": "5598985194848"
   },
   {
-    "nome": "Sorriso Ideal Odontologia",
-    "numero": "5541996984405"
+    "nome": "Dr Daniel Gomes | Medico Referencia Em Emagrecimento, Reposicao Hormonal E Vida Saudavel Em Sao Luis - Ma",
+    "numero": "5598991614455"
   },
   {
-    "nome": "Dra. Nicole Klingbeil Odontologia",
-    "numero": "5541988332697"
+    "nome": "Nutricionista Dr. Abraao Terceiro",
+    "numero": "5598984632319"
   },
   {
-    "nome": "Lidery Odontologia - Tratamento De Canal",
-    "numero": "5541997644257"
+    "nome": "Camila Mont'alverne - Nutricionista Comportamental",
+    "numero": "5598984124179"
   },
   {
-    "nome": "Dra. Maria Nina Munoz - Dentista 24 Horas",
-    "numero": "5541991438148"
+    "nome": "Nutricionista Camilla Lima",
+    "numero": "5598984258324"
   },
   {
-    "nome": "Aaamulticlin Clinica Odontologica E Ultrassonografia Medica",
-    "numero": "5511991111622"
+    "nome": "Nutri.joennydiniz",
+    "numero": "5598987469694"
   },
   {
-    "nome": "Life Sorrisos Osasco",
-    "numero": "5511977569185"
+    "nome": "Thanara Silva - Nutricionista Materno Infantil Em Sao Luis",
+    "numero": "5598970026732"
   },
   {
-    "nome": "Sorridents Osasco Centro",
-    "numero": "5511941906488"
+    "nome": "Nutricionista Pablo Gomes",
+    "numero": "5598991886722"
   },
   {
-    "nome": "Tehari Odontologia Dentista Bela Vista Osasco | Implante Dentario | Dentista Osasco | Invisalign",
-    "numero": "5511945387028"
+    "nome": "Paulo Ricardo - Nutricionista",
+    "numero": "5598985094939"
   },
   {
-    "nome": "Life Sorrisos",
-    "numero": "5511999848930"
+    "nome": "Instituto Zoe - Clinica De Nutricao E Saude Integrativa",
+    "numero": "5598983097665"
   },
   {
-    "nome": "Odonto Alberti Prime - Dentista Na Vila Yara/osasco - Implante Dentario - Proteses - Estetica Dental",
-    "numero": "5511995954714"
+    "nome": "Nutricionista - Isabella Aguiar",
+    "numero": "5598970254848"
   },
   {
-    "nome": "Dentz Osasco Bela Vista - Clinica Odontologica",
-    "numero": "5511941552772"
+    "nome": "Vick Anne Nutricionista",
+    "numero": "5598984421616"
   },
   {
-    "nome": "Talisma Odontologia | Dentista Em Osasco | Implante | Protese | Aparelho Invisivel | Harmonizacao | Facetas",
-    "numero": "5511940660335"
+    "nome": "Clinica Especializada Em Dor",
+    "numero": "5598982852563"
   },
   {
-    "nome": "Clinica Odontologica Estrela Da Manha Osasco",
-    "numero": "5511992769404"
+    "nome": "Nutricionista Adriana Mocelin",
+    "numero": "5598988023382"
   },
   {
-    "nome": "Amo Osasco Ortodontia",
-    "numero": "5511945370661"
+    "nome": "Nutricionista Silvana",
+    "numero": "5598988640323"
   },
   {
-    "nome": "Emi Orto",
-    "numero": "5511971972038"
+    "nome": "Tainara Valerio Nutricionista",
+    "numero": "5598981667540"
   },
   {
-    "nome": "Bright Assistencia Odontologica",
-    "numero": "5511970735606"
+    "nome": "Nutricionista Esportivo Rafael Leal - Contagem",
+    "numero": "5531987880257"
   },
   {
-    "nome": "Iconic - Odontologia Dentista 24h",
-    "numero": "5511914799835"
+    "nome": "Nutricionista De Emagrecimento Caroline Custodio - Contagem",
+    "numero": "5531993081954"
   },
   {
-    "nome": "Spf Odontologia",
-    "numero": "5511964425315"
+    "nome": "Clinica Luciana Vieira",
+    "numero": "5531991198969"
   },
   {
-    "nome": "Dra. Mara Heringer",
-    "numero": "5511998101432"
+    "nome": "Nutricionista Vitoria Salazar | Nutricao Em Contagem E Belo Horizonte",
+    "numero": "5531973000050"
   },
   {
-    "nome": "Sg Odontologia",
-    "numero": "5511965144445"
+    "nome": "Consultorio De Nutricao Em Contagem: Nadine Djully- Emagrecimento",
+    "numero": "5531985710290"
   },
   {
-    "nome": "Odontologia Harmonizacao - Dra. Larissa Muzeti",
-    "numero": "5511916652424"
+    "nome": "Gabriela Cler Nutricionista",
+    "numero": "5531971089263"
   },
   {
-    "nome": "Dra Michele Agutuli Siqueira Carvalho",
-    "numero": "5511961357595"
+    "nome": "Nutricionista Thalita Oliveira - Nutricionista Em Contagem - Emagrecimento",
+    "numero": "5531991996569"
   },
   {
-    "nome": "Lb Dental Clinic - Dentista Em Osasco",
-    "numero": "5511965124288"
+    "nome": "Marina Tinoco - Nutricionista Em Contagem: Emagrecimento",
+    "numero": "5531985381928"
   },
   {
-    "nome": "Dra. Anna Paula Veloso - Dentista",
-    "numero": "5511992351924"
+    "nome": "Nutricionista Thayna Fagundes",
+    "numero": "5531985944698"
   },
   {
-    "nome": "Tomotani Odontologia Especializada",
-    "numero": "5511988558451"
+    "nome": "Reginaldo Rodrigues Nutricionista",
+    "numero": "5531972112896"
   },
   {
-    "nome": "Dra. Simone Sacco Dentista Em Osasco | Endodontia, Implantes, Protese",
-    "numero": "5511996201412"
+    "nome": "Nayara Costa Nutricionista",
+    "numero": "5531992502720"
   },
   {
-    "nome": "Clinica Cortez",
-    "numero": "5511943270874"
+    "nome": "Nutricionista Thalia Lorene",
+    "numero": "5531993269511"
   },
   {
-    "nome": "A.r. Odontologia",
-    "numero": "5511986099430"
+    "nome": "Alericos - Nutricao, Saude E Desempenho",
+    "numero": "5531996354530"
   },
   {
-    "nome": "Sorrix Osasco Bela Vista",
-    "numero": "5511956986091"
+    "nome": "Nutricionista Emagrecimento Em Contagem - Camila Alves",
+    "numero": "5531989435581"
   },
   {
-    "nome": "Essence Prime Odontologia & Estetica | Dentista Em Osasco",
-    "numero": "5511985593451"
+    "nome": "Nutricionista Emagrecimento Em Contagem - Ana Leticia Costa",
+    "numero": "5531996116601"
   },
   {
-    "nome": "Sorrir Faz Bem - Osasco",
-    "numero": "5511943328864"
+    "nome": "Nutricionista Cintia Aguiar",
+    "numero": "5531996054855"
   },
   {
-    "nome": "Fa Clinica Odontologica",
-    "numero": "5511977089069"
+    "nome": "Thais Araujo - Nutricionista Particular Em Contagem",
+    "numero": "5531998942110"
   },
   {
-    "nome": "Dra. Talita Arruda | Dentista Em Osasco | Endodontia | Implante | Protese | Aparelho | Invisalign | Facetas",
-    "numero": "5511913635423"
+    "nome": "Micaele Ramos Nutricionista Clinica E Esportiva/comportamental",
+    "numero": "5531941143120"
   },
   {
-    "nome": "Odontologia Santa Fe",
-    "numero": "5511912336741"
+    "nome": "Carolina Pavin Nutricionista",
+    "numero": "5531971316448"
   },
   {
-    "nome": "Oral Salute Odontologia Dentista Osasco",
-    "numero": "5511960867555"
+    "nome": "Nutricionista De Emagrecimento Em Contagem- Roberta Moreira",
+    "numero": "5531971200903"
   },
   {
-    "nome": "Odontocompany - Vila Dos Remedios",
-    "numero": "5511965675935"
+    "nome": "Nutricionista Deborah Saibert Contagem/bh",
+    "numero": "5531984555383"
   },
   {
-    "nome": "Clinica Sorrindo Mais",
-    "numero": "5511941557625"
+    "nome": "Nutricionista Ana Flavia Eldorado Contagem",
+    "numero": "5531996235139"
   },
   {
-    "nome": "Sorridents Novo Osasco",
-    "numero": "5511947233698"
+    "nome": "Nutricionista Aleandra Ferreira",
+    "numero": "5531988659183"
   },
   {
-    "nome": "Dentista No Centro De Osasco - Dra. Beatriz Mariano",
-    "numero": "5511951636406"
+    "nome": "Lilia Nunes",
+    "numero": "5531992684154"
   },
   {
-    "nome": "Center Osasco Odonto",
-    "numero": "5511957691842"
+    "nome": "Nicole Santana Nutricionista",
+    "numero": "5531975964651"
   },
   {
-    "nome": "Clinica Bem Sorrir",
-    "numero": "5511966990045"
+    "nome": "Nutricionista Maria Julia",
+    "numero": "5531992104183"
   },
   {
-    "nome": "Dr Leonardo Kawamoto Odontologia",
-    "numero": "5521967447773"
+    "nome": "Nutricionista - Ana Luisa Juscelino",
+    "numero": "5531992676818"
   },
   {
-    "nome": "Dra. Gleyci Rosa",
-    "numero": "5521967698994"
+    "nome": "Nutricionista Gabrielle Sousa",
+    "numero": "5531997197955"
   },
   {
-    "nome": "Sorria Marica",
-    "numero": "5521971367742"
+    "nome": "Maria Luiza Ventura Nutricionista",
+    "numero": "5531975798718"
   },
   {
-    "nome": "Odontoclinica Marica",
-    "numero": "5521996164124"
+    "nome": "Consultorio De Nutricao Richele Nayara - Nutricao Comportamental E Clinica",
+    "numero": "5531994498711"
   },
   {
-    "nome": "Dentista Dra. Sonia Maria C. Lisboa",
-    "numero": "5521999872938"
+    "nome": "Nutricionista Fabiana Santana",
+    "numero": "5531982393384"
   },
   {
-    "nome": "Dr Sorriso Marica",
-    "numero": "5521997308897"
+    "nome": "Nutricionista Emilly Marques",
+    "numero": "5531991061973"
   },
   {
-    "nome": "Dentista Dra Rafaela Rodrigues",
-    "numero": "5521969235775"
+    "nome": "Cynthia Valeriano - Nutricionista",
+    "numero": "5531991729393"
   },
   {
-    "nome": "Clinica Odontologica Sorriso Popular | Marica - Rj",
-    "numero": "5521973110326"
+    "nome": "Nutricionista Alessandra Pereira",
+    "numero": "5531987362914"
   },
   {
-    "nome": "Sorrix Marica: Dentista, Implantes, Proteses, Ortodontia, Estetica Em Marica Rj",
-    "numero": "5521977529569"
+    "nome": "Michelle Lavinia - Nutricionista",
+    "numero": "5531983992418"
   },
   {
-    "nome": "Dra Luana Thamires | Dentista Em Itaipuacu /marica",
-    "numero": "5521972716888"
+    "nome": "Nutricionista Rafaela Moura - Nutricao, Saude E Bem-estar",
+    "numero": "5531994412589"
   },
   {
-    "nome": "Na Odontologia Especializada",
-    "numero": "5521975701131"
+    "nome": "Ana Clara Lima Nutricionista",
+    "numero": "5531999373691"
   },
   {
-    "nome": "Top Salute Odontologia E Harmonizacao Facial | Itaipuacu Rj",
-    "numero": "5521993503160"
+    "nome": "La Vita Nucleo De Saude Integral",
+    "numero": "5531998844100"
   },
   {
-    "nome": "Dra Laryssa Carvalho Odontopediatra Em Marica",
-    "numero": "5521970682036"
+    "nome": "Nutricionista Debora Andrade",
+    "numero": "5531984544591"
   },
   {
-    "nome": "Pro Sorriso Inoa",
-    "numero": "5521980821205"
+    "nome": "Viviane Lucia Nutricionista",
+    "numero": "5531975285749"
   },
   {
-    "nome": "Lorem Dentallab",
-    "numero": "5521970332683"
+    "nome": "Dr. Nogueira. Nutricionista Esportivo",
+    "numero": "5531985332472"
   },
   {
-    "nome": "Harmonizacao Facial Marica | Dra Julia Gomes",
-    "numero": "5521964837366"
+    "nome": "Nutricionista Esportiva - Luana Cayris",
+    "numero": "5531999909358"
   },
   {
-    "nome": "Klayn Odontologia - Clinica Odontologica Em Marica",
-    "numero": "5521966347327"
+    "nome": "Nutricionista Carolina Nicolette",
+    "numero": "5531999890857"
   },
   {
-    "nome": "Climod Dentistas - Itaipuacu",
-    "numero": "5521977177734"
+    "nome": "Cereus Terapias - Psicologia E Terapias Integrativas",
+    "numero": "5531992652273"
   },
   {
-    "nome": "Dent+ Marica",
-    "numero": "5521971466793"
+    "nome": "Clinica Afeto: Saude Infantil | Pediatra Em Contagem",
+    "numero": "5531987263785"
   },
   {
-    "nome": "Dra. Jully Santos | Dentista Marica",
-    "numero": "5521976754830"
+    "nome": "Amanda Cioletti - Nutricionista Em Belo Horizonte",
+    "numero": "5531988796137"
   },
   {
-    "nome": "Centro Clinico Integrativo Itaipuacu",
-    "numero": "5521972608933"
+    "nome": "Clinica Nutrice",
+    "numero": "5531997366583"
   },
   {
-    "nome": "Odonto Smile",
-    "numero": "5521968761406"
+    "nome": "Nutricionista Ana Claudia - Emagrecimento, Hipertrofia E Saude",
+    "numero": "5531995067166"
   },
   {
-    "nome": "Dr Cardenal Odontologia Estetica",
-    "numero": "5521971041155"
+    "nome": "Dra. Talitha Costa - Nutricionista Especialista Em Emagrecimento Regiao Da Pampulha, Bairro Ouro Preto",
+    "numero": "5531991570882"
   },
   {
-    "nome": "Orion Odontologia Marica",
-    "numero": "5521982540792"
+    "nome": "Nutricionista Barbara Gontijo",
+    "numero": "5531984734899"
   },
   {
-    "nome": "Sorrir Plus",
-    "numero": "5521997374500"
+    "nome": "Nutricionista Leticia Capobiango",
+    "numero": "5532988937015"
   },
   {
-    "nome": "Clinica Dra Thaina Monteiro",
-    "numero": "5521971967676"
+    "nome": "Nutricionista Esportivo E Comportamental - Felipe Quintao",
+    "numero": "5531995433777"
   },
   {
-    "nome": "Odonto Care Prime",
-    "numero": "5521995902484"
+    "nome": "Dra Rose Ribeiro Nutricionista Em Bh",
+    "numero": "5531982888344"
   },
   {
-    "nome": "Ceo - Centro De Especialidades Odontologicas De Itaipuacu",
-    "numero": "5521967503883"
+    "nome": "Beatriz Gomes - Nutricionista De Consultorio",
+    "numero": "5531992868620"
   },
   {
-    "nome": "Sorria Consultorio Odontologico Marica",
-    "numero": "5521987579032"
+    "nome": "Nutri Iolanda Vale",
+    "numero": "5531994172551"
   },
   {
-    "nome": "Odonto Happier",
-    "numero": "5521973994526"
+    "nome": "Roberta Moreira Nutricionista",
+    "numero": "5531997883396"
   },
   {
-    "nome": "Dra. Carla Venancio Dentista",
-    "numero": "5521981041333"
+    "nome": "Espaco Solaris",
+    "numero": "5531999715454"
   },
   {
-    "nome": "Clinica Integrada Metamorfose",
-    "numero": "5521996675794"
+    "nome": "Nutricionista Victoria Caixeta - Cirurgia Bariatrica E Emagrecimento Saudavel",
+    "numero": "5531986411442"
   },
   {
-    "nome": "Consultorio Odontologico Dra. Tatiana Santos",
-    "numero": "5521971825166"
+    "nome": "Micaele Ramos - Nutricionista Clinica E Esportiva/comportamental",
+    "numero": "5531994143120"
   },
   {
-    "nome": "Clinica Sonho E Riso",
-    "numero": "5521993341133"
+    "nome": "Instituto Fernanda Amaral",
+    "numero": "5531991471832"
   },
   {
-    "nome": "Buzzo Leal Odontologia | Bucomaxilofacial Em Itaipuacu",
-    "numero": "5521974622315"
+    "nome": "Livia Avila Nutricionista",
+    "numero": "5531989674849"
   },
   {
-    "nome": "Volte A Sorrir",
-    "numero": "5521997308899"
+    "nome": "Espaco Vivipilates",
+    "numero": "5531991997896"
   },
   {
-    "nome": "Consultorio Dra Roberta Antunes",
-    "numero": "5521975082458"
+    "nome": "Isabella Parreira - Nutricionista Clinica E Comportamental",
+    "numero": "5531992066008"
   },
   {
-    "nome": "Dr Conrado Lopes",
-    "numero": "5521995289151"
+    "nome": "Projeto Metamorfose - Dra. Nathalia Pamplona - Nutricionista",
+    "numero": "5531984025882"
   },
   {
-    "nome": "Amar Odontologia Humanizada",
-    "numero": "5521972286286"
+    "nome": "Karen Stephanie - Nutricionista",
+    "numero": "5531994274819"
   },
   {
-    "nome": "Rio Concept Odontologia",
-    "numero": "5521982044726"
+    "nome": "Nutricionista Aline Passos",
+    "numero": "5531996771041"
   },
   {
-    "nome": "Consultorio Odontologico Dr. Thiago Luigi E Dra. Polyane Lins",
-    "numero": "5521990618753"
+    "nome": "Nutricionista Debora Cecilia - Nutricionista Bh",
+    "numero": "5531997919830"
   },
   {
-    "nome": "Inoa Consutorio Odontologico ( Dr. Paulo Andre Rocha Do Nascimento)",
-    "numero": "5521970186646"
+    "nome": "Mel Maria - Nutricionista (@nutricionista_mel)",
+    "numero": "5531996180563"
   },
   {
-    "nome": "Consultorio Dra. Bruna Pinho",
-    "numero": "5521998506958"
+    "nome": "Nutricionista Isabella Dias",
+    "numero": "5531991609492"
   },
   {
-    "nome": "Dr. Marcio Fos",
-    "numero": "5566997113687"
+    "nome": "Ballance Clinic",
+    "numero": "5531986062983"
   },
   {
-    "nome": "New Odontologia",
-    "numero": "5521973755578"
+    "nome": "Lucas Prado - Nutricionista",
+    "numero": "5531971213120"
   },
   {
-    "nome": "Dra. Lorenna Gomes | Harmonizacao Facial Em Itaipuacu E Icarai",
-    "numero": "5521970143587"
+    "nome": "Ampara Consultorio Multiprofissinal Referencia Contagem",
+    "numero": "5531988374954"
   },
   {
-    "nome": "Kik Odontokids",
-    "numero": "5521995470776"
+    "nome": "Clinica De Estetica: Espaco Vida-",
+    "numero": "5531995538740"
   },
   {
-    "nome": "Dentistas Itaipuacu",
-    "numero": "5521990618753"
+    "nome": "Marcella Marques Nutricionista Clinica E Esportiva Funcional",
+    "numero": "5531998039298"
   },
   {
-    "nome": "Ortodontista Itaipuacu Dra. Monica Ponce De Paiva",
-    "numero": "5521973793178"
+    "nome": "Bruna Teodora - Nutricionista Clinica",
+    "numero": "5531996145829"
   },
   {
-    "nome": "Protese Dentaria Jayme Vale",
-    "numero": "5521997353379"
+    "nome": "Clinica Mikaelle Morais",
+    "numero": "5531995139333"
   },
   {
-    "nome": "Sorrisoacu Clinica Odontologica E Estetica",
-    "numero": "5521968311124"
+    "nome": "Nutricionista Wiliane Santos",
+    "numero": "5531994413272"
   },
   {
-    "nome": "Clinica Integrada Dr Alberto Costa",
-    "numero": "5521993431289"
+    "nome": "Nutricionista Kesley Rocha - Nutricionista Em Belo Horizonte - Emagrecimento - Pampulha",
+    "numero": "5531971334403"
   },
   {
-    "nome": "Mcs Laboratorio De Protese Dentaria",
-    "numero": "5521998676205"
+    "nome": "Sheyla Cordeiro - Nutricionista Especialista Em Diabetes E Obesidade | Atendimento Presencial E On-line",
+    "numero": "5531990601100"
   },
   {
-    "nome": "Dra Juliane Madeira",
-    "numero": "5521974168585"
+    "nome": "Eldomed",
+    "numero": "5531999193917"
   },
   {
-    "nome": "Dr. Jouberth Torres, Cirurgiao Buco-maxilo-facial",
-    "numero": "5521977236016"
+    "nome": "Thairine Nutricionista",
+    "numero": "5531986876550"
   },
   {
-    "nome": "Consultorio Odontologico Marta Rosenberg",
-    "numero": "5521972274284"
+    "nome": "Larissa Rafaela - Nutricionista",
+    "numero": "5594992547989"
   },
   {
-    "nome": "Construindo Sorrisos -harmonizacao Orofacial Dr. Fernando Cesar P. Costa",
-    "numero": "5521999128679"
+    "nome": "Dr. Joao Eduardo - Nutrologia Em Canaa Dos Carajas",
+    "numero": "5594991397409"
   },
   {
-    "nome": "Inova Odontologia Especializada",
-    "numero": "5521971669888"
+    "nome": "Nutricao & Bem Estar. Kaline Carvalho Nutricionista.",
+    "numero": "5594991070812"
   },
   {
-    "nome": "Dentista Alessandra Marinho",
-    "numero": "5521982778549"
+    "nome": "Nutricionista Nutri + Avenida Dos Pioneiros 58 Centro Canaa Dos Carajas",
+    "numero": "5594991799363"
   },
   {
-    "nome": "Orali",
-    "numero": "5551991501551"
+    "nome": "Clinica Dra. Camila Magalhaes",
+    "numero": "5594984406709"
   },
   {
-    "nome": "Sabre Odonto",
-    "numero": "5551991937322"
+    "nome": "Nutricionista Esportivo | Emagrecimento E Hipertrofia",
+    "numero": "5567991374895"
   },
   {
-    "nome": "Dra. Desiree Terra Lazaroto - Dentista - Ortodontista",
-    "numero": "5551999859232"
+    "nome": "Nutricionista | Ana Paula Martone | Nutricionista Esportiva | Campo Grande Ms",
+    "numero": "5567992359992"
   },
   {
-    "nome": "Clinica Odontologica Fessil",
-    "numero": "5551999661460"
+    "nome": "Thiago Parrudo - Nutricionista Clinico E Esportivo",
+    "numero": "5567981236150"
   },
   {
-    "nome": "Benquer Odontologia | Dentista Auxiliadora Porto Alegre",
-    "numero": "5551999434126"
+    "nome": "Dra. Ana Paula Piassa | Nutricionista Em Campo Grande (atendimento Particular)",
+    "numero": "5567981339669"
   },
   {
-    "nome": "Clinica Koelsch",
-    "numero": "5551998054598"
+    "nome": "Gabriela Nogueira - Nutricionista Em Campo Grande",
+    "numero": "5567984321056"
   },
   {
-    "nome": "Mira Odontologia Porto Alegre",
-    "numero": "5551999504038"
+    "nome": "Dra. Paula Saldanha Tschinkel - Nutricionista",
+    "numero": "5567992170859"
   },
   {
-    "nome": "Dra. Vanessa Freitas",
-    "numero": "5551997173229"
+    "nome": "Nutricionista Jessica Alves - Emagrecimento, Saude Da Mulher, Nutricao Integrativa, Ansiedade E Compulsao Alimentar",
+    "numero": "5567996011350"
   },
   {
-    "nome": "Dentista Dra. Aline Kolling",
-    "numero": "5551996101217"
+    "nome": "Nutricionista Luis Felipe Lorenzon",
+    "numero": "5567999127762"
   },
   {
-    "nome": "Dr. Lucas Martins - Dentista Em Porto Alegre, Rs | Implantes Dentarios, Proteses, Facetas De Resina, Harmonizacao Facial",
-    "numero": "5551985708190"
+    "nome": "Nutricionista Claudia Scorsafava",
+    "numero": "5567992173034"
   },
   {
-    "nome": "Dr. Marcelo Dornelles",
-    "numero": "5551993572189"
+    "nome": "Dr. Leonardo Aydos - Nutricionista Em Campo Grande Ms",
+    "numero": "5567999861502"
   },
   {
-    "nome": "Dra. Patricia Oliboni De Bairros",
-    "numero": "5551992084931"
+    "nome": "Glauciane Norte-nutricionista-campo Grande-ms-emagrecimento-e-nutricao-esportiva-online-e-presencial",
+    "numero": "5567991055166"
   },
   {
-    "nome": "Dra Arielle Salvi - Dentista Bom Fim",
-    "numero": "5551980801020"
+    "nome": "Nutricionista Priscila Bueno",
+    "numero": "5567996658617"
   },
   {
-    "nome": "Dr Rafael Cidade | Dentista | Porto Alegre",
-    "numero": "5551996615640"
+    "nome": "Andrea Luiza - Nutricionista Em Campo Grande Ms",
+    "numero": "5567998007488"
   },
   {
-    "nome": "Oa Odontologia - Consultorio Odontologico - Bairro Santana, Porto Alegre",
-    "numero": "5551991922299"
+    "nome": "Karla Rodrigues - Nutricionista Em Campo Grande",
+    "numero": "5567998278832"
   },
   {
-    "nome": "Dra. Debora Tedesco L Odontologia E Ortodontia",
-    "numero": "5551984224229"
+    "nome": "Ismaell Avelino - Nutricao Para Idosos",
+    "numero": "5567993096693"
   },
   {
-    "nome": "Dra. Indira Hadi Odontopediatra | Sorriso Da Familia",
-    "numero": "5551992089552"
+    "nome": "Nutricionista Beatriz Camargo",
+    "numero": "5567996521929"
   },
   {
-    "nome": "Dra Sabrina Wilde",
-    "numero": "5551981768197"
+    "nome": "Leticia Souza - Nutricionista Esportiva | Hipertrofia E Emagrecimento",
+    "numero": "5567981428373"
   },
   {
-    "nome": "Dentista Fernando Schneider - Porto Alegre",
-    "numero": "5551999660794"
+    "nome": "Daiana Angelo Nutricionista Clinica",
+    "numero": "5567991063333"
   },
   {
-    "nome": "Schmitz Amorim Odontologia | Odontopediatra, Invisalign E Ortodontista Convencional",
-    "numero": "5551998485568"
+    "nome": "Nutricionista Larissa Groessinger",
+    "numero": "5567998685551"
   },
   {
-    "nome": "Dr. Jesse Passos - Implantes Dentarios Porto Alegre",
-    "numero": "5551990127700"
+    "nome": "Nutricionista Esportiva Giselly Arandia",
+    "numero": "5567982175984"
   },
   {
-    "nome": "Mauricio Tomazoni | Lentes De Contato Dental Porto Alegre | Implante Dentario",
-    "numero": "5551996068383"
+    "nome": "Clinica Perform - Medico Nutrologo E Do Esporte | Nutricionista | Emagrecimento - Em Campo Grande Ms",
+    "numero": "5567999064303"
   },
   {
-    "nome": "Blanca Odontologia Poa - Implantes, Proteses, Facetas, Ortodontia, Invisalign, Alinhador, Lentes Contato, Harmonizacao Facial",
-    "numero": "5551999111123"
+    "nome": "Sandy Oliveira | Nutricionista",
+    "numero": "5567998521982"
   },
   {
-    "nome": "Dra. Camila Della Flora 308 (dentista)",
-    "numero": "5551983137610"
+    "nome": "Nutricionista Fernando Del Pino",
+    "numero": "5567996509685"
   },
   {
-    "nome": "Clinica Odontologica Alfa Odonto",
-    "numero": "5551994667112"
+    "nome": "Nutricionista Flavio Padilha",
+    "numero": "5567996155332"
   },
   {
-    "nome": "Dr. Marcelo Yuzo Sato",
-    "numero": "5551998307679"
+    "nome": "Nutricionista Em Campo Grande - Debora Calixto",
+    "numero": "5567992503647"
   },
   {
-    "nome": "Luciane Callegari Schuler Urgencias Dentarias Odontologicas Sab/dom/feriados",
-    "numero": "5551984870188"
+    "nome": "Nutricionista Joao Santos",
+    "numero": "5567981888612"
   },
   {
-    "nome": "Noua Odontologia",
-    "numero": "5551989716868"
+    "nome": "Nutricionista Amanda Carretoni",
+    "numero": "5567999046434"
   },
   {
-    "nome": "Dra. Julia Vasconcelos - Cirurgia-dentista",
-    "numero": "5551998973793"
+    "nome": "Nutricionista Em Campo Grande - Dra. Leila Yumi",
+    "numero": "5567996131837"
   },
   {
-    "nome": "Lais Roncatto | Cirurgia-dentista",
-    "numero": "5554999634731"
+    "nome": "Nutricionista Thayna Gil",
+    "numero": "5567991429322"
   },
   {
-    "nome": "Clinica Calegari Odontologia- Avenida Emilio Ribas",
-    "numero": "5511973550053"
+    "nome": "Nutricionista Lucas Arcanjo",
+    "numero": "5567992952058"
   },
   {
-    "nome": "Dra. Giovanna Mariano | Dentista Em Guarulhos | Alinhadores Sousmile",
-    "numero": "5511914607463"
+    "nome": "Nutricionista Laryssa Martins",
+    "numero": "5567999491635"
   },
   {
-    "nome": "Clinica Vassoler",
-    "numero": "5511988434950"
+    "nome": "Thais Batista Nutricionista",
+    "numero": "5567981389127"
   },
   {
-    "nome": "Dentista 24 Horas - Odonto Damaceno",
-    "numero": "5511916530732"
+    "nome": "Nutricionista Esportiva Rebeca Valdes",
+    "numero": "5567992173753"
   },
   {
-    "nome": "Saude Bucal Brasil",
-    "numero": "5511984676243"
+    "nome": "Nicole Ramos / Nutricionista Reabilitacao Pos-hospitalar",
+    "numero": "5567999296665"
   },
   {
-    "nome": "Sapata Odontologia | Lentes E Facetas Em Guarulhos",
-    "numero": "5511991492840"
+    "nome": "Nutricionista Comportamental Iara Dipp",
+    "numero": "5567991314614"
   },
   {
-    "nome": "Sorriso E Face",
-    "numero": "5511947294959"
+    "nome": "Ana Paula Paiva | Nutricionista",
+    "numero": "5567999440466"
   },
   {
-    "nome": "Dra Vitoria Rigato - Dentista Em Guarulhos",
-    "numero": "5511976100692"
+    "nome": "Graciane Morales - Nutricionista - Emagrecimento - Esportiva - Da Fertilidade A Gestacao - Saude Da Mulher E Do Homem",
+    "numero": "5567999120311"
   },
   {
-    "nome": "Orthocare Hamonizacao Facial E Odontologia - Dentista Em Guarulhos",
-    "numero": "5511974004969"
+    "nome": "Nutricionista Emerson Duarte",
+    "numero": "5567992880357"
   },
   {
-    "nome": "Dentista 24hrs - Atos Odontologia Guarulhos",
-    "numero": "5511920817179"
+    "nome": "Nutricionista Alana Cordeiro Porto",
+    "numero": "5567991233969"
   },
   {
-    "nome": "Dentista - Odontologia Especializada C-rizzo - Guarulhos",
-    "numero": "5511976126729"
+    "nome": "Fernanda Perez - Nutricionista Em Campo Grande-ms",
+    "numero": "5567982029999"
   },
   {
-    "nome": "G.a.odontologia(r) - Clinica Odontologica Em Guarulhos",
-    "numero": "5511963907625"
+    "nome": "Nayara Trevellin - Nutricionista Em Campo Grande: Emagrecimento, Hipertrofia E Performance Esportiva",
+    "numero": "5567999712088"
   },
   {
-    "nome": "Dentista Dra. Katerine | Guarulhos",
-    "numero": "5511951739508"
+    "nome": "Dylan Ayala Nutricao Esportiva E Clinica - Campo Grande",
+    "numero": "5567992773040"
   },
   {
-    "nome": "Odontologia Costa Medina",
-    "numero": "5511970740468"
+    "nome": "Nutricionista Robertha Franco",
+    "numero": "5567992172337"
   },
   {
-    "nome": "Ortofocus Clinica Odontologica - Dentista",
-    "numero": "5511996956279"
+    "nome": "Dra Keila Artigas Deiss",
+    "numero": "5567992380357"
   },
   {
-    "nome": "Hori Clinica Guarulhos | Dentistas Em Guarulhos - Sp | Lentes De Contato Dentais | Implantes Dentarios",
-    "numero": "5511988677023"
+    "nome": "Nutricionista Fernanda Panziera",
+    "numero": "5567999882158"
   },
   {
-    "nome": "Ceog's Centro Odontologico Global",
-    "numero": "5511988870226"
+    "nome": "Edylla Krissia Nutricionista",
+    "numero": "5567991963266"
   },
   {
-    "nome": "Dentista 24 Horas Consultorio Dra Thalitta Fiamma",
-    "numero": "5511971272341"
+    "nome": "Instituto Marcela Grisoste",
+    "numero": "5567999611313"
   },
   {
-    "nome": "Clinica Odontologica Reoli",
-    "numero": "5511949376011"
+    "nome": "Phamella Avila - Nutricionista Em Campo Grande: Emagrecimento E Qualidade De Vida",
+    "numero": "5567999754198"
   },
   {
-    "nome": "Especiale Odontologia",
-    "numero": "5511955933228"
+    "nome": "Debora Serejo Nutricionista",
+    "numero": "5567984468064"
   },
   {
-    "nome": "Aoun Implantes Dentarios Dentista Em Guarulhos",
-    "numero": "5511945500060"
+    "nome": "Adayana Matos",
+    "numero": "5567991157493"
   },
   {
-    "nome": "Vilari Odontologia | Dentista Em Guarulhos - Implante Dentario, Protese Protocolo, Facetas De Resina, Aparelho Ortodontico",
-    "numero": "5511917563455"
+    "nome": "Dra. Camila Fontoura - Nutricionista",
+    "numero": "5567991415108"
   },
   {
-    "nome": "Clinica Odontologica Em Guarulhos Opus Odonto +",
-    "numero": "5511961750239"
+    "nome": "Nutricionista Esportivo Vitor Cordeiro",
+    "numero": "5567996566793"
   },
   {
-    "nome": "Dentista Em Guarulhos | Dra. Adilla Arruda",
-    "numero": "5511991990421"
+    "nome": "Simone Medeiros - Nutricionista Infancia E Adolescencia Em Campo Grande Ms",
+    "numero": "5567993154141"
   },
   {
-    "nome": "Dentista Guarulhos - Dra. Patricia Rezende",
-    "numero": "5511995669662"
+    "nome": "Nutricionista Larissa Souza",
+    "numero": "5567991576832"
   },
   {
-    "nome": "Dental Power - Comercio De Produtos Odontologicos",
-    "numero": "5511947959154"
+    "nome": "Nutricionista Alessandra Milani",
+    "numero": "5567996609272"
   },
   {
-    "nome": "Clinica Calegari - Sao Joao",
-    "numero": "5511943601019"
+    "nome": "Nutricionista Priscilla Zimerman",
+    "numero": "5567992120392"
   },
   {
-    "nome": "Duo Atelie",
-    "numero": "5511966360223"
+    "nome": "Lu Rezende Nutricionista",
+    "numero": "5567991720677"
   },
   {
-    "nome": "Clinica Odontologica Paoletti",
-    "numero": "5511987140535"
+    "nome": "Nutricionista Patricia Donida",
+    "numero": "5567993507117"
   },
   {
-    "nome": "Demay Odontologia | Dentista Em Guarulhos",
-    "numero": "5511976429259"
+    "nome": "Dra Francisca Bigaton - Nutricionista",
+    "numero": "5567996147292"
   },
   {
-    "nome": "Clinica Odontologica Dra Thais Oliveira",
-    "numero": "5585998658683"
+    "nome": "Dra. Inae Ristow Nutricionista",
+    "numero": "5567993134554"
   },
   {
-    "nome": "Clinica Dentalfe",
-    "numero": "5585988061111"
+    "nome": "Nutricionista Ana Luiza Valente",
+    "numero": "5567991853872"
   },
   {
-    "nome": "Oral Vitta",
-    "numero": "5585988852046"
+    "nome": "Andrieli Souza Borges - Nutricionista",
+    "numero": "5567984447069"
   },
   {
-    "nome": "Dra. Gabriela Maia",
-    "numero": "5585997050628"
+    "nome": "Clinica Hecksher - Nutricionista Giovanna Hecksher | Nutricao Para Emagrecimento, Hipertrofia E Performance",
+    "numero": "5567999686383"
   },
   {
-    "nome": "Ama Odonto Multiclinica",
-    "numero": "5585991010000"
+    "nome": "Simony De Oliveira | Nutricionista Em Campo Grande",
+    "numero": "5567992866577"
   },
   {
-    "nome": "Dr. Igor Pontes",
-    "numero": "5585987571621"
+    "nome": "Fabiana De Carvalho - Nutricionista: Saude Da Mulher, Tentantes, Gestantes E Pos-gestacao",
+    "numero": "5567996237722"
   },
   {
-    "nome": "Sorria Com Saude",
-    "numero": "5585998688939"
+    "nome": "Nutricionista Dra Simone Caccia",
+    "numero": "5567992921204"
   },
   {
-    "nome": "Dr. Leonardo Carvalho",
-    "numero": "5588996621933"
+    "nome": "Nutricionista Cassiano Fontoura",
+    "numero": "5567992676454"
   },
   {
-    "nome": "Clinica Novo Sorriso",
-    "numero": "5585996027786"
+    "nome": "Nutricionista Stefanny Santos",
+    "numero": "5567991988865"
   },
   {
-    "nome": "Clinica Odontologica Lourinho Ltda",
-    "numero": "5585988404126"
+    "nome": "Barbieri Performance - Nutricionista Em Campo Grande/ms",
+    "numero": "5567998119866"
   },
   {
-    "nome": "Viver + Odonto | Dentista | Aparelho Ortodontico | Implante | Conjunto Ceara / Fortaleza",
-    "numero": "5585986608306"
+    "nome": "Larissa Rosa Nutricionista",
+    "numero": "5567992164069"
   },
   {
-    "nome": "Monte Clinica",
-    "numero": "5585996042346"
+    "nome": "Nutricionista Carlos Chudechi - Crn:81194/p",
+    "numero": "5567998117935"
   },
   {
-    "nome": "Odontodent",
-    "numero": "5585988883850"
+    "nome": "Nutricionista Luana Leite",
+    "numero": "5567992822807"
   },
   {
-    "nome": "Dra. Renata De Paula",
-    "numero": "5585999034006"
+    "nome": "Nutricionista Fernanda Molina",
+    "numero": "5567992261812"
   },
   {
-    "nome": "Dra. Roberta Leal",
-    "numero": "5585986945295"
+    "nome": "Nutricionista Giovana Messias",
+    "numero": "5567992564897"
   },
   {
-    "nome": "Lafayette Dent & Saude",
-    "numero": "5585987083900"
+    "nome": "Nutricionista Cristina Yamashita",
+    "numero": "5567999459471"
   },
   {
-    "nome": "Camila & Evertton Odontologia",
-    "numero": "5585986369740"
+    "nome": "Jessica Pelegrin - Nutricionista",
+    "numero": "5567996195119"
   },
   {
-    "nome": "Dr. Everton Cavalcante",
-    "numero": "5585986778616"
+    "nome": "Nutricionista Aline Macedo",
+    "numero": "5567992957812"
   },
   {
-    "nome": "Oral Unic",
-    "numero": "5585981936597"
+    "nome": "Nutricionista Lariane Moreira",
+    "numero": "5567996447984"
   },
   {
-    "nome": "Dr. Dennys Baetas Rocha",
-    "numero": "5585985516030"
+    "nome": "Nutricionista Esportiva - Isabella Godoi",
+    "numero": "5567992262018"
   },
   {
-    "nome": "Clinica Sorriso E Vida",
-    "numero": "5585989770090"
+    "nome": "Nutricionista Alexia Franco",
+    "numero": "5567991919292"
   },
   {
-    "nome": "Dr. Marcelo Meireles",
-    "numero": "5585989624780"
+    "nome": "Nutricionista Gabriel Borges",
+    "numero": "5567991452250"
   },
   {
-    "nome": "Dr. Flavio Mattos",
-    "numero": "5585988418549"
+    "nome": "Stephannie Torres Nutricionista",
+    "numero": "5567998582375"
   },
   {
-    "nome": "Clinica Viva Dente",
-    "numero": "5585998280795"
+    "nome": "Nutricionista Gaby Escobar",
+    "numero": "5567996973007"
   },
   {
-    "nome": "Dr Vinicius E Dra Carline - Oral Implantes",
-    "numero": "5585999206899"
+    "nome": "Nutricionista Dulciely Indalecio",
+    "numero": "5567993307080"
   },
   {
-    "nome": "Ad Odonto",
-    "numero": "5585988715827"
+    "nome": "Consultorio Nutricionista Brayan",
+    "numero": "5567992037050"
   },
   {
-    "nome": "Odonto Center - Unidade 02",
-    "numero": "5585987807401"
+    "nome": "Nutricionista Mayra Vieira | Bariatrica",
+    "numero": "5567982065544"
   },
   {
-    "nome": "Dra. Flavia Marcon",
-    "numero": "5585999353006"
+    "nome": "Nutricionista Giovana Morales",
+    "numero": "5567999005756"
   },
   {
-    "nome": "Clinica Tia Vi",
-    "numero": "5585999185620"
+    "nome": "Grazieli Siglinski, Nutricionista",
+    "numero": "5567981607934"
   },
   {
-    "nome": "Dra. Rafaela Muniz/cirurgia-dentista",
-    "numero": "5585987275753"
+    "nome": "Nutricionista Thais Araujo",
+    "numero": "5567992031117"
   },
   {
-    "nome": "Dra Leticia Castanheira",
-    "numero": "5585999650957"
+    "nome": "Instituto Lcm - Nutricao E Estetica Integrativa - Nutricionista Integrativa",
+    "numero": "5567996804857"
   },
   {
-    "nome": "Dra Erica Goncalves",
-    "numero": "5585992404636"
+    "nome": "Nutricionista Esportiva Emilene Batista",
+    "numero": "5567999027202"
   },
   {
-    "nome": "Dra. Cinthya Quagliato",
-    "numero": "5585997479505"
+    "nome": "Nutricionista Silvana Poletto",
+    "numero": "5567999891070"
   },
   {
-    "nome": "Orto Dente",
-    "numero": "5585988834343"
+    "nome": "Matheus Acerbi - Nutricionista Ortomolecular, Integrativo E Funcional",
+    "numero": "5511992008520"
   },
   {
-    "nome": "Clinica Reali Odontologia",
-    "numero": "5585981803154"
+    "nome": "Dra. Carina Leiria - Nutricionista Funcional Integrativa | Especialista Em Emagrecimento Saudavel Campo Grande Ms",
+    "numero": "5547988202415"
   },
   {
-    "nome": "B&b Odontologia Especializada",
-    "numero": "5585989921927"
+    "nome": "Clissia Urio Nutricionista",
+    "numero": "5567992677133"
   },
   {
-    "nome": "Ds Clinic",
-    "numero": "5585988533637"
+    "nome": "Dra Heloisa Xavier Dib",
+    "numero": "5567996491056"
   },
   {
-    "nome": "Dra Cintia Figueiredo",
-    "numero": "5585994336372"
+    "nome": "Studio Impacto Campo Grande Ms",
+    "numero": "5567981514219"
   },
   {
-    "nome": "Dr. Dantas",
-    "numero": "5585985533753"
+    "nome": "Nutricionista Em Piracicaba Carol Ferrari",
+    "numero": "5519996314306"
   },
   {
-    "nome": "Odonto Center",
-    "numero": "5585987338080"
+    "nome": "Julia Mori - Nutricionista Em Piracicaba: Estetica, Emagrecimento E Hipertrofia Para Praticantes De Atividade Fisica",
+    "numero": "5519997344951"
   },
   {
-    "nome": "Clinica Eduardo Girao",
-    "numero": "5585997927942"
+    "nome": "Leticia Panaia - Nutricionista Em Piracicaba",
+    "numero": "5519991527918"
   },
   {
-    "nome": "Dra Adriana Britto",
-    "numero": "5585985444002"
+    "nome": "Nutricionista Kamila Negri",
+    "numero": "5519995745555"
   },
   {
-    "nome": "Clinica Garcia Melo",
-    "numero": "5585991427775"
+    "nome": "Nutricionista Josue - Transformando Vidas Com Emagrecimento, Performance E Saude Em Piracicaba",
+    "numero": "5519974099905"
   },
   {
-    "nome": "Dra Sandra Nogueira | Dentista Fortaleza | Dtm, Bruxismo E Dor Na Face | Clareamento Dental",
-    "numero": "5585992818015"
+    "nome": "Nutricionista Alexandre Silva | Piracicaba",
+    "numero": "5519995557295"
   },
   {
-    "nome": "Dr Thiago Vasconcelos",
-    "numero": "5585991604868"
+    "nome": "Erika Mizutani Nutricionista",
+    "numero": "5519984282229"
   },
   {
-    "nome": "Dra. Brenda Farias",
-    "numero": "5585991023435"
+    "nome": "Nutricionista Lucimeire Bombach Lara",
+    "numero": "5519998019844"
   },
   {
-    "nome": "Wy Odonto",
-    "numero": "5585981087697"
+    "nome": "Nutricionista Priscila Arthur | Emagrecimento | Diabetes Tipo 2 | Piracicaba Sp",
+    "numero": "5519971443909"
   },
   {
-    "nome": "Odonto Clinica Antonio Bezerra",
-    "numero": "5585997499067"
+    "nome": "Nutricionista Esportiva Patricia Chiaverini",
+    "numero": "5519991792626"
   },
   {
-    "nome": "Consultorio Dra Cristiane Gomes",
-    "numero": "5585985495425"
+    "nome": "Nutricionista Patricia Oliveira",
+    "numero": "5519994952839"
   },
   {
-    "nome": "Dra Camila Lopes",
-    "numero": "5585999904176"
+    "nome": "Nutricionista Thais Zambello",
+    "numero": "5519981545949"
   },
   {
-    "nome": "Conceito Odontologia",
-    "numero": "5585988953124"
+    "nome": "Nutricionista Simone Ometto",
+    "numero": "5519998989494"
   },
   {
-    "nome": "Odontocompany Fortaleza",
-    "numero": "5585981984307"
+    "nome": "Nutricionista Cristiane Brito",
+    "numero": "5519996768946"
   },
   {
-    "nome": "Dra. Revila Bianca",
-    "numero": "5585996314714"
+    "nome": "Nutricionista Rodrigo Diniz",
+    "numero": "5519998996659"
   },
   {
-    "nome": "Dentista Em Granja Lisboa - Clinica Sorriso E Vida",
-    "numero": "5585986224857"
+    "nome": "Nutricionista Vania Beletate",
+    "numero": "5519997432375"
   },
   {
-    "nome": "Dr. Carlos Cicero - Implantes Dentarios Fortaleza",
-    "numero": "5585992698236"
+    "nome": "Clinica Nutri Vida",
+    "numero": "5519991760328"
   },
   {
-    "nome": "Dentista Em Casa",
-    "numero": "5585986906269"
+    "nome": "Gracieli Nogueira - Nutricionista Em Piracicaba: Emagrecimento E Estetica",
+    "numero": "5519995456209"
   },
   {
-    "nome": "Alinhadores Fortaleza",
-    "numero": "5585988817602"
+    "nome": "Nutricionista Rosemeire Sacamoto",
+    "numero": "5519996699075"
   },
   {
-    "nome": "Odonto Center - Clinica Popular - Unidade 04",
-    "numero": "5585989274822"
+    "nome": "Nutricionista Luana Carrara (nutricao Descomplicada)",
+    "numero": "5519998040692"
   },
   {
-    "nome": "Clinica Dentista Top",
-    "numero": "5585985782020"
+    "nome": "Nathalia Capozzi: Nutricionista Em Piracicaba - Emagrecimento E Hipertrofia",
+    "numero": "5515996261240"
   },
   {
-    "nome": "Dra Benaiza",
-    "numero": "5585987881741"
+    "nome": "Nutricionista Beatriz Cabrini - Funcional E Esportiva",
+    "numero": "5519991364243"
   },
   {
-    "nome": "Dra. Marcia Nunes I Dentista I Ortondontia I Implante Dentario I Parangaba - Fortaleza",
-    "numero": "5585999776205"
+    "nome": "Nutricionista Mariana Penati",
+    "numero": "5519936195984"
   },
   {
-    "nome": "Marina Studart",
-    "numero": "5585985966183"
+    "nome": "Nutricionista Camila Carlet",
+    "numero": "5519992730796"
   },
   {
-    "nome": "Dra. Luana Pitombeira - Ortodontia E Odontologia Estetica",
-    "numero": "5585999618302"
+    "nome": "Nutricionista Ludmila Coral Ferreira",
+    "numero": "5519996553277"
   },
   {
-    "nome": "Inovaface",
-    "numero": "5585989391010"
+    "nome": "Bianca Paula - Nutricionista Oncologica E Clinica",
+    "numero": "5519998359896"
   },
   {
-    "nome": "Dra.stefany Alencar Odontologia",
-    "numero": "5585997229033"
+    "nome": "Nutricionista Laura Setem",
+    "numero": "5519999656479"
   },
   {
-    "nome": "Dra Luciana & Dr Fernando",
-    "numero": "5585981230023"
+    "nome": "Julia Storel Nutricionista Clinica E Esportiva",
+    "numero": "5519998921079"
   },
   {
-    "nome": "Perfecta Odontologia",
-    "numero": "5519987220849"
+    "nome": "Nutricionista Vivianne Costta - Seguranca Alimentar E Consultoria De Alimentos Em Piracicaba",
+    "numero": "5519982008365"
   },
   {
-    "nome": "Dra Mariana Mazzolani - Cro 111546 - Ortodontia|swiss Park|invisalign Doctor|dentista Em Campinas|invisalign Em Campinas",
-    "numero": "5519991091330"
+    "nome": "Lais Sandalo - Nutricionista",
+    "numero": "5519998557848"
   },
   {
-    "nome": "Orny Odontologia",
-    "numero": "5519992909917"
+    "nome": "Nutricionista Vitoria Bertochi | Nutricao Clinica E Esportiva",
+    "numero": "5519997433516"
   },
   {
-    "nome": "Clinica Vida Odontologia",
-    "numero": "5519981274256"
+    "nome": "Nutricionista Emagrecimento Angelica Tavares",
+    "numero": "5519999553135"
   },
   {
-    "nome": "Odonto Mares",
-    "numero": "5519987026707"
+    "nome": "Nutricionista Rafael Henrique Da Silva - Mankut",
+    "numero": "5519997441918"
   },
   {
-    "nome": "Bom Retiro Med Odonto",
-    "numero": "5519992420057"
+    "nome": "Nutricionista Marcela Nazatto",
+    "numero": "5519997322341"
   },
   {
-    "nome": "...",
-    "numero": "5519999579704"
+    "nome": "Ana Teresa Hansted - Nutricionista Integrativa",
+    "numero": "5519996061187"
   },
   {
-    "nome": "Clinica Alo Dente",
-    "numero": "5519983030540"
+    "nome": "Nutricionista Lidi Mansanari",
+    "numero": "5519998983899"
   },
   {
-    "nome": "Odonto Excellence Campinas - Ouro Verde",
-    "numero": "5519999405084"
+    "nome": "Luciana Albarracin | Nutricionista Funcional E De Precisao Em Piracicaba",
+    "numero": "5519997208611"
   },
   {
-    "nome": "Levare Odontologia - Dentista Campinas",
-    "numero": "5519993851155"
+    "nome": "Francielly Franco L Nutricionista",
+    "numero": "5519984188807"
   },
   {
-    "nome": "Dra Vitoria Prado Odontologia",
-    "numero": "5519989455636"
+    "nome": "Nutricionista Gabriel Bauer",
+    "numero": "5519971487888"
   },
   {
-    "nome": "Heal Odontologia",
-    "numero": "5519989135177"
+    "nome": "Luciana Tavares Nutricionista",
+    "numero": "5519997404882"
   },
   {
-    "nome": "Odonthos Odontologia Integrada",
-    "numero": "5519981248789"
+    "nome": "Nutricionista Sabrina Marcelo - Emagrecimento E Vegetarianismo",
+    "numero": "5519989050886"
   },
   {
-    "nome": "Dra. Michelle Sakihama Ortodontista | Invisalign Em Campinas | Dentista Em Campinas | Alinhadores",
-    "numero": "5519997107150"
+    "nome": "Lais Ferreira Lima - Nutricionista Materno Infantil",
+    "numero": "5519992225600"
   },
   {
-    "nome": "Dra. Glaucia Bertoli Odontologia -dentista Campinas - Lente De Contato-restauracao-protese-implante-protocolo-ortodontia",
-    "numero": "5519981270602"
+    "nome": "Dual Nutri - Nutricao Clinica E Bariatrica",
+    "numero": "5519999282784"
   },
   {
-    "nome": "Dra. Flavia Sales",
-    "numero": "5519989301980"
+    "nome": "Carol Lovadino Nutricionista",
+    "numero": "5519999950615"
   },
   {
-    "nome": "Dra. Caroline Tigre * Lentes Em Resina & Porcelana",
-    "numero": "5519991816379"
+    "nome": "Nutricionista Infantil Bruna Fraccaro",
+    "numero": "5519983014305"
   },
   {
-    "nome": "Neo - Nucleo Especializado Em Odontologia",
-    "numero": "5519992364004"
+    "nome": "Vida Inteligente - Nutricao (aparecida F. Morais)",
+    "numero": "5519974212730"
   },
   {
-    "nome": "Dra. Camila Castro - Reabilitacao Oral E Estetica Dental",
-    "numero": "5519971382006"
+    "nome": "Larissa Brino - Nutricao Esportiva",
+    "numero": "5519982572991"
   },
   {
-    "nome": "Soares & Faria Odontologia",
-    "numero": "5519995632393"
+    "nome": "Vanessa Parise Nutricionista",
+    "numero": "5519983920802"
   },
   {
-    "nome": "Dr. Fabiano Arrivabene Crosp 68.858 - Especialista Em Implantes Dentarios - Campinas - Sp",
-    "numero": "5519998507004"
+    "nome": "Nutricionista Isabela Massari - Piracicaba",
+    "numero": "5519997721410"
   },
   {
-    "nome": "Dra Malu Franco Odondologia | Dentista Em Campinas",
-    "numero": "5519974128711"
+    "nome": "Nutricionista Livia Carvalho Leao - Saude Intestinal E Feminina",
+    "numero": "5519984005692"
   },
   {
-    "nome": "Juliana Pelegrini - Dental Boutique",
-    "numero": "5519982713389"
+    "nome": "Nutricionista Manuela Santin",
+    "numero": "5519996472325"
   },
   {
-    "nome": "Dra. Karla Vazone - Dentista E Odontologia Estetica Em Campinas - Sp",
-    "numero": "5519981278626"
+    "nome": "Suzane Meira Nutricionista Para Mulheres",
+    "numero": "5519998313063"
   },
   {
-    "nome": "Liedente Dental Clinic",
-    "numero": "5519996779433"
+    "nome": "Aline Stenico Nutricao Funcional E Estetica",
+    "numero": "5519982892475"
   },
   {
-    "nome": "Amyo Clinic |ortodontia|swiss Park|invisalign Doctor|dentista Em Campinas",
-    "numero": "5519991091330"
+    "nome": "Nutricionista Dra. Tatiana Abreu Reis",
+    "numero": "5519998957998"
   },
   {
-    "nome": "Dentista Sulamerica Odontocenter Odontologia Avancada",
-    "numero": "5519992260658"
+    "nome": "Diogo Teixeira Nutricionista",
+    "numero": "5511980136845"
   },
   {
-    "nome": "Dr. Gustavo Quesada | Dentista Em Campinas - Sp",
-    "numero": "5519981246011"
+    "nome": "Aline Belardin Nutricionista",
+    "numero": "5519996974416"
   },
   {
-    "nome": "Dra. Andrea Fogaca Meneguette, Dentista",
-    "numero": "5519997434617"
+    "nome": "Consultorio Nutricionista Kelly Ruiz",
+    "numero": "5519978186363"
   },
   {
-    "nome": "Nicdente Odontologia Integrada - Dra Glaucia Bertoli",
-    "numero": "5519981270602"
+    "nome": "Nutricionista Sabrina Tranquelin - Online",
+    "numero": "5519988345444"
   },
   {
-    "nome": "Levive Odontologia | Dentista Em Campinas",
-    "numero": "5519971375551"
+    "nome": "Nutricionista Camila Valerio",
+    "numero": "5519989677854"
   },
   {
-    "nome": "Dra. Tatiana Abujamra - Dentista - Campinas - Sp",
-    "numero": "5519971181707"
+    "nome": "Clinica Nutricao Fernando Palma",
+    "numero": "5519971501975"
   },
   {
-    "nome": "Dr. Otavio Alberici - Cirurgiao Dentista",
-    "numero": "5519997740205"
+    "nome": "Nutricionista Maria Rita Pires",
+    "numero": "5519982515390"
   },
   {
-    "nome": "Dra Natalia Gesualdi",
-    "numero": "5519997994250"
+    "nome": "Nutricionista Adriane Foganholo",
+    "numero": "5519992172604"
   },
   {
-    "nome": "Dent+ Niteroi",
-    "numero": "5521982226494"
+    "nome": "Nutricionista Jean Giovanetti",
+    "numero": "5519994406594"
   },
   {
-    "nome": "Clinica Odontologica Saude Oral",
-    "numero": "5521989080507"
+    "nome": "Instituto Inspire - Bem-estar E Saude Integrativa (psicologia, Acupuntura, Yoga, Nutricao, Meditacao)",
+    "numero": "5516920003351"
   },
   {
-    "nome": "Dra Simone Quadros - Dentista Em Casa, Home Care Odontologico E Consultorio Em Niteroi, Dentista Oncologica, Laserterapia",
-    "numero": "5521997996781"
+    "nome": "Clinica De Nutricao Ronaldo Vieira",
+    "numero": "5519993602315"
   },
   {
-    "nome": "Tratamento De Canal Com Microscopio - Dra. Alessandra Fonseca: Endodontista",
-    "numero": "5521988863024"
+    "nome": "Nutricionista Julia Almeida",
+    "numero": "5519998995257"
   },
   {
-    "nome": "Ceo - Centro De Especialidades Odontologicas",
-    "numero": "5521991415706"
+    "nome": "Nutricionista Cirleide Alves",
+    "numero": "5519981313359"
   },
   {
-    "nome": "Odontocompany Niteroi",
-    "numero": "5521972220363"
+    "nome": "Nutricionista Keila Cardoso",
+    "numero": "5519981188195"
   },
   {
-    "nome": "Dentista E Harmonizacao Facial Em Niteroi , Sao Goncalo, Cabo Frio E Barra Da Tijuca - Dra. Carol Braga",
-    "numero": "5521997644278"
+    "nome": "Nutricionista Maria Fernanda Santos Silveira",
+    "numero": "5519998120929"
   },
   {
-    "nome": "Odonto Vale",
-    "numero": "5521997144864"
+    "nome": "Nutricionista Deborah Mell - Nutricao Humanizada",
+    "numero": "5519982804856"
   },
   {
-    "nome": "Dra. Marcela Froes | Implantes Dentarios Em Niteroi - Rio De Janeiro",
-    "numero": "5521999536352"
+    "nome": "Nutricionista Rafaelle Zen",
+    "numero": "5519999611551"
   },
   {
-    "nome": "Mauro Lefrancois Odontologia | Dentista Em Niteroi | Restauracao Em Resina | Implante Dentario | Restauracao De Porcelana",
-    "numero": "5521989855851"
+    "nome": "Nutricionista Karina Galvao",
+    "numero": "5519993748676"
   },
   {
-    "nome": "Claudia Fatima Odontopediatria E Ortodontia",
-    "numero": "5521983344463"
+    "nome": "Espaco Eleva",
+    "numero": "5519992400185"
   },
   {
-    "nome": "Rl Odontologia | Dentista Em Niteroi",
-    "numero": "5521971008459"
+    "nome": "Nutricao Mylena Casagrandi",
+    "numero": "5519997312232"
   },
   {
-    "nome": "Maxdents Odontologia Integrada | Implantes Dentarios Em Niteroi | Protese Em Niteroi",
-    "numero": "5521967534227"
+    "nome": "Ana Paula Sanches Nutricionista Materno Infantil",
+    "numero": "5519981569861"
   },
   {
-    "nome": "Up Dent - Clinica Odontologica",
-    "numero": "5521999509966"
+    "nome": "Pro Formance - Clinica De Saude",
+    "numero": "5519971302477"
   },
   {
-    "nome": "Tratamento De Canal Com Microscopio & Laser - Dra. Patricia Pizzol Endodontista",
-    "numero": "5521999363956"
+    "nome": "Dra. Nilva Maria Zolini Papini",
+    "numero": "5519997193055"
   },
   {
-    "nome": "Odonto Uai Niteroi",
-    "numero": "5521999283529"
+    "nome": "Nutricionista Alan Inforcato",
+    "numero": "5519982085229"
   },
   {
-    "nome": "Dra Milena Rocha | Dentista Icarai",
-    "numero": "5521933004245"
+    "nome": "Nutricionista Ana Maria Moura",
+    "numero": "5519984051328"
   },
   {
-    "nome": "Oral Sin",
-    "numero": "5521971356272"
+    "nome": "Mom Nutricao E Bem Estar",
+    "numero": "5519992876389"
   },
   {
-    "nome": "Dentista | Dra Clarissa Gomes",
-    "numero": "5521991713370"
+    "nome": "Ana Luiza Moreira Nutricionista Especialista Em Fertilidade",
+    "numero": "5519983064725"
   },
   {
-    "nome": "Dra Helaine Housy - Cirurgia Dentista Urgencia",
-    "numero": "5521972645491"
+    "nome": "S4med Telemedicina & Especialidades Medicas - Piracicaba",
+    "numero": "5511948277775"
   },
   {
-    "nome": "Clinica Odontologica Sorrir Demais",
-    "numero": "5521974509062"
+    "nome": "Cristianny Frasson Matyis",
+    "numero": "5519981608268"
   },
   {
-    "nome": "Consultorio Odontologico Dr. Tulio Mota Facetas Niteroi Dentista Niteroi",
-    "numero": "5521966436752"
+    "nome": "Mariana Piperno Nutricionista",
+    "numero": "5519971028829"
   },
   {
-    "nome": "Sorriario Niteroi Ii - Clinica Odontologica",
-    "numero": "5521998425840"
+    "nome": "Nutricionista Rafael Pereira",
+    "numero": "5519974108241"
   },
   {
-    "nome": "Odonto Oral - Dentista | Protese Dentaria | Tratamento De Canal | Clareamento Dental",
-    "numero": "5521982020424"
+    "nome": "Clinica Alive Estetica Saude E Bem Estar",
+    "numero": "5519983439652"
   },
   {
-    "nome": "Dra. Carina Lyra - Dentista",
-    "numero": "5521964114521"
+    "nome": "Nutricionista Leticia Panaia",
+    "numero": "5519971376547"
   },
   {
-    "nome": "Integrale Odontologia| Seu Dentista No Coracao De Niteroi |amil, Bradesco, Odontoprev E Particular",
-    "numero": "5521976797822"
+    "nome": "Dra. Tina Martinelli",
+    "numero": "5519981969221"
   },
   {
-    "nome": "Ortolook Niteroi - Clinica Odontologica",
-    "numero": "5521988109067"
+    "nome": "Essencia Do Ser - Parto Humanizado",
+    "numero": "5519981794416"
   },
   {
-    "nome": "Vittali Odontologia - Dentista Em Niteroi -",
-    "numero": "5521998505616"
+    "nome": "Caroline Vieira - Nutricionista Infantil Em Piracicaba: Introducao Alimentar",
+    "numero": "5519999181222"
   },
   {
-    "nome": "Nitz Odontologia - Especialista Em Implantes Dentarios",
-    "numero": "5521969354158"
+    "nome": "Nutricionista Barbara Boffo",
+    "numero": "5519988201109"
   },
   {
-    "nome": "Clinica Odontologica Feliz Dente Niteroi / Dentista Centro Niteroi",
-    "numero": "5521970466409"
+    "nome": "Nutricionista Amanda Bezerra",
+    "numero": "5519998248848"
   },
   {
-    "nome": "Dra Paula Tepedino",
-    "numero": "5521989959537"
+    "nome": "Vitta Plena - Beleza De Corpo E Alma - Clinica De Estetica",
+    "numero": "5519981259213"
   },
   {
-    "nome": "Biorelli Odontologia - Dra. Alexandra Andrade - Dentista Em Niteroi - Consultorio Odontologico - Facetas Niteroi",
-    "numero": "5521965425316"
+    "nome": "Espaco Bruna Zaneti",
+    "numero": "5519992663362"
   },
   {
-    "nome": "Dra. Daria Glaucia Cruz I Odontopediatra",
-    "numero": "5521973207450"
+    "nome": "Instituto Mov",
+    "numero": "5519992289551"
   },
   {
-    "nome": "Odontomelo",
-    "numero": "5521998556852"
+    "nome": "Nutricionista Elaine Longo",
+    "numero": "5519974208051"
   },
   {
-    "nome": "Dra. Lana Delarue - Dentista Centro Niteroi",
-    "numero": "5521979531399"
+    "nome": "Lethycia Araujo Nutricionista",
+    "numero": "5519999808711"
   },
   {
-    "nome": "Inovar Odontologia Especializada",
-    "numero": "5521992666337"
+    "nome": "Prime Nutricao De Precisao E Metabolismo",
+    "numero": "5519989350755"
   },
   {
-    "nome": "Dr. Leonardo Moll - Implantes Dentarios E Reabilitacao Oral",
-    "numero": "5521970959890"
+    "nome": "Daniela Augustini - Nutricionista",
+    "numero": "5519992562774"
   },
   {
-    "nome": "Dra Isabella Jannotti Odontopediatra",
-    "numero": "5521998930420"
+    "nome": "Nutricionista - Jessica Santos",
+    "numero": "5571999297125"
   },
   {
-    "nome": "Dentista Em Icarai - Niteroi | Dra. Nubya Mattos | Odontologia Em Casa | Implante Dentario",
-    "numero": "5521991121410"
+    "nome": "Raiane Bispo - Nutricionista",
+    "numero": "5571992188350"
   },
   {
-    "nome": "Dra. Renata Manhaes - Dentista",
-    "numero": "5521985224482"
+    "nome": "Nutricionista - Erica Carvalho",
+    "numero": "5571985387583"
   },
   {
-    "nome": "Dra Gabriella Castro Harmonizacao Integrativa Niteroi Icarai",
-    "numero": "5521971903406"
+    "nome": "Nutricionista Luan Lima",
+    "numero": "5571982582080"
   },
   {
-    "nome": "Doutor Sorriso | Dentistas Em Niteroi/rj",
-    "numero": "5524992955919"
+    "nome": "Nutricionista Matheus Sacramento",
+    "numero": "5571981094844"
   },
   {
-    "nome": "Tp | Odontologia - Thiago Prado",
-    "numero": "5521987944696"
+    "nome": "Flaviane Santana - Nutricionista",
+    "numero": "5575981117222"
   },
   {
-    "nome": "Tres Odontologia",
-    "numero": "5521976958787"
+    "nome": "Ihuri Meira - Nutricao Clinica E Esportiva",
+    "numero": "5571999465533"
   },
   {
-    "nome": "Mf Reabilitacao Oral E Implante",
-    "numero": "5521983175506"
+    "nome": "Nutricionista Camila Emanuele",
+    "numero": "5571993116122"
   },
   {
-    "nome": "Dra Raquel Carrillho | Dentista Em Niteroi",
-    "numero": "5521970054006"
+    "nome": "Nutricionista Jane Medeiros",
+    "numero": "5571992095666"
   },
   {
-    "nome": "Dra. Juliana Coelho | Dentista Em Niteroi",
-    "numero": "5521997502714"
+    "nome": "Clinica Barboli",
+    "numero": "5571981962494"
   },
   {
-    "nome": "Consultorio Odontologico Dra. Mariane G. De Freitas",
-    "numero": "5521981717284"
+    "nome": "Marina Ramos - Nutricionista",
+    "numero": "5571993743939"
   },
   {
-    "nome": "Odontocompany Largo Da Batalha",
-    "numero": "5521997981045"
+    "nome": "Crislainny Labanca | Nutricionista",
+    "numero": "5571991269274"
   },
   {
-    "nome": "Dr. Vinicius Souza | Dentista Icarai",
-    "numero": "5521991763899"
+    "nome": "Nutricionista Miriades Teles",
+    "numero": "5571982073754"
   },
   {
-    "nome": "Dra. Vanessa Ornellas Narciso (invisalign Doctor )",
-    "numero": "5521984065517"
+    "nome": "Nutricionista Camila Cardoso",
+    "numero": "5571992729890"
   },
   {
-    "nome": "Dra. Tatiana Mendes",
-    "numero": "5571999544452"
+    "nome": "Nutricionista Infantil Beatriz Cipriano",
+    "numero": "5571999265114"
   },
   {
-    "nome": "Dra Anita Beatriz/ Dentista Salvador/ Dentista Caminho Das Arvores/ Invisalign/ Sousmile",
-    "numero": "5571987003052"
+    "nome": "Nutricionista Pollyanna Cardoso",
+    "numero": "5571996007360"
   },
   {
-    "nome": "Dra Ilana Neves",
-    "numero": "5571991266087"
+    "nome": "Nutricionista Mylena Lucena",
+    "numero": "5571991650659"
   },
   {
-    "nome": "Dentista Baiano - Especialista Em Implantes Dentarios Em Salvador",
-    "numero": "5571984503131"
+    "nome": "Em Nutricao",
+    "numero": "5571999097109"
   },
   {
-    "nome": "Dentista Dra. Ana Francischone",
-    "numero": "5571996460846"
+    "nome": "Andriele Alves- Nutricionista- Emagrecimento Eficiente",
+    "numero": "5571999667365"
   },
   {
-    "nome": "Clinica Nucleo De Odontologia",
-    "numero": "5571986779247"
+    "nome": "Reabilite Saude Integrada Catu De Abrantes",
+    "numero": "5571988030558"
   },
   {
-    "nome": "Clinica Odontologica Ic Odontologia Estetica - Clareamento Dental - Protese Dentaria",
-    "numero": "5571991436981"
+    "nome": "Dra. Renata Melo",
+    "numero": "5571999844036"
   },
   {
-    "nome": "Dr Adauto Mascarenhas|centro Medico Salvador",
-    "numero": "5571999520796"
+    "nome": "Elaine Oliveira Nutricionista",
+    "numero": "5571991138134"
   },
   {
-    "nome": "Odontovance | Dr Luiz Nery & Dra Daniele Lima - Estetica Dental Em Salvador - Ba",
-    "numero": "5571996405462"
+    "nome": "Geisy Carvalho",
+    "numero": "5571987865482"
   },
   {
-    "nome": "Dra Marcia Navarro - Ortodontista Salvador",
-    "numero": "5571992894388"
+    "nome": "Nutricao Cientifica",
+    "numero": "5571999202085"
   },
   {
-    "nome": "Clinica Bahia Odonto",
-    "numero": "5571997004085"
+    "nome": "Amanda Nutri",
+    "numero": "5571983494081"
   },
   {
-    "nome": "Dentista Salvador",
-    "numero": "5571996197601"
+    "nome": "Instituto Arara Azul De Obesidade (iaao)",
+    "numero": "5571993570759"
   },
   {
-    "nome": "Clinica Sorrizues - Sorriso De Pernambues",
-    "numero": "5571999666663"
+    "nome": "Arielly Anunciacao",
+    "numero": "5571982853793"
   },
   {
-    "nome": "Clinica Odontologica Da Liberdade",
-    "numero": "5571988050407"
+    "nome": "Nutricionista Dra. Ana Claudia Moraes",
+    "numero": "5571981457658"
   },
   {
-    "nome": "Zanelle Odontologia | Dentista Cabula Vi",
-    "numero": "5571991410445"
+    "nome": "Clinica Higia",
+    "numero": "5571982762591"
   },
   {
-    "nome": "Dr. Andre Cardoso",
-    "numero": "5571999890813"
+    "nome": "Neuronutri | Excelencia Em Psicologia E Nutricao",
+    "numero": "5571996995270"
   },
   {
-    "nome": "Avanco Odontologia Moderna",
-    "numero": "5571992051474"
+    "nome": "Espaco De Saude Sara Nascimento",
+    "numero": "5571982347914"
   },
   {
-    "nome": "Clinica Sorrir",
-    "numero": "5571993020088"
+    "nome": "Sc Clin",
+    "numero": "5571982983146"
   },
   {
-    "nome": "Dra. Marta Cecilia",
-    "numero": "5571993272250"
+    "nome": "Unna Beauty",
+    "numero": "5571982705918"
   },
   {
-    "nome": "Primor Odontologia Especializada",
-    "numero": "5571985043027"
+    "nome": "Florescer Nucleo Terapeutico",
+    "numero": "5571986154934"
   },
   {
-    "nome": "Dentista Salvador - Ornatti",
-    "numero": "5571999554347"
+    "nome": "Vitoria Uzeda",
+    "numero": "5571987465631"
   },
   {
-    "nome": "Dra. Amanda Lima",
-    "numero": "5571993388121"
+    "nome": "Havoc Suplementos",
+    "numero": "5571993863039"
   },
   {
-    "nome": "Dr. Fabio Vieira - Odontoclive Odontologia Estetica Salvador",
-    "numero": "5571991138823"
+    "nome": "Instituto De Beleza Noely Cerqueira",
+    "numero": "5571992894874"
   },
   {
-    "nome": "Dentista Dr Fausto Queiroz I Implante Dentario Em Salvador",
-    "numero": "5571999544452"
+    "nome": "Instituto Revitaliser",
+    "numero": "5571991337277"
   },
   {
-    "nome": "Akio Miura",
-    "numero": "5571988368334"
+    "nome": "Studio De Pilates Monica Santos",
+    "numero": "5571992391975"
   },
   {
-    "nome": "Clinica Sellus Odontologia| Dentista Em Salvador",
-    "numero": "5571996867814"
+    "nome": "Nutricionista Lorena Bezerra | Emagrecimento E Hipertrofia Em Dias D'avila",
+    "numero": "5571982768435"
   },
   {
-    "nome": "Odontopires",
-    "numero": "5571991518933"
+    "nome": "Boneca De Ferro Suplementos",
+    "numero": "5571981423062"
   },
   {
-    "nome": "Bioimplan Implantes Dentarios Salvador",
-    "numero": "5571982348331"
+    "nome": "Espaco Amar - Atendimento Psicopedagogico E Terapeutico",
+    "numero": "5571992043756"
   },
   {
-    "nome": "Spazio Oroface | Dentista | Clinica Odontologica",
-    "numero": "5571993684822"
+    "nome": "Nutricionista Nadyni Moreira",
+    "numero": "5571999986069"
   },
   {
-    "nome": "Dra. Ananda Bahia Clareamento Dental",
-    "numero": "5571986204906"
+    "nome": "Gilzan Delicatessen",
+    "numero": "5571988884169"
   },
   {
-    "nome": "Clinica Dental Plus",
-    "numero": "5571993760143"
+    "nome": "Nutricionista Liliane Santos Dias D'avila",
+    "numero": "5571983796225"
   },
   {
-    "nome": "Odontocompany Tancredo Neves",
-    "numero": "5571982333663"
+    "nome": "Studio Integrado Lais Adami - Alphaville",
+    "numero": "5571985329435"
   },
   {
-    "nome": "Clinica Odonto Centro",
-    "numero": "5571992066996"
+    "nome": "Ct Personal Duo",
+    "numero": "5571985195545"
   },
   {
-    "nome": "Voa Odontologia - Clinica Odontologica No Stiep",
-    "numero": "5571992680570"
+    "nome": "Nutricionista Kelly Nery",
+    "numero": "5571981315438"
   },
   {
-    "nome": "Dr. Paulo Pinheiro",
-    "numero": "5571997330282"
+    "nome": "Academia Metamorfose Fitness",
+    "numero": "5571982802386"
   },
   {
-    "nome": "Dentista Dra Karolaine Lima",
-    "numero": "5575992235545"
+    "nome": "Clinica Consulmed",
+    "numero": "5571984507463"
   },
   {
-    "nome": "Central Do Dente",
-    "numero": "5571993160899"
+    "nome": "Beiju Da Vel",
+    "numero": "5571982539559"
   },
   {
-    "nome": "Dra. Juliana Mattos - Dentista Ortodontista, Ortopedista Facial, Sono. Salvador E Feira De Santana",
-    "numero": "5571996338209"
+    "nome": "Academia Em Abrantes | Academia Nota 10",
+    "numero": "5571988261999"
   },
   {
-    "nome": "Dr. Dario Miranda, Dentista",
-    "numero": "5571985566332"
+    "nome": "Espaco Silvana Lima | Clinica Estetica | Lauro De Freitas, Ba",
+    "numero": "5571985189148"
   },
   {
-    "nome": "Dentista Dr. Guga Freitas",
-    "numero": "5571997262368"
+    "nome": "Produtos Aloe Vera Forever Living",
+    "numero": "5571990000000"
   },
   {
-    "nome": "Odontocompany - Salvador Brotas",
-    "numero": "5571997144716"
+    "nome": "Celso Ricci Nutricionista E Personal Trainer",
+    "numero": "5571992059297"
   },
   {
-    "nome": "Cliob (clinica Integrada De Odontologia Da Bahia) | Dentista | Harmonizacao Facial | Salvador",
-    "numero": "5571984438855"
+    "nome": "Cilios Juliana Nery",
+    "numero": "5571993397671"
   },
   {
-    "nome": "Clinica Odontologica Volte A Sorrir, Salvador - Ba",
-    "numero": "5571983894966"
+    "nome": "Clinica Ammyclin",
+    "numero": "5571981041688"
   },
   {
-    "nome": "Odonto Class",
-    "numero": "5571982424200"
+    "nome": "Terapiando- Clinica Multiprofissional De Desenvolvimento Infantil",
+    "numero": "5571985156002"
   },
   {
-    "nome": "Instituto Odontologico Dr. Pedro Alexandre",
-    "numero": "5571984672724"
+    "nome": "Clinica Hadassa | Clinica Medica Em Camacari E Dias D'avila",
+    "numero": "5571991093541"
   },
   {
-    "nome": "Dentista 24h | Elo Dent | Clinica Odontologica | Dentista Em Goiania Go | Implante Dentario",
-    "numero": "5562984469382"
+    "nome": "Fernanda Variedades",
+    "numero": "5571936274031"
   },
   {
-    "nome": "Mrj Odonto Center - Dentista Com Sedacao",
-    "numero": "5562996408684"
+    "nome": "Nutricionista Dyelen Almeida - Comportamento Alimentar",
+    "numero": "5571997026691"
   },
   {
-    "nome": "Dra Rubya Leone Dentista Domiciliar Tratamento Odontologico Paliativo, Preventivo, Laser Terapia",
-    "numero": "5562986061359"
+    "nome": "Adriane Lopes - Nutricionista Para Mulheres: Emagrecimento, Saude Da Mulher E Modulacao Intestinal - Belem/pa",
+    "numero": "5591981391023"
   },
   {
-    "nome": "Sorridents Goiania Campinas",
-    "numero": "5562995486442"
+    "nome": "Nutricionista - Dra Danielle Zahlouth - Emagrecimento - Nutricao Esportiva - Saude E Bem-estar",
+    "numero": "5591982953122"
   },
   {
-    "nome": "Clinica Nucleo Odonto",
-    "numero": "5562981391800"
+    "nome": "Bianca Oliveira, Nutricionista Em Belem-pa - Emagrecimento Saudavel - Saude Da Mulher.",
+    "numero": "5591984635967"
   },
   {
-    "nome": "Premier Odontologia",
-    "numero": "5562996678906"
+    "nome": "Marliane Oliveira - Nutricionista Comportamental/belem- Nutri Com Foco Em Saude Mental.",
+    "numero": "5591980807776"
   },
   {
-    "nome": "Qualydent Odontologia Integrada",
-    "numero": "5562986223450"
+    "nome": "Thaise Marilyn Nutricionista Esportiva Em Belem",
+    "numero": "5591986155143"
   },
   {
-    "nome": "Dentista Odontologia Clinica Dr Carlos & Dra Marcella - Goiania",
-    "numero": "5562985578042"
+    "nome": "Nutricionista Desportiva Dra. Aline Carla Araujo",
+    "numero": "5591982204098"
   },
   {
-    "nome": "Instituto Matka Dentista Goiania",
-    "numero": "5562999468115"
+    "nome": "Manuelle Moreira Nutricionista",
+    "numero": "5591982895895"
   },
   {
-    "nome": "Let's Kids | Especialistas Odontopediatras | Urgencia Odontopediatria 24h | Goiania",
-    "numero": "5562983154282"
+    "nome": "Clinica Neuroevolucao | Nutricionista | Unidade Umarizal",
+    "numero": "5591991941515"
   },
   {
-    "nome": "Dentista Em Goiania Go | Instituto Roque Udson | Facetas De Porcelana | Clinica Odontologica",
-    "numero": "5562999868377"
+    "nome": "Marina Lopes Moreira",
+    "numero": "5591991856567"
   },
   {
-    "nome": "Clinica Odontologica Goiania - Odonto Fama",
-    "numero": "5562998320641"
+    "nome": "Dra. Ana Navas - Nutricionista",
+    "numero": "5591985446856"
   },
   {
-    "nome": "Adelar Odontologia",
-    "numero": "5562996483833"
+    "nome": "Dra Rose Oliveira - Medica E Nutricionista Em Belem",
+    "numero": "5591991528250"
   },
   {
-    "nome": "Excelence Care Odontologia",
-    "numero": "5562983389691"
+    "nome": "Carolina Monteiro, Nutricionista Em Belem - Especialista Em Emagrecimento Feminino.",
+    "numero": "5591983493523"
   },
   {
-    "nome": "Clinica Infinity Dental E Facial",
-    "numero": "5562981163663"
+    "nome": "Thais Alaina - Nutricionista Materno Infantil Em Belem",
+    "numero": "5591989462187"
   },
   {
-    "nome": "Inovace Odontologia",
-    "numero": "5562986360866"
+    "nome": "Brenda Batista Nutricao Para Gravidas",
+    "numero": "5591993169198"
   },
   {
-    "nome": "Leonardo Bueno Odontologia",
-    "numero": "5562993142324"
+    "nome": "Nutricionista Samantha Soares",
+    "numero": "5591984059501"
   },
   {
-    "nome": "Natus Odontologia",
-    "numero": "5562991973285"
+    "nome": "Maira Coelho - Nutricionista Funcional: Emagrecimento, Doencas Gastricas/intestinais E Dietas Vegetarianas",
+    "numero": "5591984172630"
   },
   {
-    "nome": "M.o. Odontologia Especializada",
-    "numero": "5562998677070"
+    "nome": "Dra Lidiany Serrao - Nutricionista Em Belem",
+    "numero": "5591981723048"
   },
   {
-    "nome": "Total Dente Odontologia",
-    "numero": "5562981259281"
+    "nome": "Eduardo Queiroz - Nutricionista",
+    "numero": "5591993670999"
   },
   {
-    "nome": "Odonto Mais (unidade Goiania Centro)",
-    "numero": "5562999534457"
+    "nome": "Thiago Cruz - Nutricionista",
+    "numero": "5591980445511"
   },
   {
-    "nome": "Jordana Freire Odontologia Microscopica",
-    "numero": "5562981021620"
+    "nome": "Dr. Atila Fernandez - Nutricionista Clinico, Emagrecimento, Esporte E Estetica.",
+    "numero": "5591992561748"
   },
   {
-    "nome": "Sensie Odontologia",
-    "numero": "5562985881509"
+    "nome": "Nutrirod - Nutricionista Rodrigo Silva",
+    "numero": "5591991919567"
   },
   {
-    "nome": "Dentista Villa Do Sorriso",
-    "numero": "5562985551488"
+    "nome": "Nutricionista Thais Veloso",
+    "numero": "5591981737108"
   },
   {
-    "nome": "Instituto Correia",
-    "numero": "5562999001317"
+    "nome": "Nutricionista Matheus Assis",
+    "numero": "5591985108787"
   },
   {
-    "nome": "Odontocompany Marechal Rondon Goiania",
-    "numero": "5562982902321"
+    "nome": "Nutricionista Surama Marques - Belem, Pa - Emagrecimento E Performance",
+    "numero": "5591986129496"
   },
   {
-    "nome": "Dra. Alice Chaves - Dentista",
-    "numero": "5562981013848"
+    "nome": "Samara Queiroz Nutricionista - Diabetes, Emagrecimento E Longevidade",
+    "numero": "5591982120225"
   },
   {
-    "nome": "Iso Campinas | Ortodontia | Implante Dentario | Dentista Em Goiania, Go",
-    "numero": "5562996167207"
+    "nome": "Karla Jardim Nutricionista Gastrointestinal",
+    "numero": "5591988974529"
   },
   {
-    "nome": "Linea Odontologia Especializada I Dentista No Setor Sul Em Goiania",
-    "numero": "5562992047038"
+    "nome": "Lais Lisboa - Nutricionista, Autocuidado E Emagrecimento Saudavel",
+    "numero": "5591986182109"
   },
   {
-    "nome": "Cirurgia Dos Sisos E Implantes Dentarios Com Especialista.",
-    "numero": "5562981850799"
+    "nome": "Nutri Clinica De Nutricao",
+    "numero": "5591993703132"
   },
   {
-    "nome": "Nay Tia Do Dente - Dentista De Crianca",
-    "numero": "5562984241674"
+    "nome": "Vivian Rodrigues - Nutricionista Infantil Em Belem",
+    "numero": "5591982458124"
   },
   {
-    "nome": "Iero Odontologia",
-    "numero": "5562991271399"
+    "nome": "Nutricionista Lourdes Braga",
+    "numero": "5591980255600"
   },
   {
-    "nome": "Novo Mundo Odontologia",
-    "numero": "5562983270128"
+    "nome": "Nutricionista Geane Oliveira",
+    "numero": "5591985866316"
   },
   {
-    "nome": "Dr. Gabriel Godinho - Mago Do Sorriso Goiania-go",
-    "numero": "5562993603996"
+    "nome": "Thalyson Sarraf - Nutricionista",
+    "numero": "5591991248064"
   },
   {
-    "nome": "Dentista Goiania Viva - Harmonic Odontologia Integrada",
-    "numero": "5562998378681"
+    "nome": "Nutricionista Alberto Neto: Especialista Em Nutricao Clinica E Esportiva.",
+    "numero": "5591984678282"
   },
   {
-    "nome": "Dra Jessica Ferro | Dentista Em Goiania",
-    "numero": "5562981069696"
+    "nome": "Dr. Victor Duarte",
+    "numero": "5591992848457"
   },
   {
-    "nome": "Dentista Em Goiania - Milhomem Odontologia",
-    "numero": "5562981565308"
+    "nome": "Camille Castro Nutricionista, Belem/pa",
+    "numero": "5591984047557"
   },
   {
-    "nome": "Dra. Juliana P. Martins - Prime Odontologia",
-    "numero": "5562992915061"
+    "nome": "Nutricionista Kely Lopes",
+    "numero": "5591992312115"
   },
   {
-    "nome": "Dra. Jessica Reis - Harmony Reis Clinic",
-    "numero": "5562981024530"
+    "nome": "Carlos Bastos Nutricionista Esportivo",
+    "numero": "5591982685401"
   },
   {
-    "nome": "Voce Sorrindo Implantes Goiania (unidade 5) | Dentista Em Goiania | Implantes Dentarios | Proteses Dentarias",
-    "numero": "5562993084788"
+    "nome": "Nutricionista Paulo Guimaraes - Em Belem",
+    "numero": "5591991177874"
   },
   {
-    "nome": "Dra Giovanna Moreira | Dentista Em Goiania",
-    "numero": "5562982623700"
+    "nome": "Nutricionista Integrativa Natasha Matos, Doencas Gastrointestinal, Emagrecimento E Modulacao Intestinal",
+    "numero": "5591980635725"
   },
   {
-    "nome": "Sorrix Sao Bernardo Do Campo",
-    "numero": "5511978600690"
+    "nome": "Nutricionista Matheus Matos",
+    "numero": "5591989430489"
   },
   {
-    "nome": "Cliniorto I Dra. Carla R Nobre - Emerald Invisalign I Excelencia Em Ortodontia No Abc - Estacionamento Exclusivo Em Frente!",
-    "numero": "5511987770335"
+    "nome": "Nutricionista Carolina Tavares | Especialista Em Lipedema - Atendimento On-line E Presencial Em Belem/pa",
+    "numero": "5591991519898"
   },
   {
-    "nome": "Odontopar Clinica Odontologica",
-    "numero": "5511972048691"
+    "nome": "Nutricionista Kamylla Gomes",
+    "numero": "5591984004587"
   },
   {
-    "nome": "Orttoc Ortodontia | Invisalign | Implantes Dentarios | Lentes De Contato | Implantodontia",
-    "numero": "5511995378451"
+    "nome": "Nutricionista Lucianny Oliveira",
+    "numero": "5591999518458"
   },
   {
-    "nome": "Odontocompany Sbc-centro Dentista-implantes-protocolo-proteses-aparelho-facetas-canal-harmonizacao-cirurgias-clinico Geral",
-    "numero": "5511955995040"
+    "nome": "Nutricionista Funcional E Clinica- Jordana Guimaraes",
+    "numero": "5591993022223"
   },
   {
-    "nome": "Sorridents Sbc Centro",
-    "numero": "5511947312377"
+    "nome": "Nutricionista Willy Franca",
+    "numero": "5591993730133"
   },
   {
-    "nome": "Clinica Liss Odontologia",
-    "numero": "5511916273831"
+    "nome": "Nutricionista Thatiane Picanco",
+    "numero": "5591983483443"
   },
   {
-    "nome": "Odonto Santana",
-    "numero": "5511982495277"
+    "nome": "Nutricionista Materno Infantil - Dra Tassiana Freitas",
+    "numero": "5591984698873"
   },
   {
-    "nome": "Sorria Sempre Sbc - Odontologia",
-    "numero": "5511982562031"
+    "nome": "Nutricionista Marina Sampaio",
+    "numero": "5591989563252"
   },
   {
-    "nome": "Dentista L Dr. Oswaldo Minoru L Sao Bernardo Do Campo - Sp",
-    "numero": "5511957300000"
+    "nome": "Amanda Simoes Nutricionista",
+    "numero": "5591989019501"
   },
   {
-    "nome": "Hy Reabilitacao Oral E Estetica - Dentista Em Sao Bernardo Do Campo",
-    "numero": "5511952029237"
+    "nome": "Viegas Consultoria Nutricional",
+    "numero": "5591999647782"
   },
   {
-    "nome": "Dra. Mirella Marques | M.m Odontologia",
-    "numero": "5511910050357"
+    "nome": "Nutricionista Izabela Dos Santos",
+    "numero": "5591983112917"
   },
   {
-    "nome": "Dentarth Nucleo De Saude Integrada",
-    "numero": "5511960969321"
+    "nome": "Nutricionista E Chef Matheus Cruz",
+    "numero": "5591985952893"
   },
   {
-    "nome": "Merecita Odontologia",
-    "numero": "5511940478708"
+    "nome": "Nutricionista Daniela De Alencar",
+    "numero": "5591984600870"
   },
   {
-    "nome": "Dg Odontologia | Especialistas Em Facetas Dentarias",
-    "numero": "5511964130704"
+    "nome": "Nutricionista Dryele Melo",
+    "numero": "5591992005878"
   },
   {
-    "nome": "Dra. Carolina De Araujo Guesse | Estetica Facial",
-    "numero": "5511957901214"
+    "nome": "Espaco Vida Saudavel",
+    "numero": "5591981645144"
   },
   {
-    "nome": "Dra. Marilia De Mattos Murai - Dentista",
-    "numero": "5511989946205"
+    "nome": "Nutricionista - Meguy Bentes",
+    "numero": "5591984044318"
   },
   {
-    "nome": "Dra. Vanessa Cantareira - Odontologia Integrada",
-    "numero": "5511951667542"
+    "nome": "Nutricionista Nayara Guimaraes",
+    "numero": "5591982096843"
   },
   {
-    "nome": "Rc Odontologia Especializada",
-    "numero": "5511995559503"
+    "nome": "Joselene Souza - Nutricionista Clinica Funcional",
+    "numero": "5591996158263"
   },
   {
-    "nome": "Dentistas Dra Ana E Dra Claudia",
-    "numero": "5511943410303"
+    "nome": "Nutricionista Andreza Cardoso - Emagrecimento, Belem/pa",
+    "numero": "5591992422895"
   },
   {
-    "nome": "Dentista - Clinica Sanfer",
-    "numero": "5511969284874"
+    "nome": "Cassia Beatriz Nutricionista",
+    "numero": "5591985300995"
   },
   {
-    "nome": "Dr. Marcelo Stanzis - Clinica Odontologica - Ortodontista (invisalign Top Doctor)",
-    "numero": "5511976898664"
+    "nome": "Nutricionista Elias Favacho",
+    "numero": "5591987229276"
   },
   {
-    "nome": "Dr. Guilherme Augusto Miranda Dentista No Rudge Ramos | Emergencia 24 Horas | Facetas | Clareamento | Implante | Pontualidade",
-    "numero": "5511947111260"
+    "nome": "Nutricionista Jardel Leao Feitosa",
+    "numero": "5591980404920"
   },
   {
-    "nome": "Odontocompany Sbc Lucas Nogueira Garcez - Implantes E Protocolos Dentarios, Proteses, Clareamentos, Aparelho, Canal E Mais!",
-    "numero": "5511988202332"
+    "nome": "Paula Figueiredo - Nutricionista E Fitoterapeuta",
+    "numero": "5591981640572"
   },
   {
-    "nome": "Consultorio Sorritmus",
-    "numero": "5511948193599"
+    "nome": "Nutricionista Tainah Ratis",
+    "numero": "5591984567987"
   },
   {
-    "nome": "Clinica Chiste Odontologia E Estetica Orofacial",
-    "numero": "5511942387668"
+    "nome": "Nathalia Figueiredo - Nutricionista Para Mulheres",
+    "numero": "5591985110999"
   },
   {
-    "nome": "Dra. Ana Dias - Cirurgia Dentista",
-    "numero": "5511995378451"
+    "nome": "Nutricionista Gabrielli Nestor- Especialista Em Lipedema/ Endometriose/ Saude Da Mulher",
+    "numero": "5591980785891"
   },
   {
-    "nome": "Petrim Odontologia",
-    "numero": "5511954689816"
+    "nome": "Nutricionista Paulo Victor Arouck",
+    "numero": "5591985757000"
   },
   {
-    "nome": "Dra. Adriane Mello - Dentista",
-    "numero": "5511998273166"
+    "nome": "Taina Barros | Nutricionista Em Belem E Brasil | Consulta Nutricional Presencial E Online",
+    "numero": "5591981082679"
   },
   {
-    "nome": "Dentista Sbc, Implante Dentario, Lentes De Contato Dental | Dentista Em Sao Bernardo Do Campo, Clinica Odontologica Em Sbc",
-    "numero": "5511982495277"
+    "nome": "Ste Costa - Nutricionista",
+    "numero": "5591991922531"
   },
   {
-    "nome": "Instituto Experts - Inro",
-    "numero": "5511955802269"
+    "nome": "Arielle De Andrade Nutricionista",
+    "numero": "5591991601312"
   },
   {
-    "nome": "Centro Odontologico Md",
-    "numero": "5511982065703"
+    "nome": "Joyce Dos Anjos Nutricionista",
+    "numero": "5591982128205"
   },
   {
-    "nome": "Dra. Paula Fonseca Alves - Dentista",
-    "numero": "5511915396419"
+    "nome": "Laiza Mendes - Nutricionista : Saude Da Mulher",
+    "numero": "5591993251988"
   },
   {
-    "nome": "Clinica Esperico Odontologia",
-    "numero": "5511995532448"
+    "nome": "Nutricionista - Elieze Dias",
+    "numero": "5591985401971"
   },
   {
-    "nome": "Dra. Elisabete Kostin",
-    "numero": "5511942143106"
+    "nome": "Nutricionista - Dra. Jessica Sacramento",
+    "numero": "5591986288815"
   },
   {
-    "nome": "Dra. Talita Araujo Vaz",
-    "numero": "5511973448100"
+    "nome": "Rejuve'r",
+    "numero": "5591991693383"
   },
   {
-    "nome": "Dental Studio Rdn",
-    "numero": "5511958987070"
+    "nome": "Nutricionista Camila Santos | Emagrecimento | Esportes | Saude Da Mulher | Bariatricos",
+    "numero": "5591985492657"
   },
   {
-    "nome": "Sorridents Barueri | Dentista Em Barueri",
-    "numero": "5511945193706"
+    "nome": "Clinica Iande - Saude E Estetica Belem",
+    "numero": "5591988861718"
   },
   {
-    "nome": "Dentz Barueri Silveira - Clinica Odontologica",
-    "numero": "5511979707760"
+    "nome": "Clinica Bel Vitalita",
+    "numero": "5591993918121"
   },
   {
-    "nome": "Dr. Allif Queiroz",
-    "numero": "5511943632049"
+    "nome": "Nutricionista Tiffany Barata",
+    "numero": "5591989639992"
   },
   {
-    "nome": "Dra. Regina Yao | Dentista Em Barueri",
-    "numero": "5511964882633"
+    "nome": "Nutricionista Rayssa Costa",
+    "numero": "5591989091119"
   },
   {
-    "nome": "Renova Implantes Barueri | Clinica Odontologica | Implantes | Proteses | Dentistas",
-    "numero": "5511918255125"
+    "nome": "Nutricionista Mayara Leao",
+    "numero": "5591983260507"
   },
   {
-    "nome": "Dra Amanda Leoncio - Dentista - Faceta/lente Em Resina",
-    "numero": "5511933208387"
+    "nome": "Isabelle Brito Nutricionista",
+    "numero": "5591980810894"
   },
   {
-    "nome": "Equilibrio Orofacial Odontologia",
-    "numero": "5511986028218"
+    "nome": "Nutricionista Isane Frazao",
+    "numero": "5591999435749"
   },
   {
-    "nome": "Uai Odontologia - Unidade Odontoclin",
-    "numero": "5511942742684"
+    "nome": "Nutricionista Eder Nogueira",
+    "numero": "5591983950631"
   },
   {
-    "nome": "Rd Instituto Odontologico - Estetica,lentes De Contato,implantes,harmonizacao Facial,reabilitacao Oral",
-    "numero": "5511950673268"
+    "nome": "Endocrinologista Em Belem - Dra Ingrid Magno",
+    "numero": "5591984697183"
   },
   {
-    "nome": "Oralle Clinica Odontologica",
-    "numero": "5511968507412"
+    "nome": "Nutricionista Ana Barroso",
+    "numero": "5591981999368"
   },
   {
-    "nome": "D+ Odonto Clinica Odontologica",
-    "numero": "5511964085862"
+    "nome": "Nutricionista Materno Infantil - Flavia Lopes",
+    "numero": "5591984581980"
   },
   {
-    "nome": "Dra. Leticia Yumi Koseki",
-    "numero": "5511943632049"
+    "nome": "Apolinario Nutricionista",
+    "numero": "5591982286222"
   },
   {
-    "nome": "Consultorio Odontologico Dra. Dayane Duraes",
-    "numero": "5511957606663"
+    "nome": "Consultorio Nutricionista Raiza Becker",
+    "numero": "5591983840122"
   },
   {
-    "nome": "Niimiodontologia Clinica E Estetica Facial",
-    "numero": "5511960330231"
+    "nome": "Nutricionista - Dra. Georgea Calandrini",
+    "numero": "5591985252772"
   },
   {
-    "nome": "Eliane M A Pinto Odontologia - Unidade 1",
-    "numero": "5511981427530"
+    "nome": "Lais Cardoso - Emagrecimento E Nutricao Esportiva",
+    "numero": "5591991791485"
   },
   {
-    "nome": "Armoni Odontologia Estetica E Tecnologia - Dra Sheila Lobo Cataldo",
-    "numero": "5511989013974"
+    "nome": "Clinica Giovanna Medeiros Nutricionista",
+    "numero": "5591992840938"
   },
   {
-    "nome": "Tf Odontologia Estetica",
-    "numero": "5511959708276"
+    "nome": "Nutricionista Juliana Cristine",
+    "numero": "5591993683904"
   },
   {
-    "nome": "Mb Odontologia- Harmonizacao Facial, Especialista Em Implantes E Reabilitacao Oral Em Alphaville E Tambore",
-    "numero": "5511912761413"
+    "nome": "Nutricionista Sarah Mendes",
+    "numero": "5591982639547"
   },
   {
-    "nome": "Koseki & Prado Clinica Integrada",
-    "numero": "5511943632049"
+    "nome": "Mayhara Nutricionista",
+    "numero": "5591992465481"
   },
   {
-    "nome": "Gripp Odontologia",
-    "numero": "5511942284114"
+    "nome": "Carolina Bessa - Nutricao Esportiva",
+    "numero": "5591984338097"
   },
   {
-    "nome": "Asta Odontologia / Dentista",
-    "numero": "5511992619986"
+    "nome": "Nutricionista Vanessa Martins - Atendimento Online E Presencial Em Betim",
+    "numero": "5531988131342"
   },
   {
-    "nome": "Specialis Odontologia",
-    "numero": "5511976922960"
+    "nome": "Luana Keitty - Nutricionista",
+    "numero": "5531995802209"
   },
   {
-    "nome": "Renata Senne",
-    "numero": "5511940217172"
+    "nome": "Flavio Farah Nutricao Esportiva",
+    "numero": "5531998203801"
   },
   {
-    "nome": "Mrocha Odontologia Alphaville",
-    "numero": "5511991824206"
+    "nome": "Dra. Rosaria Almeida - Nutricionista Em Betim - Emagrecimento E Doencas Cronicas.",
+    "numero": "5531997936405"
   },
   {
-    "nome": "Instituto Lucas Kussano",
-    "numero": "5511932731927"
+    "nome": "Dayana Santos Nutricionista Em Betim - Emagrecimento",
+    "numero": "5531994701006"
   },
   {
-    "nome": "Brilha Dentes",
-    "numero": "5511946989567"
+    "nome": "Evelyn Groders Nutricionista",
+    "numero": "5531993076903"
   },
   {
-    "nome": "Dra. Fabiane Ferrari",
-    "numero": "5511963887548"
+    "nome": "Clinica Joao Rodrigues",
+    "numero": "5531971884621"
   },
   {
-    "nome": "Dr. Luiz Fernando Barroso",
-    "numero": "5511992986667"
+    "nome": "Nutricionista Luiza Dias- Saude Da Mulher",
+    "numero": "5531972352437"
   },
   {
-    "nome": "Dra. Francinne Dorea Stella ( Odontopediatria) - Oral Studio Dsg Alphaville",
-    "numero": "5511939293609"
+    "nome": "Leticia Tona Nutricionista",
+    "numero": "5531982677575"
   },
   {
-    "nome": "Ortodontia Invisalign Barueri Dra Kenya Franca",
-    "numero": "5511958171536"
+    "nome": "Luciana Goncalves - Nutricionista",
+    "numero": "5531984161958"
   },
   {
-    "nome": "Instituto Mana Odontologia & Estetica",
-    "numero": "5511973162751"
+    "nome": "Maria Cristina De Castro Mata (espaco Nutrir By Maria Cristina)",
+    "numero": "5531996071276"
   },
   {
-    "nome": "Dra. Evandra Fajardo",
-    "numero": "5511981501800"
+    "nome": "Alexia Rodrigues, Nutricionista Em Betim",
+    "numero": "5531989604051"
   },
   {
-    "nome": "Clinica Katia Magro Odontologia E Estetica Facial",
-    "numero": "5511985422288"
+    "nome": "Elaine Veronica Nutricionista E Psicanalista",
+    "numero": "5531996594104"
   },
   {
-    "nome": "Clinica Sorrir Alphaville",
-    "numero": "5511989271298"
+    "nome": "Nutricionista Saude Da Mulher/ Leticia Santos",
+    "numero": "5531993434164"
   },
   {
-    "nome": "Caue Rosa Odontologia Especializada",
-    "numero": "5511945492512"
+    "nome": "Rayssa Dutra- Nutricionista",
+    "numero": "5531984476342"
   },
   {
-    "nome": "Odonto Company Barueri - Implante Dentario - Extracao De Siso- Aparelho Odontologico",
-    "numero": "5511934520129"
+    "nome": "Polyany Aleixo | Nutricionista",
+    "numero": "5531991078241"
   },
   {
-    "nome": "Dra. Daniela Nogueira - Harmonizacao Orofacial - Odontologia Estetica",
-    "numero": "5511950673268"
+    "nome": "Consultorio De Nutricao",
+    "numero": "5531998449282"
   },
   {
-    "nome": "Ana Paula Niquerito Nunes - Cirurgia-dentista - Crosp 80726 - Especialista Em Odontologia Legal - Perita Judicial",
-    "numero": "5515991287242"
+    "nome": "Lara Reis Nutricionista",
+    "numero": "5531999467515"
   },
   {
-    "nome": "Dra. Giulia Belnomo Monteiro - Dentista",
-    "numero": "5511920915288"
+    "nome": "Aymee Rovesse Nutricionista",
+    "numero": "5531992861297"
   },
   {
-    "nome": "Dra. Nayara Matos | Cirurgia Dentista",
-    "numero": "5511976473834"
+    "nome": "Samira Lisboa Biomedica Esteta Ltda",
+    "numero": "5531997486297"
   },
   {
-    "nome": "Revitaly Odontologia Especializada | Dentista | Barueri Alphaville",
-    "numero": "5511912399864"
+    "nome": "Consultora De Amamentacao - Patricia Lopes",
+    "numero": "5531998953781"
   },
   {
-    "nome": "Clinica Bauer - Implantes",
-    "numero": "5511939627080"
+    "nome": "Nutricionista Malu Lauar",
+    "numero": "5531971541168"
   },
   {
-    "nome": "Ejl Odontologia E Estetica",
-    "numero": "5511970656345"
+    "nome": "Mariana Candida",
+    "numero": "5531999239653"
   },
   {
-    "nome": "Sorriso Jonson Odontologia",
-    "numero": "5511973117704"
+    "nome": "Eleve Betim - Saude E Bem Estar",
+    "numero": "5531991747761"
   },
   {
-    "nome": "Modelo Odonto - Dra Jamile Branco / Dr Joao Paulo Alves/dra Lara Melo/dr Matheus Andre",
-    "numero": "5511991422662"
+    "nome": "Espaco Corpo Ativo",
+    "numero": "5531971614771"
   },
   {
-    "nome": "Dra. Carolina Antunes Roldan - Dentista Jundiai",
-    "numero": "5511958405304"
+    "nome": "Personal Studio",
+    "numero": "5531994095795"
   },
   {
-    "nome": "Consultorio Dra. Joelma Vilas Boas",
-    "numero": "5511970188762"
+    "nome": "Gislaine Martins - Nutricionista Clinica",
+    "numero": "5531992932430"
   },
   {
-    "nome": "Coe Centro Odontologico Expressao",
-    "numero": "5511966508965"
+    "nome": "Clinica Az | Estetica Avancada E Nutricao",
+    "numero": "5531990896657"
   },
   {
-    "nome": "Aialla Odontologia",
-    "numero": "5511970902141"
+    "nome": "Hebalife",
+    "numero": "5531982196419"
   },
   {
-    "nome": "Dra. Monica Holsback - Dentista - Ortodontista | Invisalign Jundiai",
-    "numero": "5511981537085"
+    "nome": "Cintia Silva Nutricionista Em Betim Mg : Emagrecimento E Saude Da Mulher",
+    "numero": "5531995149935"
   },
   {
-    "nome": "Clinica Odonto&estetica",
-    "numero": "5511949810000"
+    "nome": "Baroni Nutricionista",
+    "numero": "5531997245358"
   },
   {
-    "nome": "Consultorio Rizzo Boutique",
-    "numero": "5511910174344"
+    "nome": "Emagrecentro Betim",
+    "numero": "5531982140671"
   },
   {
-    "nome": "Clinica Implante Real",
-    "numero": "5511910147172"
+    "nome": "Nutricionista Samira Assis",
+    "numero": "5531994441767"
   },
   {
-    "nome": "Estima Odontologia - Consultorio Odontologico - Eloy Chaves - Jundiai",
-    "numero": "5511952851803"
+    "nome": "Dr. Johnson Nutricao Esportiva",
+    "numero": "5531999127014"
   },
   {
-    "nome": "A2 Odontologia",
-    "numero": "5511930192791"
+    "nome": "Nutri Imperium Produtos Naturais",
+    "numero": "5531997793788"
   },
   {
-    "nome": "Levez Odontologia - Clinica Odontologica I Implante I Dentistica I Endodontotia I Periodontia I Anhangabau",
-    "numero": "5511973582355"
+    "nome": "Assessoria Esportiva",
+    "numero": "5531991532960"
   },
   {
-    "nome": "Odonto Excellence Vila Lacerda - Dentista Em Jundiai",
-    "numero": "5511958962121"
+    "nome": "Integral Clinic",
+    "numero": "5531972377254"
   },
   {
-    "nome": "Vida Plena Odontologia",
-    "numero": "5511950587748"
+    "nome": "Fabrica De Monstros Ct Betim",
+    "numero": "5531997097434"
   },
   {
-    "nome": "Dra. Camila Danieli - Odontologia | Crosp119024",
-    "numero": "5511993520893"
+    "nome": "Circuito Academia Feminina",
+    "numero": "5531971575875"
   },
   {
-    "nome": "Dr. Jose Olympio | Dentista Em Jundiai",
-    "numero": "5511970554170"
+    "nome": "Clinica Denise Trindade",
+    "numero": "5531991374972"
   },
   {
-    "nome": "Mater Odontologia",
-    "numero": "5511971785339"
+    "nome": "Clinica Essencial Saude Integrativa E Estetica Avancada",
+    "numero": "5531975324547"
   },
   {
-    "nome": "Espaco Odonto Saude",
-    "numero": "5511987883424"
+    "nome": "Academia Intense Fit",
+    "numero": "5531996398955"
   },
   {
-    "nome": "Clinica Odontologica Pro Sorriso",
-    "numero": "5511917421558"
+    "nome": "Nilza Herbalife - Nutricao E Saude",
+    "numero": "5531985062675"
   },
   {
-    "nome": "Dra. Gisele Peron Bortoletto",
-    "numero": "5511943698464"
+    "nome": "Samvips",
+    "numero": "5531989920329"
   },
   {
-    "nome": "Sr Odonto | Socorro Rapido Odontologico | Dentista Emergencia E Urgencia 24 Horas | Implantes Dentarios",
-    "numero": "5511911557576"
+    "nome": "Academia Mtor Fit",
+    "numero": "5531991538275"
   },
   {
-    "nome": "Odontologia Clinik",
-    "numero": "5511974815577"
+    "nome": "Estetica Jessica Santana",
+    "numero": "5531986642642"
   },
   {
-    "nome": "Dra. Camila Braga Navarro",
-    "numero": "5511987159967"
+    "nome": "Unica Estetica E Saude",
+    "numero": "5531988624225"
   },
   {
-    "nome": "Dra. Larissa Lazaro - Cirurgia Dentista - Jundiai",
-    "numero": "5511963934580"
+    "nome": "Academia Ampm",
+    "numero": "5531982984566"
   },
   {
-    "nome": "Dra Renata Rodrigues | Dentista Em Jundiai - Lentes Em Resina & Clareamento Dental",
-    "numero": "5511973446459"
+    "nome": "Light Clinica De Estetica E Depilacao A Laser",
+    "numero": "5531972180080"
   },
   {
-    "nome": "Dra. Karina Mirabelli | Odonto Saude",
-    "numero": "5511974144604"
+    "nome": "Clinica Danielle Sa - Unidade 2",
+    "numero": "5531995632789"
   },
   {
-    "nome": "Enove Sorrisos Odontologia Especializada",
-    "numero": "5511947933634"
+    "nome": "Cross Nutrition Box Betim",
+    "numero": "5531999021535"
   },
   {
-    "nome": "Dra Erika Almeida",
-    "numero": "5511999702325"
+    "nome": "Emporio Tons Da Terra",
+    "numero": "5531973026557"
   },
   {
-    "nome": "Dra Juliana Trepiccione",
-    "numero": "5511959898733"
+    "nome": "Centro De Reabilitacao Morada Do Altissimo Minas Gerais",
+    "numero": "5531996947221"
   },
   {
-    "nome": "Hera Odontologia Especializada",
-    "numero": "5511977966534"
+    "nome": "Esquadrao Fit",
+    "numero": "5531996672905"
   },
   {
-    "nome": "Instituto Banzato",
-    "numero": "5511995446631"
+    "nome": "Calisthenics Movement | Academia De Calistenia | Academia De Musculacao | Pilates | Street Workout | Betim - Mg | Brasil",
+    "numero": "5531990607373"
   },
   {
-    "nome": "Consultorio Odontologico Em Jundiai - Dra Fernanda Valdetaro",
-    "numero": "5511970460322"
+    "nome": "Viviane Mota Vieira / Nutricionista Clinico /hipertrofia/geriatrica/ Infantil",
+    "numero": "5531992519554"
   },
   {
-    "nome": "Odontocompany Jundiai - Eloy Chaves",
-    "numero": "5511913021182"
+    "nome": "Vitae Estudio Pilates",
+    "numero": "5531986332586"
   },
   {
-    "nome": "Mozeli Odontologia",
-    "numero": "5511973531293"
+    "nome": "Nutri Thais Bueno",
+    "numero": "5531982321172"
   },
   {
-    "nome": "Dra Ana Carolina - Odontologia Especializada",
-    "numero": "5511971179134"
+    "nome": "Bem Estar Pilates E Fisioterapia",
+    "numero": "5531997831316"
   },
   {
-    "nome": "Dr Marcos Volpini Ferreira",
-    "numero": "5511934614005"
+    "nome": "Top Gym Fitness Academia De Ginastica",
+    "numero": "5531986989538"
   },
   {
-    "nome": "Thiago Busanelli - Odontologia",
-    "numero": "5511968787699"
+    "nome": "Nutricionista Larissa Oliveira",
+    "numero": "5531993519046"
   },
   {
-    "nome": "Affetto Odontologia Especializada",
-    "numero": "5511984905267"
+    "nome": "Nutricionista Andressa Barbosa",
+    "numero": "5531984066020"
   },
   {
-    "nome": "Ricardo Canhoelo - Cirurgiao-dentista",
-    "numero": "5511977116668"
+    "nome": "Nicolle Diniz Alves",
+    "numero": "5531997696045"
   },
   {
-    "nome": "Lic Odontologia - Dra. Lilian Camilo",
-    "numero": "5511989285026"
+    "nome": "Cf Flow Box Ltda",
+    "numero": "5531991376531"
   },
   {
-    "nome": "Orofit Odontologia E Harmonizacao Facial",
-    "numero": "5511942259631"
+    "nome": "Fox Fit Betim Musculacao",
+    "numero": "5531989730238"
   },
   {
-    "nome": "Clinica Dorassi Odontologia Especializada",
-    "numero": "5511995356233"
+    "nome": "Nutricionista Clinica Pamella Agatha",
+    "numero": "5531994204043"
   },
   {
-    "nome": "Dra Celina Nakai",
-    "numero": "5511975426858"
+    "nome": "Rute Ellen Nutricionista - Contagem - Saude Da Mullher",
+    "numero": "5531988307484"
   },
   {
-    "nome": "Clinica Innovare",
-    "numero": "5581997313698"
+    "nome": "Larissa Venzel Nutricionista",
+    "numero": "5531984266261"
   },
   {
-    "nome": "Amanda Soares Odontologia Especializada - Invisalign Doctor - Dentista Recife",
-    "numero": "5581984013448"
+    "nome": "Dra. Ana Flavia Aguiar",
+    "numero": "5531998748432"
   },
   {
-    "nome": "Prime Odonto Em Recife - Clareamento Dental Em Recife | Aparelho Dentario Em Recife",
-    "numero": "5581986992096"
+    "nome": "Carol Guanabara - Nutricionista Materno Infantil",
+    "numero": "5531997473117"
   },
   {
-    "nome": "Odontologia Integrada Recife | Implantes Sem Corte, Sem Dor E Resultado Imediato | Dentista Em Recife/pe",
-    "numero": "5581992173314"
+    "nome": "Mil Graus Academia",
+    "numero": "5531992292761"
   },
   {
-    "nome": "Dra. Juliana Andrade",
-    "numero": "5581987292581"
+    "nome": "Dani Caparros | Nutricionista Em Santo Andre - Esportiva, Vegetariana E Fitoterapia",
+    "numero": "5511988456351"
   },
   {
-    "nome": "Studio Sorrir - Odontologia Recife - Lentes Dentais | Implantes | Protese Protocolo | Invisaling",
-    "numero": "5581982188913"
+    "nome": "Dra. Heloisa Liz - Nutricionista Em Santo Andre: Hipertrofia E Emagrecimento",
+    "numero": "5511959485991"
   },
   {
-    "nome": "Facil Odonto- Clinica Odontologica Recife, Pernambuco",
-    "numero": "5581994667997"
+    "nome": "Nutrir Corphus - Unidade Santo Andre",
+    "numero": "5511964041121"
   },
   {
-    "nome": "Dra. Renata Tinoco - Odontologia | Atendimento Odontologico Especializado Na Pessoa Idosa, Pessoas Necessidades Especiais",
-    "numero": "5581996977530"
+    "nome": "Nutricionista Daniel Moura",
+    "numero": "5511970315111"
   },
   {
-    "nome": "Recifemed Odonto - Dentista Em Recife, Implantes Dentarios, Proteses Dentarias",
-    "numero": "5581982520555"
+    "nome": "Clinica Marina Marocci Nutricao Integrada",
+    "numero": "5511910955929"
   },
   {
-    "nome": "Alem Do Dente|dra. Carolina Borges| Dentista Em Domicilio|dentista Laserterapia| Dentista Em Casa Recife| Sedacao Recife",
-    "numero": "5581989794831"
+    "nome": "Nutri Clinic Nutricao Funcional - Dra Nathalia Rosalen Kozak",
+    "numero": "5511942690565"
   },
   {
-    "nome": "Dra. Natalia Pompilio - Facetas De Resina, Porcelana E Clareamento | Dentista Recife",
-    "numero": "5581993906170"
+    "nome": "Nutricionista Renatiely Paschoali",
+    "numero": "5511941392116"
   },
   {
-    "nome": "Amare - Consultorio Odontologico | Dentista Em Recife",
-    "numero": "5581982748011"
+    "nome": "Lilian Zangrande - Nutricionista Em Santo Andre: Nutricao Funcional - Saude Gastrointestinal - Alergias E Intolerancias.",
+    "numero": "5511992514427"
   },
   {
-    "nome": "Dra. Nathalia Lacet",
-    "numero": "5581996695149"
+    "nome": "Nutricionista Jaqueline Fatiche",
+    "numero": "5511966440990"
   },
   {
-    "nome": "Studio Sorriz",
-    "numero": "5581993746540"
+    "nome": "Fabricia Campanaro- Nutricionista Em Santo Andre: Saude Mental (mente E Corpo)",
+    "numero": "5511948183872"
   },
   {
-    "nome": "Dra Neia Maria Da Conceicao Silva",
-    "numero": "5581993054050"
+    "nome": "Consultorio De Nutricao Esportiva - Dr. Paulo Eduardo - Nutricionista Clinico E Esportivo (emagrecimento, Hipertrofia E Desempenho)",
+    "numero": "5511941865420"
   },
   {
-    "nome": "Odonto Spazzio - Implante Dentario Em Recife - Ortodontia - Aparelho Ortodontico Em Recife - Enxertos Osseos - Carga Imediata",
-    "numero": "5581991899397"
+    "nome": "Nutricionista Filipa Affonso | Santo Andre Sao Caetano - Emagrecimento, Habitos Duradouros E Controle De Doencas Cronicas",
+    "numero": "5511990145604"
   },
   {
-    "nome": "Prontoclinica Odontologica Valeria Dias",
-    "numero": "5581988626337"
+    "nome": "Clinica Zanuto Medicina Integrativa",
+    "numero": "5511982459795"
   },
   {
-    "nome": "Espaco Sorrir",
-    "numero": "5581994108832"
+    "nome": "Isabelle Stoll - Nutricionista Em Santo Andre Abc Paulista: Diabetes, Emagrecimento",
+    "numero": "5511942282164"
   },
   {
-    "nome": "Dra. Ieda Interaminense",
-    "numero": "5581991331996"
+    "nome": "Cassia De Marcos - Chega De Nutri",
+    "numero": "5511971778038"
   },
   {
-    "nome": "Sorriso & Cia - Dentistas E Urgencia",
-    "numero": "5581991651449"
+    "nome": "Graciela Leonardo Nutricionista, Em Santo Andre: Especializada Em Endocrinologia E Esportiva",
+    "numero": "5511958143188"
   },
   {
-    "nome": "Dra Camila Moura - Cirurgia Dentista",
-    "numero": "5581995764469"
+    "nome": "Nutri Denise Campos",
+    "numero": "5511999613037"
   },
   {
-    "nome": "Dr. Rodrigo Coifman - Dentista Em Recife",
-    "numero": "5581996332290"
+    "nome": "Edilene Almeida - Nutricionista Em Santo Andre: Saude, Emagrecimento, Saude Gastrointestinal E Tea.",
+    "numero": "5511975631330"
   },
   {
-    "nome": "Dentista Encruzilhada- Dra Rafaella Galvao Odontologia",
-    "numero": "5581984244286"
+    "nome": "Nutricionista Joanna Carollo",
+    "numero": "5511937702621"
   },
   {
-    "nome": "Odontobelo",
-    "numero": "5581992813038"
+    "nome": "Nutricionista Ariana Bortolin",
+    "numero": "5511964580172"
   },
   {
-    "nome": "Seu Dentista Pe",
-    "numero": "5581984051307"
+    "nome": "Priscila Schoti Nutricionista Esportiva Em Santo Andre (com Avaliacao Por Ultrassom - Bodymetrix)",
+    "numero": "5511947615174"
   },
   {
-    "nome": "Allsorriso Odontologia Especializada",
-    "numero": "5581998785753"
+    "nome": "Jairo Pinheiro Nutricionista | Nutricao Esportiva | Nutricao Clinica | Presencial E Online",
+    "numero": "5511974991752"
   },
   {
-    "nome": "Exclusive Odonto",
-    "numero": "5581992161638"
+    "nome": "Adriana Lais - Nutricionista Bariatrica E Clinica",
+    "numero": "5511973193076"
   },
   {
-    "nome": "Dra. Socorro Do Vale - Odontopediatria E Ortodontia - Atendimento A Pacientes Com Necessidades Especiais",
-    "numero": "5581999638085"
+    "nome": "Murilo Delicente - Nutricionista Esportivo",
+    "numero": "5511991408121"
   },
   {
-    "nome": "Dentista Maria Eduarda Vasconcelos",
-    "numero": "5581998019435"
+    "nome": "Aline Martins Nutricionista",
+    "numero": "5511951569557"
   },
   {
-    "nome": "Zolin Centro Odontologico",
-    "numero": "5581988515899"
+    "nome": "Barbara Recacho, Nutricionista Clinica.",
+    "numero": "5511912396463"
   },
   {
-    "nome": "Multi Dental Odontologia",
-    "numero": "5581995956959"
+    "nome": "Dra. Caroline Lucino - Nutricionista",
+    "numero": "5511986091778"
   },
   {
-    "nome": "Dra. Angelica Galvao | Odontopediatra | Dentista Para Criancas - Recife",
-    "numero": "5581982812976"
+    "nome": "Nutricionista Aline Ciconi",
+    "numero": "5511988948557"
   },
   {
-    "nome": "Dentista Gabriela Ferreira",
-    "numero": "5581995773207"
+    "nome": "Nutricionista Leticia Cunha",
+    "numero": "5511965750196"
   },
   {
-    "nome": "Dra. Daniela Gomes - Odontologia Humanizada",
-    "numero": "5581973441095"
+    "nome": "Nutricionista Sadala Schmidt | Emagrecimento E Hipertrofia",
+    "numero": "5511932312902"
   },
   {
-    "nome": "Dentista Em Recife - Sedacao Com Nitroso - Implante - Dente Siso - Lorena Pinheiro",
-    "numero": "5581994778508"
+    "nome": "Melina Cortegoso Nutricionista Infantil - Online",
+    "numero": "5511995468209"
   },
   {
-    "nome": "Cr Montenegro Odontologia | Ortodontia | Invisalign Doctor Recife | Dtm | Sono | Lentes De Contato | Estetica",
-    "numero": "5581988497447"
+    "nome": "Paula Amorim | Nutricao Comportamental & Terapia Integrativa",
+    "numero": "5511988341286"
   },
   {
-    "nome": "Ortocare Odontologia Especializada",
-    "numero": "5581986269977"
+    "nome": "Juliana Duarte | Nutricionista Esportiva E Emagrecimento",
+    "numero": "5511994811791"
   },
   {
-    "nome": "Dra. Kamila Azoubel | Casa Sorriso Odontologia | Odontopediatria | Ortodontia",
-    "numero": "5581987523322"
+    "nome": "Nutricionista Em Santo Andre - Dione Carvalho",
+    "numero": "5511971581642"
   },
   {
-    "nome": "Dra. Roberta Carneiro Leao",
-    "numero": "5581996309603"
+    "nome": "Larissa Jaloretto Nutricao Clinica",
+    "numero": "5511984805444"
   },
   {
-    "nome": "Clinica Aldo & Erika Bezerra",
-    "numero": "5581987868666"
+    "nome": "Nutricionista Em Santo Andre E Online | Dra. Gislene Rocha - Clinica, Gastronomia E Comportamento",
+    "numero": "5511981468422"
   },
   {
-    "nome": "Clinica Sorriso Recife",
-    "numero": "5581982008457"
+    "nome": "Vivian Domenes Nutricionista",
+    "numero": "5511975830447"
   },
   {
-    "nome": "Dra. Adelita Luana Leal | Dentista Recife|paulista Pe",
-    "numero": "5581994041723"
+    "nome": "Joice Bortoletto Nutricionista",
+    "numero": "5511974544578"
   },
   {
-    "nome": "Dra. Manuela Lombardi, Dentista",
-    "numero": "5581981149969"
+    "nome": "Nutricionista Fernanda Prado - Nutricionista Comportamental Em Santo Andre Sp",
+    "numero": "5511966689079"
   },
   {
-    "nome": "Espaco Odonto Sorrir",
-    "numero": "5581982629067"
+    "nome": "Nutricionista Beatriz Caetano",
+    "numero": "5511933774567"
   },
   {
-    "nome": "Dr. Edmundo Vasconcelos - Implantodontia E Ortodontia Em Recife - Pe",
-    "numero": "5581993401918"
+    "nome": "Nutricionista Bianca Moreira",
+    "numero": "5511966613284"
   },
   {
-    "nome": "Dra Franciene Amorim Ortodontista Recife",
-    "numero": "5581999385400"
+    "nome": "Nutricionista Debora Cristina",
+    "numero": "5511960663650"
   },
   {
-    "nome": "Dra. Mayra Aquino, Dentista Recife",
-    "numero": "5581996938180"
+    "nome": "Joseane Bessa - Nutricionista Comportamental Em Santo Andre",
+    "numero": "5511933272619"
   },
   {
-    "nome": "Consultorio Odontologico - Dra. Pascalle Ribeiro",
-    "numero": "5581994176617"
+    "nome": "Bruna Nogueira - Nutricionista Da Mulher Em Santo Andre",
+    "numero": "5511994011006"
   },
   {
-    "nome": "Olga | Odontologia Clinica Odontologica",
-    "numero": "5581995335775"
+    "nome": "Nutricionista Materno Infantil Especializada Em Autismo",
+    "numero": "5511951373714"
   },
   {
-    "nome": "Netto Odontologia - Dr. Christiano Netto E Equipe",
-    "numero": "5581986551405"
+    "nome": "Camila Gobo Nutricionista Esportiva - Santo Andre",
+    "numero": "5511973250555"
   },
   {
-    "nome": "Dental Concept Clinica Odontologica - Dra. Lucia Vanderlei & Dra. Carolina Vanderlei",
-    "numero": "5581996076767"
+    "nome": "Dra Priscila Lima Nutricionista",
+    "numero": "5511995399998"
   },
   {
-    "nome": "Rebeka Ribeiro Gomes Odontologia Me",
-    "numero": "5581982874044"
+    "nome": "Mayara Alencar - Nutricionista | Consultas Online | Esportiva E Emagrecimento",
+    "numero": "5511959941107"
   },
   {
-    "nome": "Dra. Margarida Lopes",
-    "numero": "5581994959852"
+    "nome": "Nutricionista - Amanda Deziderio | Fertilidade E Nutricao Esportiva",
+    "numero": "5511983018657"
   },
   {
-    "nome": "Dentista 24 Horas - Clinica Sorio Emergencia Dentista De Duque De Caxias",
-    "numero": "5521972148378"
+    "nome": "Nutricionista Gabriela Bandeira",
+    "numero": "5511930651865"
   },
   {
-    "nome": "Sorridents Duque De Caxias",
-    "numero": "5521991549347"
+    "nome": "Consultorio Nutricionista Juliana Marinno",
+    "numero": "5511998889878"
   },
   {
-    "nome": "Clident Clinica Odontologica",
-    "numero": "5521993013551"
+    "nome": "Nutricionista Erica Ferreira",
+    "numero": "5511992951666"
   },
   {
-    "nome": "Service Odonto Duque De Caxias 5",
-    "numero": "5521987442039"
+    "nome": "Beatriz Kovacs Nutricionista Esportiva",
+    "numero": "5511983746596"
   },
   {
-    "nome": "Clinica Dra. Daiana De Aguiar",
-    "numero": "5521996501058"
+    "nome": "Nutricionista Materno Infantil Giovanna Negri Madjarov",
+    "numero": "5511934403114"
   },
   {
-    "nome": "Dra. Danielle Gil",
-    "numero": "5521972549468"
+    "nome": "Nutricionista Renata Pereira",
+    "numero": "5511934284478"
   },
   {
-    "nome": "Service Odonto Duque De Caxias 2",
-    "numero": "5521987442039"
+    "nome": "Marlene Murari - Nutricionista",
+    "numero": "5511965991529"
   },
   {
-    "nome": "Odontoalverca Clinica Odontogica",
-    "numero": "5521995058989"
+    "nome": "Jacqueline Kajiya - Nutricionista (presencial Ou Online)",
+    "numero": "5511959274063"
   },
   {
-    "nome": "Ortolook Caxias 1 - Clinica Odontologica",
-    "numero": "5521969528335"
+    "nome": "Juliana Guerlandi - Nutricionista",
+    "numero": "5511961972464"
   },
   {
-    "nome": "Ortolook Caxias 2 - Clinica Odontologica",
-    "numero": "5521986869057"
+    "nome": "Thadeu Venancio - Nutricionista E Personal Trainer",
+    "numero": "5511957156653"
   },
   {
-    "nome": "Mt Odonto",
-    "numero": "5521959376866"
+    "nome": "Dra. Ingrid Mello - Nutricionista",
+    "numero": "5511968326512"
   },
   {
-    "nome": "Dr. Elder Valadao",
-    "numero": "5521970062645"
+    "nome": "Nutricionista Priscila Santos",
+    "numero": "5511971927713"
   },
   {
-    "nome": "Sorriso Clean",
-    "numero": "5521999005612"
+    "nome": "Nutricionista Infantil Tea, Tdah, T21, Elielda Oliveira",
+    "numero": "5511914427301"
   },
   {
-    "nome": "Dra. Bruna Campos | Dentista Em Duque De Caxias",
-    "numero": "5521965735280"
+    "nome": "Juliana Bueno Nutricionista",
+    "numero": "5511975353278"
   },
   {
-    "nome": "Sorriso Star Clinica Odontologica Ltda",
-    "numero": "5521991802359"
+    "nome": "Nutricionista Cristiane Coelho",
+    "numero": "5511978421051"
   },
   {
-    "nome": "Rioodonto Odontologia Integrada",
-    "numero": "5521969700822"
+    "nome": "Nutricionista Infantil Vitoria Cristina",
+    "numero": "5511992573423"
   },
   {
-    "nome": "Dra. Priscila Vasconcellos",
-    "numero": "5521993711515"
+    "nome": "Nutricionista Nathalia Morais",
+    "numero": "5511943694765"
   },
   {
-    "nome": "Consultorio Dr Johnny Borges",
-    "numero": "5521981306407"
+    "nome": "Nutricionista Funcional - Dra. Carolina Germano Martins",
+    "numero": "5511986068612"
   },
   {
-    "nome": "Odonto Family Caxias",
-    "numero": "5521971647430"
+    "nome": "Nutricionista Lucas Bandeira",
+    "numero": "5511983986808"
   },
   {
-    "nome": "Dra. Bianca Porciuncula Harmonizacao Facial E Dentista",
-    "numero": "5521967639361"
+    "nome": "Nutricionista Materno Infantil No Abc - Debora Pivetta",
+    "numero": "5511991940547"
   },
   {
-    "nome": "Centro Odontologico Dr. Manoel Teles",
-    "numero": "5521975698793"
+    "nome": "Nutricionista Luana Paiva",
+    "numero": "5511993614509"
   },
   {
-    "nome": "Dental Universitaria",
-    "numero": "5521970363428"
+    "nome": "Nutricionista Catarine Costa",
+    "numero": "5511958872793"
   },
   {
-    "nome": "Odontorisos",
-    "numero": "5521974618557"
+    "nome": "Bosque Da Nutricao",
+    "numero": "5511984964181"
   },
   {
-    "nome": "Dra Heliethe Motta - Ortodontia E Harmonizacao Facial Especializada - Duque De Caxias",
-    "numero": "5521981101002"
+    "nome": "Nutricionista Michelle Cruz",
+    "numero": "5511910114936"
   },
   {
-    "nome": "Dental Top Clinic",
-    "numero": "5521972136877"
+    "nome": "Lizeth Rocha / Nutricionista Clinica E Materno Infantil",
+    "numero": "5511940440707"
   },
   {
-    "nome": "Dra Dayany Sehnem - Periodontia E Odontopediatria",
-    "numero": "5521979674801"
+    "nome": "Nutricionista Luciane Magalhaes",
+    "numero": "5511983066369"
   },
   {
-    "nome": "Dra. Lidia Eugenio Figueiredo",
-    "numero": "5521970141415"
+    "nome": "Mia Fachim Nutricionista Em Santo Andre - Nutricao Integrativa - Alimentacao Saudavel - Equilibrio Corpo E Mente - Emagrecimento - Dieta Saudavel",
+    "numero": "5511982615870"
   },
   {
-    "nome": "Dentista Duque De Caxias Rj, Dra Thais Moreira",
-    "numero": "5521990919774"
+    "nome": "Nutricionista Giovanna De Souza",
+    "numero": "5511977811679"
   },
   {
-    "nome": "Jp Odonto Duque De Caxias",
-    "numero": "5521982474336"
+    "nome": "Nutricionista Cinthia Ferrari",
+    "numero": "5511997966053"
   },
   {
-    "nome": "Consultorio Dra Angela Maria S. Sant` Anna",
-    "numero": "5521986988644"
+    "nome": "Nutricionista Tatiane S. Florencio",
+    "numero": "5511910268529"
   },
   {
-    "nome": "Clinica Sandra Robert",
-    "numero": "5521979987277"
+    "nome": "Nutricionista Sonia Nery | Emagrecimento Feminino Santo Andre",
+    "numero": "5511913402889"
   },
   {
-    "nome": "Clinica Odontologica De Reabilitacao Oral Scander | Dentistas",
-    "numero": "5521984301010"
+    "nome": "Shirley Tiso Nutricionista",
+    "numero": "5511960221751"
   },
   {
-    "nome": "Fiable Odonto Ltda",
-    "numero": "5521998460548"
+    "nome": "Vivian Martins Nutricionista",
+    "numero": "5511952378820"
   },
   {
-    "nome": "Atelie Do Sorriso (consultorio Odontologico)",
-    "numero": "5521986677980"
+    "nome": "Nutricionista Marcio Hiyane | Sao Caetano | Sao Caetano Do Sul | Santo Andre",
+    "numero": "5511913582546"
   },
   {
-    "nome": "Dl Odontologia Estetica - Dr. Dario Pereira E Dra. Lilian Cordeiro",
-    "numero": "5521991838776"
+    "nome": "Tania Mara Nutricionista - Viver Saudavel",
+    "numero": "5511972776825"
   },
   {
-    "nome": "Life Oral - Odontologia",
-    "numero": "5521982708885"
+    "nome": "Bianca Frulani - Nutricionista",
+    "numero": "5511971034639"
   },
   {
-    "nome": "Dentistas Carla Datrino E Vagner Datrino",
-    "numero": "5521982708885"
+    "nome": "Nutricionista Jonathan Shih | Emagrecimento E Performance",
+    "numero": "5511996177681"
   },
   {
-    "nome": "Consultorio Marianna Moura",
-    "numero": "5521989123182"
+    "nome": "Nutricionista Paloma Moretti",
+    "numero": "5511950855241"
   },
   {
-    "nome": "Clinica Sao Miguel",
-    "numero": "5521988837670"
+    "nome": "Nutricionista E Personal Tatiane Kruschefes - Especialista Em Emagrecimento, Saude Do Intestino E Prevencao De Doencas",
+    "numero": "5511950853592"
   },
   {
-    "nome": "Hospital Da Dentadura",
-    "numero": "5521980372625"
+    "nome": "Nubia Nicoluche - Nutricionista Funcional E Esportiva",
+    "numero": "5511984461803"
   },
   {
-    "nome": "Prorir Clinica Odontologica Vila Sao Luis - Duque De Caxias",
-    "numero": "5521987794809"
+    "nome": "Nutricionista Sandra Pires- Saude Da Mulher, Nutricao Pre E Pos-operatorio & Estetica",
+    "numero": "5511971100972"
   },
   {
-    "nome": "Dr. Manoel Bastos Odontologia Integrada",
-    "numero": "5521979670841"
+    "nome": "Nutricionista Marcia Rodrigues Em Santo Andre",
+    "numero": "5511982933239"
   }
 ]

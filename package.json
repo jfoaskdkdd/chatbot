@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@wppconnect-team/wppconnect": "^1.37.3"
+    "@wppconnect-team/wppconnect": "^1.37.3",
+    "puppeteer": "^24.16.0"
   }
 }

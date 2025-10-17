@@ -1,2 +1,1 @@
-Enviados: 0
-Falhas: 838
+Enviados: 23\nFalhas: 436
