@@ -1,0 +1,38 @@
+name: Deploy to Railway (via CLI)
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install Node and Railway CLI
+        run: |
+          sudo apt-get update -y
+          sudo apt-get install -y curl
+          # attempt to install railway via npm or the install script
+          if command -v npm >/dev/null 2>&1; then
+            npm i -g @railway/cli || npm i -g railway || true
+          fi
+          # fallback to install script
+          curl -sL https://raw.githubusercontent.com/railwayapp/cli/master/install.sh | bash || true
+
+      - name: Login to Railway
+        env:
+          RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
+        run: |
+          if [ -z "$RAILWAY_TOKEN" ]; then
+            echo "RAILWAY_TOKEN is not set. Add it as a repo secret and try again.";
+            exit 1;
+          fi
+          railway login --token "$RAILWAY_TOKEN"
+
+      - name: Run railway up
+        run: |
+          # create project if needed and deploy; --yes to accept prompts
+          railway up --yes || (echo "railway up failed" && exit 1)
