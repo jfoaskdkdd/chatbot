@@ -3,7 +3,17 @@
 function isWithinSendWindow() {
   const now = new Date();
   const hour = now.getHours();
-  return hour >= 9 && hour < 18; // das 9h até antes das 18h
+  // Start sending only from 13:00 onward. Sending will keep running until MAX_OPA is reached.
+  return hour >= 13; // a partir das 13h (inclusive)
+}
+
+// Helpers to wait until a specific hour (local server time)
+function msUntilNextHour(targetHour) {
+  const now = new Date();
+  const next = new Date(now);
+  next.setHours(targetHour, 0, 0, 0);
+  if (next <= now) next.setDate(next.getDate() + 1);
+  return next - now;
 }
 
 const wppconnect = require('@wppconnect-team/wppconnect');
@@ -13,6 +23,7 @@ const contatosData = require(path.join(__dirname, 'contatos_filtrados.json'));
 // Support both shapes: array or { contatos: [...] }
 const contatos = Array.isArray(contatosData) ? contatosData : (contatosData && Array.isArray(contatosData.contatos) ? contatosData.contatos : []);
 const fs = require('fs');
+const os = require('os');
 
 // Configuráveis (podem ser sobrescritas via variáveis de ambiente)
 const FUZZY_SIMILARITY_THRESHOLD = process.env.FUZZY_SIMILARITY_THRESHOLD ? Number(process.env.FUZZY_SIMILARITY_THRESHOLD) : 0.65;
@@ -276,12 +287,45 @@ console.log('ℹ️ Using session:', sessionName);
 console.log('ℹ️ Script __dirname:', __dirname);
 wppconnect.create({
   session: sessionName,
-  headless: false,
+  headless: true,
   // disable automatic closing so the bot remains active to receive replies
   autoClose: false,
   catchQR: (base64Qr, asciiQR) => {
-    console.log('🔗 Escaneie o QR Code para parear o WhatsApp!');
-    console.log(asciiQR);
+    try {
+      console.log('\n🔗 Escaneie o QR Code para parear o WhatsApp!');
+      // Print ASCII QR if available (works well in terminals/logs)
+      if (asciiQR && String(asciiQR).trim()) {
+        console.log(asciiQR);
+      } else {
+        console.log('ℹ️ ASCII QR não disponível.');
+      }
+
+      // If base64 image is provided, print a data URI so you can copy/paste to view
+      if (base64Qr && String(base64Qr).trim()) {
+        // base64Qr may already be the raw base64 image or a data URI — normalize
+        const raw = String(base64Qr).trim();
+        const maybeDataUri = raw.startsWith('data:image') ? raw : `data:image/png;base64,${raw}`;
+        console.log('\n🔁 QR (data URI) — copie e cole em um navegador para visualizar:');
+        console.log(maybeDataUri);
+
+        // attempt to save to a temporary file so platforms like Railway can expose it in logs or allow download
+        try {
+          const tmpDir = os.tmpdir() || '/tmp';
+          const tmpPath = path.join(tmpDir, `wpp_qr_${sessionName}.png`);
+          // raw might be data URI or plain base64
+          const base64Only = maybeDataUri.split(',')[1] || maybeDataUri;
+          const buf = Buffer.from(base64Only, 'base64');
+          fs.writeFileSync(tmpPath, buf);
+          console.log(`🖼️ QR salvo temporariamente em: ${tmpPath}`);
+        } catch (saveErr) {
+          if (process.env.WPP_DEBUG_MATCH) console.log('⚠️ Não foi possível salvar QR temporário:', saveErr && saveErr.message ? saveErr.message : saveErr);
+        }
+      } else {
+        console.log('ℹ️ Base64 do QR não disponível.');
+      }
+    } catch (e) {
+      console.log('⚠️ Erro ao exibir QR:', e && e.message ? e.message : e);
+    }
   },
   statusFind: (statusSession) => {
     console.log(`📡 Status da sessão: ${statusSession}`);
@@ -632,14 +676,26 @@ wppconnect.create({
   // nunca enviemos para contatos que não estão explicitamente na sua lista filtrada.
   const allowedNumbers = new Set(contatos.map(c => normalizePhone(c.numero)).filter(Boolean));
   console.log(`ℹ️ Números autorizados carregados: ${allowedNumbers.size}`);
+  // If the process started before 13:00, wait until 13:00 local time to begin sending
+  const now = new Date();
+  if (now.getHours() < 13) {
+    const waitMs = msUntilNextHour(13);
+    console.log(`⏳ Processo iniciado antes das 13:00 — aguardando ${Math.round(waitMs/1000)}s até as 13:00 para iniciar envios.`);
+    await delay(waitMs);
+    console.log('▶️ Chegou 13:00 — iniciando envios.');
+  }
+
   for (const [i, contato] of contatos.entries()) {
     if (enviados >= MAX_OPA) {
       console.log(`🚦 Limite de ${MAX_OPA} mensagens 'opa' atingido. Parando envios.`);
       break;
     }
     if (!isWithinSendWindow()) {
-      console.log(`⏰ Fora do horário de envio (9h–18h). Pulando ${normalizarNomeContato(contato)}.`);
-      continue;
+      // If we're outside the sending window, wait until 13:00 next occurrence.
+      const waitMs = msUntilNextHour(13);
+      console.log(`⏰ Fora do horário de envio — aguardando ${Math.round(waitMs/1000)}s até as 13:00 para continuar...`);
+      await delay(waitMs);
+      // after waiting, re-evaluate the same contact (do not continue)
     }
     let skipDelay = false;
     const nomeBusca = removerAcentos(normalizarNomeContato(contato).toLowerCase().replace(/ +/g, ' ').trim());
@@ -860,7 +916,7 @@ wppconnect.create({
     if (skipDelay) {
       console.log('⏩ Pulando espera devido a falha / chat existente — seguindo para o próximo contato.');
     } else {
-      const espera = randomDelay(90000, 120000); // 1m30s a 2min
+  const espera = randomDelay(45000, 75000); // 45s a 1m15s
       console.log(`⏳ Aguardando ${Math.round(espera / 1000)} segundos antes do próximo envio...`);
       await delay(espera);
     }
