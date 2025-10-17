@@ -1,0 +1,52 @@
+name: Deploy to VPS via SSH
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Create archive (exclude tokens/node_modules/.git/.env)
+        run: |
+          tar --exclude='.git' --exclude='node_modules' --exclude='tokens' --exclude='.env' -czf deploy.tar.gz .
+
+      - name: Copy archive to server
+        uses: appleboy/scp-action@v0.1.5
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          port: ${{ secrets.SSH_PORT }}
+          source: deploy.tar.gz
+          target: ${{ secrets.REMOTE_DIR }}
+
+      - name: Extract and deploy on server
+        uses: appleboy/ssh-action@v0.1.9
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          port: ${{ secrets.SSH_PORT }}
+          script: |
+            set -e
+            mkdir -p "${{ secrets.REMOTE_DIR }}"
+            # extract the uploaded archive into the remote directory
+            tar -xzf "${{ secrets.REMOTE_DIR }}/deploy.tar.gz" -C "${{ secrets.REMOTE_DIR }}"
+            rm "${{ secrets.REMOTE_DIR }}/deploy.tar.gz"
+            cd "${{ secrets.REMOTE_DIR }}"
+            # install dependencies (best-effort) and restart the service
+            if [ -f package-lock.json ]; then
+              npm ci --production || true
+            else
+              npm install --production || true
+            fi
+            # attempt to restart a systemd service named 'chatbot' (adjust service name as needed)
+            sudo systemctl restart chatbot || true
+
+      - name: Cleanup archive
+        run: rm -f deploy.tar.gz || true
