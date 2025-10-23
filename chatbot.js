@@ -1,9 +1,9 @@
 // (agendamento do reprocessamento é criado dentro do escopo do client)
 // Janela de horário para envio da primeira mensagem (horário local do servidor)
 function isWithinSendWindow() {
-  const now = new Date();
-  const hour = now.getHours();
-  // Start sending only from 13:00 onward. Sending will keep running until MAX_OPA is reached.
+  // Use the configured target timezone to determine the current hour
+  const hour = getHourInTimeZone(TARGET_TIMEZONE);
+  // Start sending only from 13:00 onward in the target timezone
   return hour >= 13; // a partir das 13h (inclusive)
 }
 
@@ -24,6 +24,31 @@ const contatosData = require(path.join(__dirname, 'contatos_filtrados.json'));
 const contatos = Array.isArray(contatosData) ? contatosData : (contatosData && Array.isArray(contatosData.contatos) ? contatosData.contatos : []);
 const fs = require('fs');
 const os = require('os');
+// Timezone configuration: default to Sao Paulo
+const TARGET_TIMEZONE = process.env.BOT_TIMEZONE || 'America/Sao_Paulo';
+
+// Return the hour (0-23) in the given IANA time zone using Intl.
+function getHourInTimeZone(timeZone) {
+  try {
+    const dtf = new Intl.DateTimeFormat('en-US', { timeZone, hour12: false, hour: '2-digit' });
+    const parts = dtf.formatToParts(new Date());
+    const hourPart = parts.find(p => p.type === 'hour');
+    if (hourPart && hourPart.value) return Number(hourPart.value);
+  } catch (e) {
+    if (process.env.WPP_DEBUG_MATCH) console.log('⚠️ getHourInTimeZone failed:', e && e.message ? e.message : e);
+  }
+  // fallback to local hour
+  return new Date().getHours();
+}
+
+// Wait until the send window opens in the TARGET_TIMEZONE by polling every minute.
+async function waitUntilSendWindow() {
+  while (!isWithinSendWindow()) {
+    const hr = getHourInTimeZone(TARGET_TIMEZONE);
+    console.log(`⏳ Fora do horário de envio no fuso ${TARGET_TIMEZONE} (hora local lá: ${hr}) — verificando novamente em 60s.`);
+    await delay(60000); // check again in 60 seconds
+  }
+}
 
 // Configuráveis (podem ser sobrescritas via variáveis de ambiente)
 const FUZZY_SIMILARITY_THRESHOLD = process.env.FUZZY_SIMILARITY_THRESHOLD ? Number(process.env.FUZZY_SIMILARITY_THRESHOLD) : 0.65;
@@ -676,14 +701,9 @@ wppconnect.create({
   // nunca enviemos para contatos que não estão explicitamente na sua lista filtrada.
   const allowedNumbers = new Set(contatos.map(c => normalizePhone(c.numero)).filter(Boolean));
   console.log(`ℹ️ Números autorizados carregados: ${allowedNumbers.size}`);
-  // If the process started before 13:00, wait until 13:00 local time to begin sending
-  const now = new Date();
-  if (now.getHours() < 13) {
-    const waitMs = msUntilNextHour(13);
-    console.log(`⏳ Processo iniciado antes das 13:00 — aguardando ${Math.round(waitMs/1000)}s até as 13:00 para iniciar envios.`);
-    await delay(waitMs);
-    console.log('▶️ Chegou 13:00 — iniciando envios.');
-  }
+  // If the process started before 13:00 in TARGET_TIMEZONE, wait until the send window opens there
+  await waitUntilSendWindow();
+  console.log('▶️ Janela de envio aberta no fuso', TARGET_TIMEZONE, '— iniciando envios.');
 
   for (const [i, contato] of contatos.entries()) {
     if (enviados >= MAX_OPA) {
@@ -691,11 +711,9 @@ wppconnect.create({
       break;
     }
     if (!isWithinSendWindow()) {
-      // If we're outside the sending window, wait until 13:00 next occurrence.
-      const waitMs = msUntilNextHour(13);
-      console.log(`⏰ Fora do horário de envio — aguardando ${Math.round(waitMs/1000)}s até as 13:00 para continuar...`);
-      await delay(waitMs);
-      // after waiting, re-evaluate the same contact (do not continue)
+      // If we're outside the sending window (e.g., day turned), wait until the next opening in TARGET_TIMEZONE
+      await waitUntilSendWindow();
+      // after waiting, re-evaluate the same contact
     }
     let skipDelay = false;
     const nomeBusca = removerAcentos(normalizarNomeContato(contato).toLowerCase().replace(/ +/g, ' ').trim());
