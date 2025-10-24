@@ -315,6 +315,9 @@ wppconnect.create({
   headless: true,
   // disable automatic closing so the bot remains active to receive replies
   autoClose: false,
+  // Increase protocolTimeout to avoid Runtime.callFunctionOn timed out errors in slow environments
+  // Default raised to 300000 ms (5 minutes). Can be overridden with env PROTOCOL_TIMEOUT (milliseconds)
+  protocolTimeout: process.env.PROTOCOL_TIMEOUT ? Number(process.env.PROTOCOL_TIMEOUT) : 300000,
   catchQR: (base64Qr, asciiQR) => {
     try {
       console.log('\n🔗 Escaneie o QR Code para parear o WhatsApp!');
@@ -356,7 +359,13 @@ wppconnect.create({
     console.log(`📡 Status da sessão: ${statusSession}`);
   },
   puppeteerOptions: {
-    args: ['--no-sandbox']
+    // improve stability on small VPS / container environments
+    args: ['--no-sandbox','--disable-setuid-sandbox','--disable-dev-shm-usage'],
+    // disable Puppeteer launch timeout (0 = no timeout) or set via env PUPPETEER_LAUNCH_TIMEOUT
+    timeout: process.env.PUPPETEER_LAUNCH_TIMEOUT ? Number(process.env.PUPPETEER_LAUNCH_TIMEOUT) : 0,
+    // show browser stdout/stderr in logs for debugging (useful in CI / Railway)
+    dumpio: process.env.PUPPETEER_DUMPIO ? (process.env.PUPPETEER_DUMPIO === '1' || process.env.PUPPETEER_DUMPIO === 'true') : false,
+    defaultViewport: null
   }
 }).then(async (client) => {
   console.log('✅ Sessão conectada e pronta para enviar mensagens!');
