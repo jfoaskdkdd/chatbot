@@ -3,8 +3,8 @@
 function isWithinSendWindow() {
   // Use the configured target timezone to determine the current hour
   const hour = getHourInTimeZone(TARGET_TIMEZONE);
-  // Start sending only from 13:00 onward in the target timezone
-  return hour >= 13; // a partir das 13h (inclusive)
+  // Start sending only from 13:00 until before 18:00 in the target timezone
+  return hour >= 13 && hour < 18; // entre 13:00 (inclusive) e 18:00 (exclusive)
 }
 
 // Helpers to wait until a specific hour (local server time)
@@ -709,6 +709,11 @@ wppconnect.create({
     if (enviados >= MAX_OPA) {
       console.log(`🚦 Limite de ${MAX_OPA} mensagens 'opa' atingido. Parando envios.`);
       break;
+    }
+    // Debug: show current hour in TARGET_TIMEZONE before deciding to send
+    if (process.env.WPP_DEBUG_MATCH) {
+      const hr = getHourInTimeZone(TARGET_TIMEZONE);
+      console.log(`🔎 Hora atual em ${TARGET_TIMEZONE}: ${hr}h — isWithinSendWindow()=${isWithinSendWindow()}`);
     }
     if (!isWithinSendWindow()) {
       // If we're outside the sending window (e.g., day turned), wait until the next opening in TARGET_TIMEZONE
